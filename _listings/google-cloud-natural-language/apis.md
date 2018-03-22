@@ -16,9 +16,9 @@ tags:
 - Natural Language
 - Machine Learning
 - Google APIs
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/entities/master/_listings/google-cloud-natural-language/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/google-cloud-natural-language/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Google Cloud Natural Language API
@@ -30,7 +30,7 @@ apis:
   tags: Entities
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/entities/master/_listings/google-cloud-natural-language/v1-documents-analyzeentities-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/google-cloud-natural-language/v1-documents-analyzeentities-post.md
 x-common:
 - type: x-change-log
   url: https://cloud.google.com/natural-language/release-notes
