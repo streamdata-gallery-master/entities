@@ -13,9 +13,9 @@ tags:
 - Recovery
 - Microsoft
 - Backup
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/entities/master/_listings/azure-recovery-services/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Azure Recovery Service API
@@ -27,7 +27,7 @@ apis:
   tags: Entities
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/entities/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-registeredidentities-identityname-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/entities/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-registeredidentities-identityname-delete.md
 x-common:
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/site-recovery/
