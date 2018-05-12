@@ -54,7 +54,7 @@ title: Streamdata.io API Gallery
     {% assign organizations = site.data.organizations | sort: 'label' %}
     <ul id="double" style="padding-top: 10px; padding-left: 20px;">
       {% for organization in organizations %}
-        <li>&rarr; <a href="{{ organization.url }}" target="_blank">{{ organization.label }}</a></li>
+        <li>&rarr; <a href="{{ organization.url }}">{{ organization.label }}</a></li>
       {% endfor %}
     </ul>
   </div>
