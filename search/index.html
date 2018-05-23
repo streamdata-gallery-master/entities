@@ -27,7 +27,7 @@ title: Streamdata.io API Gallery - API Lifecycle
       search_keywords = document.getElementById('search_keywords').value;
       console.log("searching for: " + search_keywords);
 
-      var response = jQuery.ajax({
+      jQuery.ajax({
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
          method: "get",
          success:function(entities){
@@ -40,7 +40,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_url = $rowEntry['url'];
                   entity_image = $rowEntry['image'];
 
-                  var response2 = jQuery.ajax({
+                  jQuery.ajax({
                      url: 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md',
                      method: "get",
                      success:function(apisjson_index_response){
