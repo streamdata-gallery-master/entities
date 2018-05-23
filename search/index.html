@@ -40,8 +40,11 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_url = $rowEntry['url'];
                   entity_image = $rowEntry['image'];
 
+                  $pull_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
+                  console.log($pull_url);
+
                   jQuery.ajax({
-                     url: 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md',
+                     url: $pull_url,
                      method: "get",
                      success:function(apisjson_index_response){
 
