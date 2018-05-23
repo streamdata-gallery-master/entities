@@ -22,7 +22,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
   <p align="center"><strong>There Are {{ entity_count }} Entities Within {{ tag_count }} Stops Along The Lifecycle</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
-       <h2 style="padding: 10px; font-size 24px;">{{ item[0] }}</h2>
+       <p style="padding: 10px; font-size 24px;">{{ item[0] }}</p>
        <ul style="padding-left: 15px;">
        {% for listing in item[1] %}
           <li style="margin-left: 15px; padding-left: 15px; list-style: circle;"> - <a href="{{ listing.website }}"><strong>{{ listing.name }}</strong></a> - {{ listing.details }}{% if listing.twitter != '' %} (<a href="{{ listing.twitter }}"><strong>@twitter</strong></a>){% endif %}{% if listing.github != '' %} (<a href="{{ listing.github }}"><strong>@github</strong></a>){% endif %}</li>
