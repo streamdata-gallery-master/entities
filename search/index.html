@@ -30,7 +30,7 @@ title: Streamdata.io API Gallery - API Lifecycle
       var response = jQuery.ajax({
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
          method: "get",
-         success:function(response){
+         success:function(entities){
 
               console.log("successfully pulled");
               $yaml_index = jsyaml.load(entities);
