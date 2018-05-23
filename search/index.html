@@ -53,14 +53,14 @@ title: Streamdata.io API Gallery - API Lifecycle
                   var response2 = jQuery.ajax({
                      url: apisjson_index_url,
                      method: "get",
-                     success:function(response){
+                     success:function(apisjson_index_response){
 
-                          response = response.replace("---","");
-                          response = response.replace("---","");
+                          //response = apisjson_index_response.replace("---","");
+                          //response = apisjson_index_response.replace("---","");
 
                           try
                             {
-                            $yaml_index_2 = jsyaml.load(response);
+                            $yaml_index_2 = jsyaml.load(apisjson_index_response);
 
                             apis_json_name = $yaml_index_2['name'];
                             apis_json_description = $yaml_index_2['description'];
