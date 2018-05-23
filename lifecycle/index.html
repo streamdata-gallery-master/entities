@@ -22,7 +22,7 @@ title: Streamdata.io API Gallery - API Lifecycle
   <p align="center"><strong>There Are {{ entity_count }} Entities Within {{ tag_count }} Stops Along The Lifecycle</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
-       <p style="padding: 10px; font-size 34px; font-weight: bold;"><strong>{{ item[0] }}</strong></p>
+       <p style="padding: 10px; font-size 44px; font-weight: bold;"><strong>{{ item[0] }}</strong></p>
        <ul style="padding-left: 15px;">
        {% for listing in item[1] %}
           <li style="padding: 4px; list-style: circle;"> - <a href="{{ listing.website }}" style="color:#000;"><strong>{{ listing.name }}</strong></a> (<a href="{{ listing.website }}"><strong>website</strong></a>){% if listing.twitter != '' %} (<a href="{{ listing.twitter }}"><strong>@twitter</strong></a>){% endif %}{% if listing.github != '' %} (<a href="{{ listing.github }}"><strong>@github</strong></a>){% endif %} - {{ listing.details }}</li>
