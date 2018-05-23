@@ -10,8 +10,11 @@ collections:
   listings:
     output: true
     permalink: /listings/:path/
+  listings:
+    output: true
+    permalink: /data/:path/
 defaults:
   - scope:
-      type: listings
+      type: data
     values:
-      layout: listings
+      layout: data
