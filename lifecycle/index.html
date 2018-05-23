@@ -18,7 +18,12 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
   <p align="center"><strong>There Are {{ entity_count }} Entities Being Profiled Currently</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
-       HERE - {{ item }}<br />
+       <p><strong>{{ item[0] }}</strong></p>
+       <ul>
+       {% for listing in item[1] %}
+          <li>{{ listing.label }}</li>
+       {% endfor %}
+     </ul>
     {% endfor %}
   </div>
 
