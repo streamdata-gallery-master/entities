@@ -21,7 +21,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
        <p><strong>{{ item[0] }}</strong></p>
        <ul>
        {% for listing in item[1] %}
-          <li>{{ listing.label }}</li>
+          <li><strong>{{ listing.label }}</strong> - {{ listing.details }}</li>
        {% endfor %}
      </ul>
     {% endfor %}
