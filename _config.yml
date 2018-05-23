@@ -6,15 +6,3 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 github_user: streamdata-gallery
 github_repo: template
 github_branch: master
-collections:
-  listings:
-    output: true
-    permalink: /listings/:path/
-  listings:
-    output: true
-    permalink: /data/:path/
-defaults:
-  - scope:
-      type: data
-    values:
-      layout: data
