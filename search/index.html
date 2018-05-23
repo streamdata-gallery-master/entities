@@ -53,9 +53,12 @@ title: Streamdata.io API Gallery - API Lifecycle
                      method: "get",
                      success:function(response){
 
-                          $yaml_index_2 = jsyaml.load(response2);
+                          //response = response.replace("---","");
+                          //response = response.replace("---","");
 
-                          console.log("HERE: " + $yaml_index_2[0]);
+                          $yaml_index_2 = jsyaml.load(response);
+
+                          console.log("HERE 2: " + $yaml_index_2[0]);
 
                           apis_json_name = $yaml_index_2[0]['name'];
                           apis_json_description = $yaml_index_2[0]['description'];
