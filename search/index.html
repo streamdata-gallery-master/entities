@@ -45,13 +45,13 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                   // Begin spidering of all entities
 
-                  apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
+                  //apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
 
                   console.log("searching... " + entity_label);
-                  console.log("at URL... " + apisjson_index_url);
+                  //console.log("at URL... " + apisjson_index_url);
 
                   var response2 = jQuery.ajax({
-                     url: apisjson_index_url,
+                     url: 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md',
                      method: "get",
                      success:function(apisjson_index_response){
 
