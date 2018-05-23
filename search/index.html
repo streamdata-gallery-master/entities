@@ -55,9 +55,18 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                           $yaml_index_2 = jsyaml.load(response2);
 
-                          jQuery.each($yaml_index_2, function($rowKey2, $rowEntry2) {
+                          apis_json_name = $yaml_index_2[0]['name'];
+                          apis_json_description = $yaml_index_2[0]['description'];
 
-                              console.log($rowKey2 + " = " + $rowEntry2);
+                          console.log("api.json:" + apis_json_name + ' = ' + apis_json_description);
+
+                          jQuery.each($yaml_index_2[0]['apis'], function($rowKey2, $rowEntry2) {
+
+                              //console.log($rowKey + " = " + $rowEntry);
+                              apis_name = $rowEntry2['name'];
+                              apis_description = $rowEntry2['url'];
+
+                              console.log("api:" + apis_name + ' = ' + apis_description);
 
                             });
 
