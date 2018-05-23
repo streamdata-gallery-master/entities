@@ -90,17 +90,17 @@ title: Streamdata.io API Gallery - API Lifecycle
                                   {
                                   // Just APIs for now.
                                   console.log("api:" + apis_name + ' = ' + apis_description);
-                                  console.log("3:" + $search_apis_name);
-                                  console.log("3:" + $search_apis_description);
+                                  //console.log("3:" + $search_apis_name);
+                                  //console.log("3:" + $search_apis_description);
 
-                                  html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">';
+                                  html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-1">';
                                   html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                                   html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
-                                  html = html + '<a href="{{ item.url }}"><img src="' + apis_json_image + '" class="taggedLinkCard__image" alt=""></a>';
+                                  html = html + '<a href="#"><img src="' + apis_json_image + '" class="taggedLinkCard__image" alt=""></a>';
                                   html = html + '</div>';
                                   html = html + '<div class="taggedLinkCard__lower">';
                                   html = html + '<div class="taggedLinkCard__copy">';
-                                  html = html + '<h3 class="taggedLinkCard__title"><a href="{{ item.url }}">' + apis_name + '</a></h3>';
+                                  html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + apis_name + '</a></h3>';
                                   html = html + '<p class="taggedLinkCard__body">' + apis_name + '</p>';
                                   html = html + '</div>';
                                   html = html + '</div>';
@@ -123,7 +123,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
                           //console.log("Status: " + textStatus);
-                          console.log("Error: " + errorThrown);
+                          //console.log("Error: " + errorThrown);
                           console.log("COULD NOT RESOLVE: " + apisjson_index_url);
                       }
                   });
