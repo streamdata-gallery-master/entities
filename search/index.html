@@ -64,15 +64,17 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                             apis_json_name = $yaml_index_2['name'];
                             apis_json_description = $yaml_index_2['description'];
+                            apis_json_image = $yaml_index_2['image'];
 
                             $search_apis_json_name = apis_json_name.search(search_keywords);
                             $search_apis_json_description = apis_json_description.search(search_keywords);
 
                             if($search_apis_json_name > 1 && $search_apis_json_description > 1)
                               {
-                              console.log("api.json:" + apis_json_name + ' = ' + apis_json_description);
-                              console.log("1:" + $search_apis_json_name);
-                              console.log("2:" + $search_apis_json_description);
+                              //console.log("api.json:" + apis_json_name + ' = ' + apis_json_description);
+                              //console.log("1:" + $search_apis_json_name);
+                              //console.log("2:" + $search_apis_json_description);
+                              // Wht to do with entit searcH???
                               }
 
                             jQuery.each($yaml_index_2['apis'], function($rowKey2, $rowEntry2) {
@@ -86,9 +88,27 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                                 if($search_apis_name > 1 && $search_apis_description > 1)
                                   {
+                                  // Just APIs for now.
                                   console.log("api:" + apis_name + ' = ' + apis_description);
                                   console.log("3:" + $search_apis_name);
                                   console.log("3:" + $search_apis_description);
+
+                                  html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">';
+                                  html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
+                                  html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
+                                  html = html + '<a href="{{ item.url }}"><img src="' + apis_json_image + '" class="taggedLinkCard__image" alt=""></a>';
+                                  html = html + '</div>';
+                                  html = html + '<div class="taggedLinkCard__lower">';
+                                  html = html + '<div class="taggedLinkCard__copy">';
+                                  html = html + '<h3 class="taggedLinkCard__title"><a href="{{ item.url }}">' + apis_name + '</a></h3>';
+                                  html = html + '<p class="taggedLinkCard__body">' + apis_name + '</p>';
+                                  html = html + '</div>';
+                                  html = html + '</div>';
+                                  html = html + '</div>';
+                                  html = html + '</div>';
+
+                                  //document.getElementById('listing')
+                                  $("#listing").append(html);
                                   }
 
                               });
