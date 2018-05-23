@@ -1,3 +1,4 @@
+---
 - label: 1Forge
   slug: 1forge
   url: http://1forge.api.gallery.streamdata.io
@@ -29,6 +30,7 @@
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
   description: The gallery section containing Amadeus APIs.
   paths: 23
+  paths: 14
 - label: AngelList
   slug: angellist
   url: http://angellist.api.gallery.streamdata.io
@@ -54,8 +56,8 @@
   description: The gallery section containing APImetrics APIs.
   paths: 37
 - label: APIs.io
-  slug: apisio
-  url: http://apisio.api.gallery.streamdata.io
+  slug: apis-io
+  url: http://apis.io.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/95-apis-io.jpg
   description: The gallery section containing APIs.io APIs.
   paths: 4
@@ -78,8 +80,8 @@
   description: The gallery section containing AWS API Gateway APIs.
   paths: 55
 - label: AWS AppStream 2.0
-  slug: aws-appstream-20
-  url: http://aws.appstream.20.api.gallery.streamdata.io
+  slug: aws-appstream-2-0
+  url: http://aws.appstream.2.0.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/appstream2_try_it_now_2_big.png
   description: The gallery section containing AWS AppStream 2.0 APIs.
   paths: 18
@@ -775,8 +777,8 @@
   description: The gallery section containing CloudFlare APIs.
   paths: 86
 - label: Code.gov
-  slug: codegov
-  url: http://codegov.api.gallery.streamdata.io
+  slug: code-gov
+  url: http://code.gov.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-gov-logo.jpg
   description: The gallery section containing Code.gov APIs.
   paths: 12
@@ -793,8 +795,8 @@
   description: The gallery section containing Danske Bank APIs.
   paths: 5
 - label: Data.Gov
-  slug: datagov
-  url: http://datagov.api.gallery.streamdata.io
+  slug: data-gov
+  url: http://data.gov.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data-gov-logo.png
   description: The gallery section containing Data.Gov APIs.
   paths: 156
@@ -880,7 +882,7 @@
 - label: Europeana
   slug: europeana
   url: http://europeana.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/europeana-logo.jpeg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/777-europeana.jpg
   description: The gallery section containing Europeana APIs.
   paths: 13
 - label: Eventbrite
@@ -932,8 +934,8 @@
   description: The gallery section containing Foursquare APIs.
   paths: 2
 - label: Freesound.org
-  slug: freesoundorg
-  url: http://freesoundorg.api.gallery.streamdata.io
+  slug: freesound-org
+  url: http://freesound.org.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Freesound_project_website_logo.png
   description: The gallery section containing Freesound.org APIs.
   paths: 2
@@ -952,7 +954,7 @@
 - label: Getty Images
   slug: getty-images
   url: http://getty.images.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/getty-images.jpeg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1013-getty-images.jpg
   description: The gallery section containing Getty Images APIs.
   paths: 43
 - label: Giphy
@@ -980,8 +982,8 @@
   description: The gallery section containing Gmail APIs.
   paths: 62
 - label: Go.USA.Gov
-  slug: gousagov
-  url: http://gousagov.api.gallery.streamdata.io
+  slug: go-usa-gov
+  url: http://go.usa.gov.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png
   description: The gallery section containing Go.USA.Gov APIs.
   paths: 4
@@ -1422,7 +1424,7 @@
 - label: Gumroad
   slug: gumroad
   url: http://gumroad.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gumroad.jpeg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1067-gumroad.jpg
   description: The gallery section containing Gumroad APIs.
   paths: 22
 - label: Halifax Bank
@@ -1432,8 +1434,8 @@
   description: The gallery section containing Halifax Bank APIs.
   paths: 3
 - label: Healthcare.gov
-  slug: healthcaregov
-  url: http://healthcaregov.api.gallery.streamdata.io
+  slug: healthcare-gov
+  url: http://healthcare.gov.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
   description: The gallery section containing Healthcare.gov APIs.
   paths: 16
@@ -1590,7 +1592,7 @@
 - label: OpenCorporates
   slug: opencorporates
   url: http://opencorporates.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OpenCorporates.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg
   description: The gallery section containing OpenCorporates APIs.
   paths: 12
 - label: OpenDNS
@@ -1638,7 +1640,7 @@
 - label: Plivo
   slug: plivo
   url: http://plivo.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plivo-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1113-plivo.jpg
   description: The gallery section containing Plivo APIs.
   paths: 3
 - label: Product Hunt
@@ -1666,8 +1668,8 @@
   description: The gallery section containing Reddit APIs.
   paths: 95
 - label: Regulations.gov
-  slug: regulationsgov
-  url: http://regulationsgov.api.gallery.streamdata.io
+  slug: regulations-gov
+  url: http://regulations.gov.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/regulations-gov-logo.png
   description: The gallery section containing Regulations.gov APIs.
   paths: 3
@@ -1702,8 +1704,8 @@
   description: The gallery section containing SendGrid APIs.
   paths: 245
 - label: Sensr.net
-  slug: sensrnet
-  url: http://sensrnet.api.gallery.streamdata.io
+  slug: sensr-net
+  url: http://sensr.net.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/924-sensr-net.jpg
   description: The gallery section containing Sensr.net APIs.
   paths: 3
@@ -1746,7 +1748,7 @@
 - label: Spotify
   slug: spotify
   url: http://spotify.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/spotify-green-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1165-spotify.jpg
   description: The gallery section containing Spotify APIs.
   paths: 37
 - label: Square
@@ -1768,15 +1770,15 @@
   description: The gallery section containing Standard Chartered APIs.
   paths: 10
 - label: StatusPage.io
-  slug: statuspageio
-  url: http://statuspageio.api.gallery.streamdata.io
+  slug: statuspage-io
+  url: http://statuspage.io.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18898-statuspage-io.jpg
   description: The gallery section containing StatusPage.io APIs.
   paths: 41
 - label: StockTwits
   slug: stocktwits
   url: http://stocktwits.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stocktwits-logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/944-stocktwits.jpg
   description: The gallery section containing StockTwits APIs.
   paths: 1
 - label: Stride
@@ -1834,8 +1836,8 @@
   description: The gallery section containing Tyk APIs.
   paths: 18
 - label: U.S. Digital Registry
-  slug: us-digital-registry
-  url: http://us.digital.registry.api.gallery.streamdata.io
+  slug: u-s--digital-registry
+  url: http://u.s..digital.registry.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/digital-gov-logo.jpeg
   description: The gallery section containing U.S. Digital Registry APIs.
   paths: 13
@@ -1852,8 +1854,8 @@
   description: The gallery section containing Ulster Bank APIs.
   paths: 5
 - label: USA.Gov Corporate Consumer Contact Information
-  slug: usagov-corporate-consumer-contact-information
-  url: http://usagov.corporate.consumer.contact.information.api.gallery.streamdata.io
+  slug: usa-gov-corporate-consumer-contact-information
+  url: http://usa.gov.corporate.consumer.contact.information.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png
   description: The gallery section containing USA.Gov Corporate Consumer Contact Information
     APIs.
@@ -1879,14 +1881,14 @@
 - label: Washington Metropolitan Area Transit Authority
   slug: washington-metropolitan-area-transit-authority
   url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/metro-developers.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1214-washington-metropolitan-area-transit-authority.jpg
   description: The gallery section containing Washington Metropolitan Area Transit
     Authority APIs.
   paths: 41
 - label: Weather Underground
   slug: weather-underground
   url: http://weather.underground.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/966_logo.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/966-weather-underground.jpg
   description: The gallery section containing Weather Underground APIs.
   paths: 6
 - label: Weatherbit
@@ -1913,3 +1915,4 @@
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
   description: The gallery section containing YouTube APIs.
   paths: 134
+...
