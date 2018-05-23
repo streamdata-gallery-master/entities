@@ -850,7 +850,7 @@
 - label: DuckDuckGo
   slug: duckduckgo
   url: http://duckduckgo.api.gallery.streamdata.io
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/581-duckduckgo.jpg
   description: The gallery section containing DuckDuckGo APIs.
   paths: 1
 - label: Dyn
