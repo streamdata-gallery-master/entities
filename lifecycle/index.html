@@ -23,9 +23,9 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
        <h2 style="padding: 10px;">{{ item[0] }}</h2>
-       <ul>
+       <ul style="padding-left: 15px;">
        {% for listing in item[1] %}
-          <li style="margin-left: 10px; list-style: circle;"><strong>{{ listing.name }}</strong> - {{ listing.details }}</li>
+          <li style="margin-left: 15px; padding-left: 15px; list-style: circle;"><strong>{{ listing.name }}</strong> - {{ listing.details }}</li>
        {% endfor %}
      </ul>
     {% endfor %}
