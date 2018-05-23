@@ -22,7 +22,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
   <p align="center"><strong>There Are {{ entity_count }} Within {{ tag_count }} Stops Along The Lifecycle</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
-       <h2>{{ item[0] }}</h2>
+       <h2 style="padding: 10px;">{{ item[0] }}</h2>
        <ul>
        {% for listing in item[1] %}
           <li style="margin-left: 10px; list-style: circle;"><strong>{{ listing.name }}</strong> - {{ listing.details }}</li>
