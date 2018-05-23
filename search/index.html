@@ -107,9 +107,10 @@ title: Streamdata.io API Gallery - API Lifecycle
                                   html = html + '</div>';
                                   html = html + '</div>';
 
-                                  //document.getElementById('listing')
-                                  $("#searchlisting").append(html);
                                   console.log("Appending: " + html);
+                                  //$("#searchlisting").append(html);
+                                  document.getElementById("searchlisting").appendChild(html);
+                                  //console.log("Appending: " + html);
                                   }
 
                               });
