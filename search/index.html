@@ -32,10 +32,10 @@ title: Streamdata.io API Gallery - API Lifecycle
          method: "get",
          success:function(entities){
 
-              console.log("successfully pulled");
+              console.log("successfully pulled 1");
               $yaml_index = jsyaml.load(entities);
 
-              console.log($yaml_index);
+              //console.log($yaml_index);
               jQuery.each($yaml_index, function($rowKey, $rowEntry) {
 
                   //console.log($rowKey + " = " + $rowEntry);
