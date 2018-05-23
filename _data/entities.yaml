@@ -29,12 +29,6 @@
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28139-sandbox-amadeus-com.jpg
   description: The gallery section containing Amadeus APIs.
   paths: 23
-- label: Amazon.com
-  slug: amazoncom
-  url: http://amazoncom.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/23253-aws-cloudtrail.jpg
-  description: The gallery section containing Amazon.com APIs.
-  paths: 14
 - label: AngelList
   slug: angellist
   url: http://angellist.api.gallery.streamdata.io
