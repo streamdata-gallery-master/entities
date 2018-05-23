@@ -27,7 +27,7 @@ title: Streamdata.io API Gallery - API Lifecycle
       search_keywords = document.getElementById('search_keywords').value;
       console.log("searching for: " + search_keywords);
 
-      var response = $.ajax({
+      var response = jQuery.ajax({
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
          method: "get",
          success:function(response){
