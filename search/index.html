@@ -96,13 +96,14 @@ title: Streamdata.io API Gallery - API Lifecycle
                             }
                           catch(err)
                             {
-                              console.log("BAD YAML: " + response);
+                              console.log("BAD YAML FOR: " + entity_label);
                             }
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
                           //console.log("Status: " + textStatus);
                           console.log("Error: " + errorThrown);
+                          console.log("COULD NOT RESOLVE: " + apisjson_index_url);
                       }
                   });
                   // End spidering of all entities
