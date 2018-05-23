@@ -108,7 +108,8 @@ title: Streamdata.io API Gallery - API Lifecycle
                                   html = html + '</div>';
 
                                   //document.getElementById('listing')
-                                  $("#listing").append(html);
+                                  $("#searchlisting").append(html);
+                                  console.log("Appending: " + html);
                                   }
 
                               });
@@ -147,7 +148,7 @@ title: Streamdata.io API Gallery - API Lifecycle
     </form>
   </center>
   <hr />
-  <div class="taggedLinkCards__cards" id="listing">
+  <div class="taggedLinkCards__cards" id="searchlisting">
     [RESULTS!]
   </div>
 </section>
