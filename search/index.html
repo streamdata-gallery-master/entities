@@ -50,11 +50,11 @@ title: Streamdata.io API Gallery - API Lifecycle
                   jQuery.ajax({
                      url: $pull_url[$rowKey],
                      method: "get",
-                     success:function(apisjson_index_response[$rowKey]){
+                     success:function(apisjson_index_response){
 
-                          apisjson_index_response[$rowKey] = apisjson_index_response[$rowKey].replace("---","");
-                          apisjson_index_response[$rowKey] = apisjson_index_response[$rowKey].replace("---","");
-                          $yaml_index_2[$rowKey] = jsyaml.load(apisjson_index_response[$rowKey]);
+                          apisjson_index_response = apisjson_index_response.replace("---","");
+                          apisjson_index_response = apisjson_index_response.replace("---","");
+                          $yaml_index_2 = jsyaml.load(apisjson_index_response);
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
