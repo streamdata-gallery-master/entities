@@ -56,6 +56,17 @@ title: Streamdata.io API Gallery - API Lifecycle
                           apisjson_index_response = apisjson_index_response.replace("---","");
                           yaml_index_2 = jsyaml.load(apisjson_index_response);
 
+                          jQuery.each(yaml_index_2['apis'], function(rowKey2, rowEntry2) {
+
+                              //console.log($rowKey2 + " = " + $rowEntry2);
+
+                              apis_name = rowEntry2['name'];
+                              apis_description = rowEntry2['description'];
+                              apis_slug = rowEntry2['x-api-slug'];
+                              console.log(apis_name);
+
+                            });
+
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
                           console.log('COULD NOT RESOLVE: ' + pull_url[rowKey]);
