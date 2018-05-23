@@ -11,7 +11,7 @@ title: Streamdata.io API Gallery - Entities
 
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in site.organizations %}
-       <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" verb="{{ verb }}" rank="{{ api_json_kin_rank }}" id="api-{% increment counter %}">
+       <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">
           <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
              <div class="taggedLinkCard__upper" style="background-color:#FFF;">
                 <a href="https://github.com/streamdata-gallery-organizations/{{ item.slug }}"><img src="{{ item.image }}" class="taggedLinkCard__image" alt=""></a>
