@@ -42,8 +42,9 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_image = $rowEntry['image'];
 
                   // Begin spidering of all entities
-                  apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/apis.yaml';
-      
+
+                  apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
+
                   console.log("searching... " + entity_label);
                   console.log("at... " + apisjson_index_url);
 
@@ -53,46 +54,23 @@ title: Streamdata.io API Gallery - API Lifecycle
                      success:function(response){
 
                           $yaml_index_2 = jsyaml.load(response2);
+
                           //console.log($yaml_index);
+                          apis_json_name = $yaml_index_2['name'];
+                          apis_json_description = $yaml_index_2['description'];
 
-                          jQuery.each($yaml_index_2['include'], function($rowKey2, $rowEntry2) {
+                          console.log("api.json:" + apis_json_name + ' = ' + apis_json_description);
 
-                              apis_json_name = $rowEntry2['name'];
-                              apis_json_url = $rowEntry2['url'];
-                              apis_json_url = apis_json_url.replace(".yaml", ".md");
+                          jQuery.each($yaml_index_2['apis'], function($rowKey2, $rowEntry2) {
 
-                              console.log(apis_json_name + ' = ' + apis_json_url);
+                              //console.log($rowKey + " = " + $rowEntry);
+                              apis_name = $rowEntry2['name'];
+                              apis_description = $rowEntry2['url'];
 
-                              // Begin spidering of all entities
-                              var response2 = jQuery.ajax({
-                                 url: apis_json_url,
-                                 method: "get",
-                                 success:function(response){
-                                      //console.log("successfully pulled");
-                                      $yaml_index_3 = jsyaml.load(response2);
-                                      //console.log($yaml_index);
-
-                                      apis_json_name = $yaml_index_3['name'];
-                                      apis_json_description = $yaml_index_3['description'];
-
-                                      jQuery.each($yaml_index_3['apis'], function($rowKey3, $rowEntry3) {
-                                          //console.log($rowKey + " = " + $rowEntry);
-                                          apis_name = $rowEntry3['name'];
-                                          apis_description = $rowEntry3['url'];
-
-                                          console.log(apis_name + ' = ' + apis_description);
-
-                                        });
-                                  },
-                                  error: function(XMLHttpRequest, textStatus, errorThrown) {
-                                      console.log("Status: " + textStatus);
-                                      console.log("Error: " + errorThrown);
-                                  }
-                              });
-                              // End spidering of all entities
-                              console.log("-------------------");
+                              console.log("api:" + apis_name + ' = ' + apis_description);
 
                             });
+
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
                           console.log("Status: " + textStatus);
