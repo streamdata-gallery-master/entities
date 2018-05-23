@@ -61,16 +61,14 @@ title: Streamdata.io API Gallery - API Lifecycle
                               apis_slug = rowEntry2['x-api-slug'];
                               //console.log(apis_name);
 
-                              $search_apis_name = apis_name.search(search_keywords);
-                              $search_apis_description = apis_description.search(search_keywords);
+                              search_apis_name = apis_name.search(search_keywords);
+                              search_apis_description = apis_description.search(search_keywords);
 
-                              if($search_apis_name > 1 && $search_apis_description > 1)
+                              if(search_apis_name > 1 && search_apis_description > 1)
                                 {
 
                                 // Just APIs for now.
                                 console.log("api:" + apis_name + ' = ' + apis_description + ' - ' + apis_slug);
-                                //console.log("3:" + $search_apis_name);
-                                //console.log("3:" + $search_apis_description);
 
                                 var searchdiv = document.createElement("div");
                                 searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
