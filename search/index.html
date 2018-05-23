@@ -38,7 +38,7 @@ title: Streamdata.io API Gallery - API Lifecycle
               jQuery.each(jsyaml.load(entities), function($rowKey, $rowEntry) {
 
 
-                  console.log('row: '+$rowKey);
+                  //console.log('row: '+$rowKey);
                   entity_label = $rowEntry['label'];
                   entity_slug = $rowEntry['slug'];
                   entity_url = $rowEntry['url'];
@@ -58,7 +58,7 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
-                          console.log('COULD NOT RESOLVE: ' + $pull_url);
+                          console.log('COULD NOT RESOLVE: ' + $pull_url[$rowKey]);
                       }
                   });
                   // End spidering of all entities
