@@ -19,8 +19,7 @@
 - label: Alpha Vantage
   slug: alpha-vantage
   url: http://alpha.vantage.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2018-01-22 at 4.52.35 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-22 at 4.52.35 PM.png'
   description: The gallery section containing Alpha Vantage APIs.
   paths: 24
 - label: Amadeus
@@ -387,8 +386,7 @@
 - label: AWS Shield
   slug: aws-shield
   url: http://aws.shield.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2016-12-30 at 10.35.48 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2016-12-30 at 10.35.48 PM.png'
   description: The gallery section containing AWS Shield APIs.
   paths: 9
 - label: AWS Simple Email Service
@@ -802,8 +800,7 @@
 - label: DataAtWork
   slug: dataatwork
   url: http://dataatwork.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2016-10-12 at 11.19.25 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2016-10-12 at 11.19.25 PM.png'
   description: The gallery section containing DataAtWork APIs.
   paths: 13
 - label: Datadog
@@ -1007,8 +1004,7 @@
 - label: Google API Discovery Service
   slug: google-api-discovery-service
   url: http://google.api.discovery.service.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-16 at 9.06.47 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 9.06.47 PM.png'
   description: The gallery section containing Google API Discovery Service APIs.
   paths: 2
 - label: Google App Engine
@@ -1044,8 +1040,7 @@
 - label: Google Books
   slug: google-books
   url: http://google.books.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-16 at 4.28.26 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 4.28.26 PM.png'
   description: The gallery section containing Google Books APIs.
   paths: 48
 - label: Google Calendar
@@ -1112,22 +1107,19 @@
   slug: google-cloud-identity-access-management
   url: http://google.cloud.identity.access.management.api.gallery.streamdata.io
   image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png'
-  description: The gallery section containing Google Cloud Identity Access Management
-    APIs.
+  description: The gallery section containing Google Cloud Identity Access Management APIs.
   paths: 13
 - label: Google Cloud Key Management Service
   slug: google-cloud-key-management-service
   url: http://google.cloud.key.management.service.api.gallery.streamdata.io
   image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png'
-  description: The gallery section containing Google Cloud Key Management Service
-    APIs.
+  description: The gallery section containing Google Cloud Key Management Service APIs.
   paths: 17
 - label: Google Cloud Machine Learning Engine
   slug: google-cloud-machine-learning-engine
   url: http://google.cloud.machine.learning.engine.api.gallery.streamdata.io
   image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-ml.png'
-  description: The gallery section containing Google Cloud Machine Learning Engine
-    APIs.
+  description: The gallery section containing Google Cloud Machine Learning Engine APIs.
   paths: 13
 - label: Google Cloud Natural Language
   slug: google-cloud-natural-language
@@ -1240,8 +1232,7 @@
 - label: Google Fonts
   slug: google-fonts
   url: http://google.fonts.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-17 at 8.18.48 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-17 at 8.18.48 PM.png'
   description: The gallery section containing Google Fonts APIs.
   paths: 1
 - label: Google Fusion Tables
@@ -1259,8 +1250,7 @@
 - label: Google Glass
   slug: google-glass
   url: http://google.glass.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-16 at 11.10.43 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 11.10.43 PM.png'
   description: The gallery section containing Google Glass APIs.
   paths: 24
 - label: Google Knowledge Graph Search
@@ -1326,14 +1316,13 @@
 - label: Google Search Console
   slug: google-search-console
   url: http://google.search.console.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/subdomains-google-webmaster-tools-13960.gif
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/subdomains-google-webmaster-tools-13960.gif'
   description: The gallery section containing Google Search Console APIs.
   paths: 14
 - label: Google Service Control
   slug: google-service-control
   url: http://google.service.control.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-17 at 3.49.30 PM.png'
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-17 at 3.49.30 PM.png'
   description: The gallery section containing Google Service Control APIs.
   paths: 6
 - label: Google Service Management
@@ -1411,7 +1400,7 @@
 - label: Groupon
   slug: groupon
   url: http://groupon.api.gallery.streamdata.io
-  image: 'http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groupon_logo.png'/320px-Groupon_logo.png'
+  image: 'http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groupon_logo.png'
   description: The gallery section containing Groupon APIs.
   paths: 12
 - label: GSA Per Diem API
@@ -1801,7 +1790,7 @@
 - label: System Award Management
   slug: system-award-management
   url: http://system.award.management.api.gallery.streamdata.io
-  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/53aa67a8-caec-11e3-9248-37414d200130.gif
+  image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/53aa67a8-caec-11e3-9248-37414d200130.gif'
   description: The gallery section containing System Award Management APIs.
   paths: 1
 - label: The Guardian
@@ -1856,8 +1845,7 @@
   slug: usa-gov-corporate-consumer-contact-information
   url: http://usa.gov.corporate.consumer.contact.information.api.gallery.streamdata.io
   image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png'
-  description: The gallery section containing USA.Gov Corporate Consumer Contact Information
-    APIs.
+  description: The gallery section containing USA.Gov Corporate Consumer Contact Information APIs.
   paths: 2
 - label: USAJobs API
   slug: usajobs-api
@@ -1881,8 +1869,7 @@
   slug: washington-metropolitan-area-transit-authority
   url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
   image: 'http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1214-washington-metropolitan-area-transit-authority.jpg'
-  description: The gallery section containing Washington Metropolitan Area Transit
-    Authority APIs.
+  description: The gallery section containing Washington Metropolitan Area Transit Authority APIs.
   paths: 41
 - label: Weather Underground
   slug: weather-underground
