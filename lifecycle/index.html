@@ -5,9 +5,13 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
 
 {% assign listing_object = site.data.lifecycle %}
 
+{% assign tag_count = 0 %}
 {% assign entity_count = 0 %}
-{% for entity in listing_object %}
-  {% assign entity_count = entity_count | plus: 1 %}
+{% for item in listing_object %}
+  {% assign tag_count = tag_count | plus: 1 %}
+   {% for listing in item[1] %}
+      {% assign entity_count = entity_count | plus: 1 %}
+   {% endfor %}
 {% endfor %}
 
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
@@ -15,7 +19,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
 </div>
 
 <section class="taggedLinkCards">
-  <p align="center"><strong>There Are {{ entity_count }} Entities Being Profiled Currently</strong></p>
+  <p align="center"><strong>There Are {{ entity_count }} Within {{ tag_count }} Stops Along The Lifecycle</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
        <h2>{{ item[0] }}</h2>
