@@ -2,7 +2,7 @@
 - label: 10jumps
   slug: 10jumps
   url: http://10jumps.api.gallery.streamdata.io
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/10jump-logo.png
   description: The gallery section containing 10jumps APIs.
   paths: 0
 - label: 123ContactForm
@@ -10323,7 +10323,7 @@
 - label: TickSpot
   slug: tickspot
   url: http://tickspot.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tick.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/499-tickspot.jpg
   description: The gallery section containing TickSpot APIs.
   paths: 0
 - label: Tiingo
@@ -10444,7 +10444,7 @@
 - label: TourCMS Marketplace
   slug: tourcms-marketplace
   url: http://tourcms.marketplace.api.gallery.streamdata.io
-  image: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/501-tourcms-marketplace.jpg
   description: The gallery section containing TourCMS Marketplace APIs.
   paths: 0
 - label: Tout
