@@ -79,10 +79,12 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                             jQuery.each($yaml_index_2['apis'], function($rowKey2, $rowEntry2) {
 
-                                //console.log($rowKey + " = " + $rowEntry);
+                                //console.log($rowKey2 + " = " + $rowEntry2);
+                                
                                 apis_name = $rowEntry2['name'];
                                 apis_description = $rowEntry2['description'];
                                 apis_slug = $rowEntry2['x-api-slug'];
+
 
                                 $search_apis_name = apis_name.search(search_keywords);
                                 $search_apis_description = apis_description.search(search_keywords);
