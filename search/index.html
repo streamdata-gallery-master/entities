@@ -27,6 +27,8 @@ title: Streamdata.io API Gallery - API Lifecycle
       search_keywords = document.getElementById('search_keywords').value;
       console.log("searching for: " + search_keywords);
 
+      $pull_url = [];
+
       jQuery.ajax({
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
          method: "get",
@@ -42,17 +44,17 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_url = $rowEntry['url'];
                   entity_image = $rowEntry['image'];
 
-                  $pull_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
-                  console.log($pull_url);
+                  $pull_url[$rowKey] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
+                  console.log($pull_url[$rowKey]);
 
                   jQuery.ajax({
-                     url: $pull_url,
+                     url: $pull_url[$rowKey],
                      method: "get",
-                     success:function(apisjson_index_response){
+                     success:function(apisjson_index_response[$rowKey]){
 
-                          apisjson_index_response = apisjson_index_response.replace("---","");
-                          apisjson_index_response = apisjson_index_response.replace("---","");
-                          $yaml_index_2 = jsyaml.load(apisjson_index_response);
+                          apisjson_index_response[$rowKey] = apisjson_index_response[$rowKey].replace("---","");
+                          apisjson_index_response[$rowKey] = apisjson_index_response[$rowKey].replace("---","");
+                          $yaml_index_2[$rowKey] = jsyaml.load(apisjson_index_response[$rowKey]);
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
