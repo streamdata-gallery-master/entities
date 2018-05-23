@@ -25,7 +25,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
        <h2 style="padding: 10px; font-size 18px;">{{ item[0] }}</h2>
        <ul style="padding-left: 15px;">
        {% for listing in item[1] %}
-          <li style="margin-left: 15px; padding-left: 15px; list-style: circle;"> - <strong>{{ listing.name }}</strong> - {{ listing.details }}</li>
+          <li style="margin-left: 15px; padding-left: 15px; list-style: circle;"> - <a href="{{ listing.website }}"><strong>{{ listing.name }}</strong></a> - {{ listing.details }}{% if listing.twitter != '' %} (<a href="{{ listing.twitter }}"><strong>@twitter</strong></a>){% endif %}{% if listing.github != '' %} (<a href="{{ listing.github }}"><strong>@github</strong></a>){% endif %}</li>
        {% endfor %}
      </ul>
     {% endfor %}
