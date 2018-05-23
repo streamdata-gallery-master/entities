@@ -1,8 +1,8 @@
 title: Streamdata Gallery
-url: template.streamdata.gallery
-tag: Template
+url: entities.api.gallery.streamdata.io
+tag: Entities
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
-github_repo: template
+github_user: streamdata-master
+github_repo: entities
 github_branch: master
