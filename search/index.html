@@ -82,6 +82,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                                 //console.log($rowKey + " = " + $rowEntry);
                                 apis_name = $rowEntry2['name'];
                                 apis_description = $rowEntry2['description'];
+                                apis_slug = $rowEntry2['x-api-slug'];
 
                                 $search_apis_name = apis_name.search(search_keywords);
                                 $search_apis_description = apis_description.search(search_keywords);
@@ -89,11 +90,17 @@ title: Streamdata.io API Gallery - API Lifecycle
                                 if($search_apis_name > 1 && $search_apis_description > 1)
                                   {
                                   // Just APIs for now.
-                                  console.log("api:" + apis_name + ' = ' + apis_description);
+                                  console.log("api:" + apis_name + ' = ' + apis_description + ' - ' + apis_slug);
                                   //console.log("3:" + $search_apis_name);
                                   //console.log("3:" + $search_apis_description);
 
-                                  html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-1">';
+                                  var searchdiv = document.createElement("div");
+                                  searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
+                                  searchdiv.setAttribute('data-platform', "html5 taggedLinkCard--red");
+                                  searchdiv.setAttribute('id', "entity-"+apis_slug);
+                                  document.getElementById("searchlisting").appendChild(searchdiv);
+
+                                  //html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                                   html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                                   html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
                                   html = html + '<a href="#"><img src="' + apis_json_image + '" class="taggedLinkCard__image" alt=""></a>';
@@ -105,12 +112,9 @@ title: Streamdata.io API Gallery - API Lifecycle
                                   html = html + '</div>';
                                   html = html + '</div>';
                                   html = html + '</div>';
-                                  html = html + '</div>';
+                                  //html = html + '</div>';
 
-                                  console.log("Appending: " + html);
-                                  //jQuery("#searchlisting").append(html);
-                                  document.getElementById("searchlisting").appendChild(html);
-                                  //console.log("Appending: " + html);
+                                  document.getElementById("entity-"+apis_slug).innerHTML = html;
                                   }
 
                               });
