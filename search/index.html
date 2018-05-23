@@ -42,11 +42,11 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_image = $rowEntry['image'];
 
                   // Begin spidering of all entities
-                  apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/apis.md';
+                  apisjson_index_url = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/apis.yaml';
                   //apisjson_index_url = apisjson_index_url.replace(".yaml", ".md");
 
                   console.log("searching... " + entity_label);
-                  console.log("at... " + entity_url);
+                  console.log("at... " + apisjson_index_url);
 
                   var response2 = jQuery.ajax({
                      url: apisjson_index_url,
