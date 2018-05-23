@@ -5,12 +5,17 @@ title: Streamdata.io API Gallery - Entities
 
 {% assign listing_object = site.data.entities %}
 
+{% assign entity_count = 0 %}
+{% for entity in listing_object %}
+  {% assign entity_count = entity_count | plus: 1 %}
+{% endfor %}
+
 <div class="shortMasthead  shortMasthead--extra-top-padding ">
      {% include api-listing-feature.html %}
 </div>
 
 <section class="taggedLinkCards">
-
+  <p align="center"><strong>There Are {{ entity_count }} Entities Being Profiled Currently</strong></p>
   <div class="taggedLinkCards__cards" id="listing">
     {% for item in listing_object %}
        <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5" id="entity-{% increment counter %}">
