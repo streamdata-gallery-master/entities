@@ -35,6 +35,8 @@ title: Streamdata.io API Gallery - API Lifecycle
               //console.log($yaml_index);
               jQuery.each(jsyaml.load(entities), function($rowKey, $rowEntry) {
 
+
+                  console.log('row: '+$rowKey);
                   entity_label = $rowEntry['label'];
                   entity_slug = $rowEntry['slug'];
                   entity_url = $rowEntry['url'];
