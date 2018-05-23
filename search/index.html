@@ -31,9 +31,12 @@ title: Streamdata.io API Gallery - API Lifecycle
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
          method: "get",
          success:function(response){
-              console.log("successfully ulled");
+              console.log("successfully pulled");
               $yaml_index = jsyaml.load(response);
-              console.log($yaml_index);
+              //console.log($yaml_index);
+              jQuery.each($yaml_index, function($rowKey, $rowEntry) {
+                  console.log($rowKey + " = " $rowEntry);
+                });
           },
           error: function(XMLHttpRequest, textStatus, errorThrown) {
               alert("Status: " + textStatus); alert("Error: " + errorThrown);
