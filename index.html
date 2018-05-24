@@ -3,7 +3,8 @@ layout: default
 title: Streamdata.io API Gallery - Entities
 ---
 
-{% assign listing_object = site.data.entities %}
+{% assign all_object = site.data.entities %}
+{% assign listing_object = all_object | sort: 'alexa_rank' %}
 
 {% assign entity_count = 0 %}
 {% for entity in listing_object %}
