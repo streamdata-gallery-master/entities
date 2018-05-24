@@ -1,3 +1,4 @@
+---
 - label: 10jumps
   slug: 10jumps
   url: http://10jumps.api.gallery.streamdata.io
@@ -15678,3 +15679,4 @@
   paths: 0
   alexa_rank: "20508"
   api_rank: "7"
+...
