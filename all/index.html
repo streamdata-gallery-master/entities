@@ -3,7 +3,7 @@ layout: default
 title: Streamdata.io API Gallery - All Entities Being Profiled
 ---
 
-{% assign listing_object = site.data.all %}
+{% assign listing_object = site.data.all | sort: 'alexa_rank' %}
 
 {% assign entity_count = 0 %}
 {% for entity in listing_object %}
@@ -25,7 +25,7 @@ title: Streamdata.io API Gallery - All Entities Being Profiled
              </div>
              <div class="taggedLinkCard__lower">
                 <div class="taggedLinkCard__copy">
-                   <h3 class="taggedLinkCard__title"><a href="https://github.com/streamdata-gallery-organizations/{{ item.slug }}" target="_blank">{{ item.label }}</a></h3>
+                   <h3 class="taggedLinkCard__title"><a href="https://github.com/streamdata-gallery-organizations/{{ item.slug }}" target="_blank">{{ item.label }}</a> ({{ item.alexa_rank }})</h3>
                    <p class="taggedLinkCard__body">{{ item.description }}</p>
                 </div>
              </div>
