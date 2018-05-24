@@ -37,12 +37,12 @@ title: Streamdata.io API Gallery - API Lifecycle
 
               jQuery.each(jsyaml.load(entities), function(rowKey, rowEntry) {
 
-                  entity_label = rowEntry['label'];
-                  entity_slug = rowEntry['slug'];
-                  entity_url = rowEntry['url'];
-                  entity_image = rowEntry['image'];
+                  entity_label[rowKey] = rowEntry['label'];
+                  entity_slug[rowKey] = rowEntry['slug'];
+                  entity_url[rowKey] = rowEntry['url'];
+                  entity_image[rowKey] = rowEntry['image'];
 
-                  pull_url[rowKey] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
+                  pull_url[rowKey] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug[rowKey] + '/master/_listings/' + entity_slug[rowKey] + '/apis.md';
                   console.log(pull_url[rowKey]);
 
                   jQuery.ajax({
