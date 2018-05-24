@@ -43,7 +43,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                   entity_image = rowEntry['image'];
 
                   pull_url[rowKey] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug + '/master/_listings/' + entity_slug + '/apis.md';
-                  //console.log(pull_url[rowKey]);
+                  console.log(pull_url[rowKey]);
 
                   jQuery.ajax({
                      url: pull_url[rowKey],
@@ -78,6 +78,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                                 searchdiv.setAttribute('style', "border: 1px #000");
                                 document.getElementById("searchlisting").appendChild(searchdiv);
 
+                                html = '';
                                 //html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                                 html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                                 html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
