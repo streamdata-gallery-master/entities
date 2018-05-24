@@ -3,7 +3,8 @@ layout: default
 title: Streamdata.io API Gallery - All Entities Being Profiled
 ---
 
-{% assign listing_object = site.data.all | sort: 'alexa_rank' %}
+{% assign all_object = site.data.all %}
+{% assign listing_object = all_object | sort: 6 %}
 
 {% assign entity_count = 0 %}
 {% for entity in listing_object %}
