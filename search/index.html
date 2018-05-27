@@ -29,6 +29,7 @@ title: Streamdata.io API Gallery - API Lifecycle
       console.log("searching for: " + search_keywords);
 
       pull_url = [];
+      entity = [];
 
       jQuery.ajax({
          url: "https://raw.githubusercontent.com/streamdata-gallery-master/entities/master/_data/entities.yaml",
@@ -37,45 +38,43 @@ title: Streamdata.io API Gallery - API Lifecycle
 
               jQuery.each(jsyaml.load(entities), function(rowKey, rowEntry) {
 
-                  entity_label = [];
-                  entity_label[rowKey] = rowEntry['label'];
-                  entity_slug[rowKey] = rowEntry['slug'];
-                  entity_url[rowKey] = rowEntry['url'];
-                  entity_image[rowKey] = rowEntry['image'];
+                  entity[rowKey]['org_label'] = rowEntry['label'];
+                  entity[rowKey]['org_slug']= rowEntry['slug'];
+                  entity[rowKey]['org_url'] = rowEntry['url'];
+                  entity[rowKey]['org_image'] = rowEntry['image'];
 
-                  pull_url[rowKey] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug[rowKey] + '/master/_listings/' + entity_slug[rowKey] + '/apis.md';
-                  console.log(pull_url[rowKey]);
+                  entity[rowKey]['org_url'] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug[rowKey] + '/master/_listings/' + entity_slug[rowKey] + '/apis.md';
+                  console.log(entity[rowKey]['org_url']);
 
                   jQuery.ajax({
-                     url: pull_url[rowKey],
+                     url: entity[rowKey]['org_url'],
                      method: "get",
                      success:function(apisjson_index_response){
 
-                          apisjson_index_response = apisjson_index_response.replace("---","");
-                          apisjson_index_response = apisjson_index_response.replace("---","");
-                          yaml_index_2 = jsyaml.load(apisjson_index_response);
+                          entity[rowKey]['apisjson_index_response'] = apisjson_index_response.replace("---","");
+                          entity[rowKey]['apisjson_index_yaml'] = jsyaml.load(entity[rowKey]['apisjson_index_response']);
 
-                          jQuery.each(yaml_index_2['apis'], function(rowKey2, rowEntry2) {
+                          jQuery.each(entity[rowKey]['apisjson_index_yaml'], function(rowKey2, rowEntry2) {
 
-                              apis_name = rowEntry2['name'];
-                              apis_description = rowEntry2['description'];
-                              apis_slug = rowEntry2['x-api-slug'];
+                              entity[rowKey2]['apis_name'] = rowEntry2['name'];
+                              entity[rowKey2]['apis_description'] = rowEntry2['description'];
+                              entity[rowKey2]['apis_slug'] = rowEntry2['x-api-slug'];
 
-                              console.log(apis_name);
+                              console.log(entity[rowKey2]['apis_name']);
 
-                              search_apis_name = apis_name.search(search_keywords);
-                              search_apis_description = apis_description.search(search_keywords);
+                              entity[rowKey2]['search_apis_name'] = apis_name.search(search_keywords);
+                              entity[rowKey2]['search_apis_description'] = apis_description.search(search_keywords);
 
-                              if(search_apis_name > 1 && search_apis_description > 1)
+                              if(entity[rowKey2]['search_apis_name'] > 1 && entity[rowKey2]['search_apis_description'] > 1)
                                 {
 
                                 // Just APIs for now.
-                                console.log("api:" + apis_name + ' = ' + apis_description + ' - ' + apis_slug);
+                                console.log("api:" + entity[rowKey2]['apis_name'] + ' = ' + entity[rowKey2]['apis_description'] + ' - ' + entity[rowKey2]['apis_slug']);
 
                                 var searchdiv = document.createElement("div");
                                 searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
                                 searchdiv.setAttribute('data-platform', "html5 taggedLinkCard--red");
-                                searchdiv.setAttribute('id', "entity-"+apis_slug);
+                                searchdiv.setAttribute('id', "entity-"+entity[rowKey2]['apis_slug']);
                                 searchdiv.setAttribute('style', "border: 1px #000");
                                 document.getElementById("searchlisting").appendChild(searchdiv);
 
@@ -83,12 +82,12 @@ title: Streamdata.io API Gallery - API Lifecycle
                                 //html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                                 html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                                 html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
-                                html = html + '<a href="#"><img src="' + apis_json_image + '" class="taggedLinkCard__image" alt=""></a>';
+                                html = html + '<a href="#"><img src="' + entity[rowKey]['org_image'] + '" class="taggedLinkCard__image" alt=""></a>';
                                 html = html + '</div>';
                                 html = html + '<div class="taggedLinkCard__lower">';
                                 html = html + '<div class="taggedLinkCard__copy">';
-                                html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + apis_name + '</a></h3>';
-                                html = html + '<p class="taggedLinkCard__body">' + apis_name + '</p>';
+                                html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey2]['apis_name'] + '</a></h3>';
+                                html = html + '<p class="taggedLinkCard__body">' + entity[rowKey2]['apis_description'] + '</p>';
                                 html = html + '</div>';
                                 html = html + '</div>';
                                 html = html + '</div>';
