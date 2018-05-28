@@ -54,6 +54,7 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                           entity[rowKey] = [];
                           entity[rowKey]['apisjson_index_response'] = apisjson_index_response.replace("---","");
+                          entity[rowKey]['apisjson_index_response'] = entity[rowKey]['apisjson_index_response'].replace("---","");
                           entity[rowKey]['apisjson_index_yaml'] = jsyaml.load(entity[rowKey]['apisjson_index_response']);
 
                           jQuery.each(entity[rowKey]['apisjson_index_yaml'], function(rowKey2, rowEntry2) {
