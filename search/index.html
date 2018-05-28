@@ -51,11 +51,13 @@ title: Streamdata.io API Gallery - API Lifecycle
                      method: "get",
                      success:function(apisjson_index_response){
 
+                          entity[rowKey] = [];
                           entity[rowKey]['apisjson_index_response'] = apisjson_index_response.replace("---","");
                           entity[rowKey]['apisjson_index_yaml'] = jsyaml.load(entity[rowKey]['apisjson_index_response']);
 
                           jQuery.each(entity[rowKey]['apisjson_index_yaml'], function(rowKey2, rowEntry2) {
 
+                              entity[rowKey2] = [];
                               entity[rowKey2]['apis_name'] = rowEntry2['name'];
                               entity[rowKey2]['apis_description'] = rowEntry2['description'];
                               entity[rowKey2]['apis_slug'] = rowEntry2['x-api-slug'];
