@@ -80,15 +80,8 @@ title: Streamdata.io API Gallery - API Lifecycle
                             // Just APIs for now.
                             console.log("api:" + entity[rowKey]['apis_name'] + ' = ' + entity[rowKey]['apis_description'] + ' - ' + entity[rowKey]['apis_slug']);
 
-                            var searchdiv = document.createElement("div");
-                            searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
-                            searchdiv.setAttribute('data-platform', "html5 taggedLinkCard--red");
-                            searchdiv.setAttribute('id', "entity-"+entity[rowKey]['apis_slug']);
-                            searchdiv.setAttribute('style', "border: 1px #000");
-                            document.getElementById("searchlisting").appendChild(searchdiv);
-
-                            entity[rowKey]['html'] = '';
-                            //html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
+                            //entity[rowKey]['html'] = '';
+                            entity[rowKey]['html'] = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '<a href="#"><img src="' + entity[rowKey]['org_image'] + '" class="taggedLinkCard__image" alt=""></a>';
@@ -100,10 +93,10 @@ title: Streamdata.io API Gallery - API Lifecycle
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
-                            //entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
 
-                            document.getElementById("searchlisting").appendChild(searchdiv);
-                            document.getElementById("entity-"+entity[rowKey]['apis_slug']).innerHTML = entity[rowKey]['html'];
+                            //document.getElementById("searchlisting").appendChild(searchdiv);
+                            document.getElementById("entity-"+entity[rowKey]['apis_slug']).innerHTML = document.getElementById("entity-"+entity[rowKey]['apis_slug']).innerHTML + entity[rowKey]['html'];
                             }
 
                       },
