@@ -83,26 +83,26 @@ title: Streamdata.io API Gallery - API Lifecycle
                             var searchdiv = document.createElement("div");
                             searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
                             searchdiv.setAttribute('data-platform', "html5 taggedLinkCard--red");
-                            searchdiv.setAttribute('id', "entity-"+entity[rowKey2]['apis_slug']);
+                            searchdiv.setAttribute('id', "entity-"+entity[rowKey]['apis_slug']);
                             searchdiv.setAttribute('style', "border: 1px #000");
                             document.getElementById("searchlisting").appendChild(searchdiv);
 
-                            html = '';
+                            entity[rowKey]['html'] = '';
                             //html = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
-                            html = html + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
-                            html = html + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
-                            html = html + '<a href="#"><img src="' + entity[rowKey]['org_image'] + '" class="taggedLinkCard__image" alt=""></a>';
-                            html = html + '</div>';
-                            html = html + '<div class="taggedLinkCard__lower">';
-                            html = html + '<div class="taggedLinkCard__copy">';
-                            html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey]['apis_name'] + '</a></h3>';
-                            html = html + '<p class="taggedLinkCard__body">' + entity[rowKey]['apis_description'] + '</p>';
-                            html = html + '</div>';
-                            html = html + '</div>';
-                            html = html + '</div>';
-                            //html = html + '</div>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<a href="#"><img src="' + entity[rowKey]['org_image'] + '" class="taggedLinkCard__image" alt=""></a>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__lower">';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__copy">';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey]['apis_name'] + '</a></h3>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '<p class="taggedLinkCard__body">' + entity[rowKey]['apis_description'] + '</p>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                            entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
+                            //entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
 
-                            document.getElementById("entity-"+apis_slug).innerHTML = html;
+                            document.getElementById("entity-"+entity[rowKey]['apis_slug']).innerHTML = entity[rowKey]['html'];
                             }
 
                       },
