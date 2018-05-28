@@ -20,7 +20,12 @@ title: Streamdata.io API Gallery - Search
          method: "get",
          success:function(traffic){
             console.log(traffic);
-        });
+          },
+          error: function(XMLHttpRequest, textStatus, errorThrown) {
+              //console.log("Status: " + textStatus);
+              //console.log("Error: " + errorThrown);
+          }
+      });
 
       //console.log("searching for: " + search_keywords);
       document.getElementById('searchlisting').innerHTML == '';
