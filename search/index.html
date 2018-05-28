@@ -118,7 +118,17 @@ title: Streamdata.io API Gallery - Search
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
-                          console.log('COULD NOT RESOLVE: ' + pull_url[rowKey]);
+                          jQuery.ajax({
+                             url: "http://traffic.beacon.streamdata.gallery/error/log/?url="+entity[rowKey]['org_url'],
+                             method: "get",
+                             success:function(traffic){
+                                console.log(traffic);
+                              },
+                              error: function(XMLHttpRequest, textStatus, errorThrown) {
+                                  //console.log("Status: " + textStatus);
+                                  //console.log("Error: " + errorThrown);
+                              }
+                          });
                       }
                   });
                   // End spidering of all entities
