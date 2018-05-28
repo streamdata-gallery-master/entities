@@ -38,6 +38,7 @@ title: Streamdata.io API Gallery - API Lifecycle
 
               jQuery.each(jsyaml.load(entities), function(rowKey, rowEntry) {
 
+                  entity[rowKey] = [];
                   entity[rowKey]['org_label'] = rowEntry['label'];
                   entity[rowKey]['org_slug']= rowEntry['slug'];
                   entity[rowKey]['org_url'] = rowEntry['url'];
