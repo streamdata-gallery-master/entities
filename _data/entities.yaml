@@ -8,6 +8,24 @@
   paths: 0
   alexa_rank: "648546"
   api_rank: "8"
+- label: 3scale
+  slug: 3scale
+  url: http://3scale.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
+  description: 3scales API Management platform gives you the tools you need to take
+    control of your API. Trusted by more customers than any other vendor.
+  paths: 0
+  alexa_rank: "345437"
+  api_rank: "10"
+- label: 7digital
+  slug: 7digital
+  url: http://7digital.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/294-7digital.jpg
+  description: Welcome to 7digital!    Choose from over 30 million high quality tracks
+    in our store; download, sync and play your music on the go.
+  paths: 0
+  alexa_rank: "55455"
+  api_rank: "7"
 - label: Accelerated Mobile Pages URL
   slug: accelerated-mobile-pages-url
   url: http://accelerated.mobile.pages.url.api.gallery.streamdata.io
@@ -55,17 +73,14 @@
   paths: 0
   alexa_rank: "4309"
   api_rank: "8"
-- label: Amazon.com
-  slug: amazon-com
-  url: http://amazon.com.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/23253-aws-cloudtrail.jpg
-  description: Online shopping from the earths biggest selection of books, magazines,
-    music, DVDs, videos, electronics, computers, software, apparel & accessories,
-    shoes, jewelry, tools & hardware, housewares, furniture, sporting goods, beauty
-    & personal care, broad...
+- label: AMEE
+  slug: amee
+  url: http://amee.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  description: Data driven solutions to strengthen supply chain performance and risk.
   paths: 0
-  alexa_rank: "11"
-  api_rank: "10"
+  alexa_rank: "4769400"
+  api_rank: "8"
 - label: AngelList
   slug: angellist
   url: http://angellist.api.gallery.streamdata.io
@@ -75,16 +90,6 @@
   paths: 0
   alexa_rank: "2447"
   api_rank: "9"
-- label: API Science
-  slug: api-science
-  url: http://api.science.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
-  description: Traditional monitoring services were designed long before APIs became
-    core to modern applications. API Science is designed specifically for monitoring
-    APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "10"
 - label: Apica
   slug: apica
   url: http://apica.api.gallery.streamdata.io
@@ -95,15 +100,6 @@
   paths: 0
   alexa_rank: "827487"
   api_rank: "7"
-- label: APImetrics
-  slug: apimetrics
-  url: http://apimetrics.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1916-apimetrics.jpg
-  description: API performance monitoring, Cloud Service, SLA monitoring and analysis
-    that gives you answers, not excuses. Find out how today.
-  paths: 0
-  alexa_rank: "2264063"
-  api_rank: "10"
 - label: APIs.io
   slug: apis-io
   url: http://apis.io.api.gallery.streamdata.io
@@ -124,14 +120,47 @@
   paths: 0
   alexa_rank: "51791"
   api_rank: "8"
-- label: Auth0
-  slug: auth0
-  url: http://auth0.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11272-auth0.jpg
-  description: The new way to solve Identity
+- label: Arlington National Cemetery
+  slug: arlington-national-cemetery
+  url: http://arlington.national.cemetery.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ArlingtonNationalCemetery_Logo@2x.png
+  description: Welcome to Arlington National Cemeterys official Facebook page.    Arlington
+    National Cemetery is our nations most hallowed ground. More than 400,000 people
+    are buried here, to include veterans from all our nations wars. Arlington has
+    been the final...
   paths: 0
-  alexa_rank: "4820"
+  alexa_rank: "268709"
   api_rank: "9"
+- label: Aspose
+  slug: aspose
+  url: http://aspose.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1865-aspose.jpg
+  description: .NET Java Cloud SharePoint Android SSRS and JasperReports file format
+    APIs for developers. Integrate in any enterprise level web desktop and mobile
+    application
+  paths: 0
+  alexa_rank: "59913"
+  api_rank: "8"
+- label: AT&T Dev Program
+  slug: att-dev-program
+  url: http://att.dev.program.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg
+  description: AT&T Official Site. Premium entertainment, the latest cell phones &
+    tablets, unlimited data plans, and high-speed internet. Join the nations best
+    network today!
+  paths: 0
+  alexa_rank: "691"
+  api_rank: "8"
+- label: Authentiq Connect
+  slug: authentiq-connect
+  url: http://authentiq.connect.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/authentiq-logo.png
+  description: Authentiq offers the convenience of passwordless authentication with
+    the safety of two step verification. Sign up for Authentiq today, and never think
+    about authentication again.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: AWS API Gateway
   slug: aws-api-gateway
   url: http://aws.api.gateway.api.gallery.streamdata.io
@@ -1639,6 +1668,27 @@
   paths: 0
   alexa_rank: ~
   api_rank: "10"
+- label: Backupify
+  slug: backupify
+  url: http://backupify.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: ""
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: Bandsintown
+  slug: bandsintown
+  url: http://bandsintown.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bands_in_town_logo.png
+  description: Concert discovery has changed. Previously, fans would seek out concert
+    dates, but with the rise of social media, fans now expect that information to
+    come to them. Bandsintown simplifies concert discovery by allowing music fans
+    to Track their favorite artists, see which shows they have RSVP&rsquo;d to &amp;
+    share these shows with their friends. The concerts are then synced with their
+    calendar, so fans are sure not to miss the show.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: Bank of Ireland
   slug: bank-of-ireland
   url: http://bank.of.ireland.api.gallery.streamdata.io
@@ -1688,6 +1738,56 @@
   paths: 0
   alexa_rank: "77947"
   api_rank: "7"
+- label: BBC
+  slug: bbc
+  url: http://bbc.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28554-bbc-nitro.jpg
+  description: Breaking news, sport, TV, radio and a whole lot more. The BBC informs,
+    educates and entertains - wherever you are, whatever your age.
+  paths: 0
+  alexa_rank: "93"
+  api_rank: "7"
+- label: BC Geographical Names
+  slug: bc-geographical-names
+  url: http://bc.geographical.names.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: Geographical names are more than labels on maps and road signs. They
+    can reveal patterns of settlement, exploration and migration, and mirror outside
+    influences to our history - aspects of the heritage and promise of an area that
+    might otherwise be overlooked or forgotten by visitors and later generations.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: BC Laws
+  slug: bc-laws
+  url: http://bc.laws.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: 'BC Laws is an electronic library providing free public access to the
+    laws of British Columbia. BC Laws is hosted by the Queen&rsquo;s Printer of British
+    Columbia and published in partnership with the Ministry of Justice and the Law
+    Clerk of the Legislative Assembly. BC Laws contains a comprehensive collection
+    of BC legislation and related materials. It is available on the internet in two
+    forms: First: The library is available as a web site in which users can browse
+    and search the laws of British Columbia. Second: The library is available as a
+    portal to legislation in raw XML1 data format, accessible via the BC Laws API2.
+    This direct access to raw data is intended to enable third parties to build or
+    add their own custom applications based on the structure of the data and all the
+    associated search functionality inherent in that structure. The BC Laws website
+    itself is an example of one such application.'
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: BC Route Planner
+  slug: bc-route-planner
+  url: http://bc.route.planner.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: The BC Route Planner is a REST web service that offers vehicle route
+    plans that are based on the BC Digital Road Atlas (DRA). The BC Route Planner
+    computes the shortest or fastest route between start and end points and returns
+    the route, distance, time, and directions.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: BetterDoctor
   slug: betterdoctor
   url: http://betterdoctor.api.gallery.streamdata.io
@@ -1698,15 +1798,24 @@
   paths: 0
   alexa_rank: "625342"
   api_rank: "8"
-- label: Bitbucket
-  slug: bitbucket
-  url: http://bitbucket.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bitbucket-logo.png
-  description: Code against the Bitbucket API to automate simple tasks, embed Bitbucket
-    data into your own site, build mobile or desktop apps, or even add custom UI add-ons
-    into Bitbucket itself using the Connect framework.
+- label: BigOven
+  slug: bigoven
+  url: http://bigoven.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/379-bigoven.jpg
+  description: Free recipe app for home cooks. Create a meal plan, grocery list and
+    more from your favorite recipes. Organize your recipe collection and take it anywhere.
   paths: 0
-  alexa_rank: ~
+  alexa_rank: "117577"
+  api_rank: "8"
+- label: Bitly
+  slug: bitly
+  url: http://bitly.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1503-bitly.jpg
+  description: Get the most out of your social and online marketing efforts. Own,
+    understand and activate your best audience through the power of the link with
+    Bitly Enterprise.
+  paths: 0
+  alexa_rank: "737"
   api_rank: "8"
 - label: BlazeMeter
   slug: blazemeter
@@ -1717,6 +1826,15 @@
   paths: 0
   alexa_rank: "69236"
   api_rank: "8"
+- label: Blizzard
+  slug: blizzard
+  url: http://blizzard.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Blizzard_Entertainment_Logo.svg.png
+  description: This is the documentation for the RESTful APIs exposed through the
+    World of Warcraft community site as a service to the World of Warcraft community.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "9"
 - label: Blockchain Info
   slug: blockchain-info
   url: http://blockchain.info.api.gallery.streamdata.io
@@ -1749,6 +1867,17 @@
   paths: 0
   alexa_rank: "27308"
   api_rank: "8"
+- label: Botify
+  slug: botify
+  url: http://botify.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28561-botify.jpg
+  description: We are passionate about SEO. Botify offers unparalleled insights into
+    your websites SEO through crawl data and log analysis.    Optimize your website
+    and see the organic traffic results youve been seeking. Founded in 2012, Botify
+    is a SaaS SEO platfo...
+  paths: 0
+  alexa_rank: "274018"
+  api_rank: "7"
 - label: Box
   slug: box
   url: http://box.api.gallery.streamdata.io
@@ -1757,6 +1886,74 @@
     file sharing to building custom apps.
   paths: 0
   alexa_rank: "443"
+  api_rank: "9"
+- label: Boxcar
+  slug: boxcar
+  url: http://boxcar.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/714-boxcar.jpg
+  description: 'For Developers: a push platform with SDKs, APIs and admin console.'
+  paths: 0
+  alexa_rank: "1280273"
+  api_rank: "8"
+- label: Browshot.com
+  slug: browshot-com
+  url: http://browshot.com.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/717-browshot-com.jpg
+  description: Browshot is a service to take screenshot of web pages. Use any of our
+    mobile and desktop browsers. We provide a powerful API and libraries.
+  paths: 0
+  alexa_rank: "1714303"
+  api_rank: "7"
+- label: Buffer
+  slug: buffer
+  url: http://buffer.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/994-buffer.jpg
+  description: Buffer is an intuitive social media management platform trusted by
+    brands, businesses, agencies, and individuals to help drive social media results.
+  paths: 0
+  alexa_rank: "2789"
+  api_rank: "7"
+- label: Bureau of Alcohol, Tobacco, Firearms, and Explosives
+  slug: bureau-of-alcohol-tobacco-firearms-and-explosives
+  url: http://bureau.of.alcohol.tobacco.firearms.and.explosives.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png
+  description: The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF,
+    and BATFE) is a federal law enforcement organization within the United States
+    Department of Justice.[4] Its responsibilities include the investigation and prevention
+    of federal offenses involving the unlawful use, manufacture and possession of
+    firearms and explosives; acts of arson and bombings; and illegal trafficking of
+    alcohol and tobacco products. The ATF also regulates via licensing the sale, possession,
+    and transportation of firearms, ammunition, and explosives in interstate commerce.
+    Many of ATFs activities are carried out in conjunction with task forces made up
+    of state and local law enforcement officers, such as Project Safe Neighborhoods.
+    ATF operates a unique fire research laboratory in Beltsville, Maryland, where
+    full-scale mock-ups of criminal arson can be reconstructed.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "9"
+- label: Bureau of Economic Analysis
+  slug: bureau-of-economic-analysis
+  url: http://bureau.of.economic.analysis.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11179-bureau-of-economic-analysis.jpg
+  description: Official Bureau of Economic Analysis website. Source of US economic
+    statistics including national income and product accounts (NIPAs), gross domestic
+    product (GDP) and related measures of national, regional, industry and international
+    accounts.
+  paths: 0
+  alexa_rank: "64160"
+  api_rank: "9"
+- label: Bureau of Justice Statistics
+  slug: bureau-of-justice-statistics
+  url: http://bureau.of.justice.statistics.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfJustice-Seal.svg.png
+  description: The United States Bureau of Justice Statistics (BJS) is a federal government
+    agency belonging to the U.S. Department of Justice and a principal agency of the
+    U.S. Federal Statistical System. Established on December 27, 1979, the bureau
+    collects, analyzes and publishes data relating to crime in the United States.
+    The agency publishes data regarding statistics gathered from the roughly fifty-thousand
+    agencies that comprise the U.S. justice system on its Web site.
+  paths: 0
+  alexa_rank: ~
   api_rank: "9"
 - label: CallFire
   slug: callfire
@@ -1778,16 +1975,14 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
-- label: CircleCI
-  slug: circleci
-  url: http://circleci.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28120-circleci.jpg
-  description: CircleCI???s continuous integration and delivery platform makes it
-    easy for teams of all sizes to rapidly build and release quality software at scale.  Build
-    for Linux, macOS, and Android, in the cloud or behind your firewall.
+- label: Clarify
+  slug: clarify
+  url: http://clarify.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3503-clarify.jpg
+  description: The API to search, re-imagined for a world that???s moved beyond text.
   paths: 0
-  alexa_rank: "15983"
-  api_rank: "8"
+  alexa_rank: "2476786"
+  api_rank: "9"
 - label: Clearbit
   slug: clearbit
   url: http://clearbit.api.gallery.streamdata.io
@@ -1799,6 +1994,48 @@
   paths: 0
   alexa_rank: ~
   api_rank: "8"
+- label: Click Meter
+  slug: click-meter
+  url: http://click.meter.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clickmeter-logo.png
+  description: ClickMeter was founded in 2012 as a byproduct of an experienced web-marketing
+    agency. The ClickMeter System was initially a web tool created to address the
+    needs of our agency to precisely count and track the web-marketing actions we
+    performed for our customers.The system evolved rapidly, and emerged as one of
+    the most widely used software solutions in our agency to collect, analyze, and
+    share data for and with our customers. After few years after the development of
+    the first ClickMeter system, we decided to go live with a service that can be
+    useful to everyone involved in web-marketing activities.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: Clickatell
+  slug: clickatell
+  url: http://clickatell.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/169-clickatell.jpg
+  description: Clickatell is a leading company in Global Mobile Messaging. You can
+    reach 1000+ global networks with 1 API using Clickatells Bulk SMS Gateway.
+  paths: 0
+  alexa_rank: "105051"
+  api_rank: "8"
+- label: Clockwork
+  slug: clockwork
+  url: http://clockwork.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1373-clockwork.jpg
+  description: Clockwork is an Easy Text Message API. An SMS API for Developers. Build
+    powerful apps and include SMS. Signup is free, Try it now.
+  paths: 0
+  alexa_rank: "643753"
+  api_rank: "8"
+- label: Cloud Elements
+  slug: cloud-elements
+  url: http://cloud.elements.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9066-cloud-elements.jpg
+  description: Cloud Elements is the leading API integration platform for SaaS app
+    providers and the digital enterprise. Turn integration into your competitive advantage.
+  paths: 0
+  alexa_rank: "278908"
+  api_rank: "7"
 - label: CloudFlare
   slug: cloudflare
   url: http://cloudflare.api.gallery.streamdata.io
@@ -1818,6 +2055,34 @@
   paths: 0
   alexa_rank: ~
   api_rank: "7"
+- label: Constant Contact
+  slug: constant-contact
+  url: http://constant.contact.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/171-constant-contact.jpg
+  description: With Constant Contact, you can create effective email marketing and
+    other online marketing campaigns to meet your business goals. Start your FREE
+    trial today!
+  paths: 0
+  alexa_rank: "1364"
+  api_rank: "7"
+- label: Context.IO
+  slug: context-io
+  url: http://context.io.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/172-context-io.jpg
+  description: Create simple email webhooks and code against a free, RESTful, IMAP
+    API.
+  paths: 0
+  alexa_rank: "569975"
+  api_rank: "9"
+- label: ConvertAPI
+  slug: convertapi
+  url: http://convertapi.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg
+  description: Create PDF easily with our developers API/SDK for Ruby Java .NET C#
+    PHP Shell Delphi.
+  paths: 0
+  alexa_rank: "717909"
+  api_rank: "8"
 - label: Coutts
   slug: coutts
   url: http://coutts.api.gallery.streamdata.io
@@ -1861,14 +2126,45 @@
   paths: 0
   alexa_rank: ~
   api_rank: "10"
-- label: DataAtWork
-  slug: dataatwork
-  url: http://dataatwork.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen-Shot-2016-10-12-at-11.19.25-PM.png
-  description: ""
+- label: Data.Gov.au
+  slug: data-gov-au
+  url: http://data.gov.au.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/api/screenshots/3595_data.gov.au.png
+  description: In a world that is becoming increasingly more visual, the ability to
+    find and use images effectively gives communications professionals a competitive
+    advantage. Cutcaster has tapped into a new creative universe of unique photos
+    and vector illustrations that can be purchased royalty free for use in publishing,
+    web design project, printing brochures, advertising, corporate marketing, electronic
+    usage on websites and presentations. Cutcaster is the first model that adds a
+    dynamic marketplace structure to support licensing user-generated photography
+    and vectors. If you don&#8217;t have the budget or time to create the content
+    yourself and want to find the most original, highest quality and authentic content
+    not previously available to license and within your budget, then join us for free
+    at Cutcaster.Sellers have the flexibility to set their prices or those new to
+    the world of licensing can use the Cutcaster Algorithm to determine a fair market
+    price for them. There are many ways to purchase photos and vectors from Cutcaster.
+    Buyers can browse the growing Cutcaster image library, download comps, buy credits,
+    sign up for corporate accounts, add images and vectors to their shopping cart
+    without registering and immediately download content when they need it. In addition,
+    buyers, if they choose, can seamlessly name their price by bidding on the photos
+    or illustrations, which a seller can quickly accept, decline or submit a new offer
+    back.  If we don&#8217;t have what you are looking for or you can&#8217;t find
+    it anywhere during your search, you can request custom content and set a deadline
+    in the ProjectRequest area on the homepage and give our amazing user-base the
+    opportunity to &#8220;wow&#8221; you with fresh, authentic and timely content.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: "7"
+- label: Data2CRM
+  slug: data2crm
+  url: http://data2crm.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data2crm-logo.png
+  description: Data2CRM is all-in-one master touch instrument to create the perfect
+    data environment for prosperous internal and external connections.Data2CRM.API,
+    a Unified API Provider, to Connect Your Business Software with 17+ CRMs.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: Datadog
   slug: datadog
   url: http://datadog.api.gallery.streamdata.io
@@ -1880,17 +2176,11 @@
 - label: Datumbox
   slug: datumbox
   url: http://datumbox.api.gallery.streamdata.io
-  image: http://www.datumbox.com/img/logo.png
-  description: 'Datumbox offers a powerful open-source Machine Learning Framework
-    written in Java. Discover today its large collection of algorithms, models, statistical
-    tests and tools. The Datumbox API offers a large number of off-the-shelf Classifiers
-    and Natural Language Processing services which can be used in a broad spectrum
-    of applications including: Sentiment Analysis, Topic Classification, Language
-    Detection, Subjectivity Analysis, Spam Detection, Reading Assessment, Keyword
-    and Text Extraction and more. All services are accessible via our powerful REST
-    API which allows you to develop your own smart Applications in no time.'
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg
+  description: Build quickly and easily Intelligent Applications by using the power
+    of Machine Learning!
   paths: 0
-  alexa_rank: ~
+  alexa_rank: "514549"
   api_rank: "9"
 - label: Disqus
   slug: disqus
@@ -1924,6 +2214,15 @@
   paths: 0
   alexa_rank: "6104"
   api_rank: "7"
+- label: DonorsChoose
+  slug: donorschoose
+  url: http://donorschoose.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/394-donorschoose.jpg
+  description: DonorsChoose.org connects teachers in high-need communities with donors
+    who want to help.
+  paths: 0
+  alexa_rank: "23784"
+  api_rank: "7"
 - label: Dropbox
   slug: dropbox
   url: http://dropbox.api.gallery.streamdata.io
@@ -1951,6 +2250,16 @@
   paths: 0
   alexa_rank: "20789"
   api_rank: "8"
+- label: EasyCron
+  slug: easycron
+  url: http://easycron.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1806-easycron.jpg
+  description: EasyCron provides the most stable Cron Job Services. Here you can schedule
+    cron jobs with execution logs, Email notifications, run time predictions and a
+    bunch of other featuers!
+  paths: 0
+  alexa_rank: "181380"
+  api_rank: "9"
 - label: eBay
   slug: ebay
   url: http://ebay.api.gallery.streamdata.io
@@ -1960,6 +2269,29 @@
     worlds online marketplace
   paths: 0
   alexa_rank: "42"
+  api_rank: "8"
+- label: EhrScape
+  slug: ehrscape
+  url: http://ehrscape.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EHRScape-Logo.png
+  description: Health app development shouldnt be harder than other verticals. EhrScape
+    is all about making awesome healthcare apps easy to build and integrate into your
+    environment. Healthcare computing that just works. EhrScape handles all the hard
+    bits, including detailed clinical models, semantic interoperability, vendor independent
+    data storage, health data query and more. Our mission is to empower you to build
+    amazing healthcare apps and services. Welcome aboard. Were just getting started
+    and weve got very big plans!
+  paths: 0
+  alexa_rank: ~
+  api_rank: "8"
+- label: Elastic Email
+  slug: elastic-email
+  url: http://elastic.email.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/586-elastic-email.jpg
+  description: Elastic Email is an all-in-one email delivery platform. Send beautiful
+    newsletters or transactional emails in a better way.
+  paths: 0
+  alexa_rank: "50338"
   api_rank: "8"
 - label: eMuseum API docs
   slug: emuseum-api-docs
@@ -1973,17 +2305,16 @@
   paths: 0
   alexa_rank: ~
   api_rank: "8"
-- label: Esme
-  slug: esme
-  url: http://esme.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/esmeloans-logo.png
-  description: At Esme, our aim is to provide the money your business needs quickly
-    and with the minimum of fuss. By quickly verifying your details and analysing
-    your credit profile, we waste no time seeing if we can make you an offer. You
-    can relax knowing our security technology ensures the confidentiality and safety
-    of your information.
+- label: EPA Envirofacts
+  slug: epa-envirofacts
+  url: http://epa.envirofacts.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/773-epa-envirofacts.jpg
+  description: 'EPAs purpose is to ensure that:    -  all Americans are protected
+    from significant risks to human health and the environment where they live, learn
+    and work;    -  national efforts to reduce environmental risk are based on the
+    best available scientifi...'
   paths: 0
-  alexa_rank: ~
+  alexa_rank: "5166"
   api_rank: "8"
 - label: Etsy
   slug: etsy
@@ -1993,6 +2324,21 @@
   paths: 0
   alexa_rank: "187"
   api_rank: "9"
+- label: EU BON UTIS
+  slug: eu-bon-utis
+  url: http://eu.bon.utis.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: 'The EDIT Platform for Cybertaxonomy is a collection of open source
+    tools and services which together cover all aspects of the taxonomic workflow.
+    The workflow is grouped into the following areas: taxonomic editing; publishing
+    of edited data; data storage and exchange; collections and specimens; descriptions;
+    fieldwork; literature; and geography. At the heart of the Cybertaxonomy platform
+    is the Common Data Model (CDM), a repository for every conceivable type of data
+    produced by taxonomists in the course of their work, and the backend for most
+    EDIT components.'
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: Europeana
   slug: europeana
   url: http://europeana.api.gallery.streamdata.io
@@ -2039,6 +2385,27 @@
   paths: 0
   alexa_rank: "147251"
   api_rank: "9"
+- label: Fire Browse Beta API
+  slug: fire-browse-beta-api
+  url: http://fire.browse.beta.api.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebrowse.png
+  description: A simple and elegant way to explore cancer data. Sitting above one
+    of the deepest and most integratively characterized open cancer datasets in the
+    world. Backed by a powerful computational infrastructure, application programming
+    interface (API), graphical tools and online reports. With over 80K sample aliquots
+    from 11,000+ cancer patients, spanning 38 unique disease cohorts.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: Firebase
+  slug: firebase
+  url: http://firebase.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+  description: Firebase is a mobile platform that gives developers the tools and infrastructure
+    to build better apps and grow successful businesses.
+  paths: 0
+  alexa_rank: "1"
+  api_rank: "9"
 - label: First Trust Bank
   slug: first-trust-bank
   url: http://first.trust.bank.api.gallery.streamdata.io
@@ -2061,6 +2428,17 @@
   paths: 0
   alexa_rank: "2266"
   api_rank: "9"
+- label: Flat
+  slug: flat
+  url: http://flat.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flat-logo.png
+  description: Whether youre a beginner or a professional composer, our user-friendly
+    music composition software gives you all the tools that you need to make your
+    own sheet music. You can write, listen, share and discover music scores right
+    in your web browser on any device
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: Flickr
   slug: flickr
   url: http://flickr.api.gallery.streamdata.io
@@ -2074,6 +2452,15 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
+- label: Fluxiom
+  slug: fluxiom
+  url: http://fluxiom.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/594-fluxiom.jpg
+  description: Fluxiom offers seamless online file management in the cloud. Keep your
+    files private, share them with a select audience or broadcast them to the world.
+  paths: 0
+  alexa_rank: "3532345"
+  api_rank: "7"
 - label: Foursquare
   slug: foursquare
   url: http://foursquare.api.gallery.streamdata.io
@@ -2083,9 +2470,18 @@
   paths: 0
   alexa_rank: "2544"
   api_rank: "9"
-- label: Freesound.org
-  slug: freesound-org
-  url: http://freesound.org.api.gallery.streamdata.io
+- label: Framesocket
+  slug: framesocket
+  url: http://framesocket.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/795-framesocket.jpg
+  description: Easily integrate video into your website or mobile applications. Build
+    traffic via Google Facebook YouTube Twitter. No limits on users storage or bandwidth.
+  paths: 0
+  alexa_rank: "5719311"
+  api_rank: "8"
+- label: Freesound
+  slug: freesound
+  url: http://freesound.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Freesound_project_website_logo.png
   description: Freesound aims to create a huge collaborative database of audio snippets,
     samples, recordings, bleeps, ... released under Creative Commons licenses that
@@ -2105,18 +2501,26 @@
   paths: 0
   alexa_rank: "49636"
   api_rank: "9"
-- label: G Suite
-  slug: g-suite
-  url: http://g.suite.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-g-suite.png
-  description: The collection of Google applications as one suite. Business email,
-    shared calendars, and video conferencing that brings your team closer together
-    from anywhere. Create, edit, store and share documents, spreadsheets, and presentations
-    in your browser and across devices. Secure, fast, and easy IT administration management
-    across your organization, data, and devices.
+- label: Ge.tt
+  slug: ge-tt
+  url: http://ge.tt.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1012-ge-tt.jpg
+  description: Extremely simple realtime filesharing. No signup required. Share any
+    number of photos, videos, music, anything - in seconds - no matter how large.
   paths: 0
-  alexa_rank: ~
-  api_rank: "9"
+  alexa_rank: "36546"
+  api_rank: "8"
+- label: Geneea
+  slug: geneea
+  url: http://geneea.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geneea-logo.png
+  description: Geneea helps you analyze large amounts of text. Whether it is Facebook,
+    blogs, e-mails or legal documents in your archives. Within seconds.     Dont change
+    your business processes. Simply plug in the output of The Interpretor, our powerful
+    software p...
+  paths: 0
+  alexa_rank: "11275166"
+  api_rank: "7"
 - label: Getty Images
   slug: getty-images
   url: http://getty.images.api.gallery.streamdata.io
@@ -2160,6 +2564,18 @@
   paths: 0
   alexa_rank: "18282"
   api_rank: "8"
+- label: GlobalChange.gov
+  slug: globalchange-gov
+  url: http://globalchange.gov.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-change-gov.png
+  description: The U.S. Global Change Research Program (USGCRP) was established by
+    Presidential Initiative in 1989 and mandated by Congress in the Global Change
+    Research Act (GCRA) of 1990 to &ldquo;assist the Nation and the world to understand,
+    assess, predict, and respond to human-induced and natural processes of global
+    change.&rdquo;
+  paths: 0
+  alexa_rank: ~
+  api_rank: "8"
 - label: Gmail
   slug: gmail
   url: http://gmail.api.gallery.streamdata.io
@@ -2170,26 +2586,6 @@
   paths: 0
   alexa_rank: ~
   api_rank: "10"
-- label: Go.USA.Gov
-  slug: go-usa-gov
-  url: http://go.usa.gov.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png
-  description: The Go.USA.gov API can Shorten a URL. Preview the destination of a
-    short URL. Get the number of clicks on a short URL. Export short URLs from an
-    account.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: Google
-  slug: google
-  url: http://google.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/43-firebase.jpg
-  description: Search the worlds information, including webpages, images, videos and
-    more. Google has many special features to help you find exactly what youre looking
-    for.
-  paths: 0
-  alexa_rank: "1"
-  api_rank: "9"
 - label: Google Adsense
   slug: google-adsense
   url: http://google.adsense.api.gallery.streamdata.io
@@ -2947,9 +3343,9 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
-- label: Google Stackdriver Monitoring API
-  slug: google-stackdriver-monitoring-api
-  url: http://google.stackdriver.monitoring.api.api.gallery.streamdata.io
+- label: Google Stackdriver Monitoring
+  slug: google-stackdriver-monitoring
+  url: http://google.stackdriver.monitoring.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver.png
   description: Google Stackdriver provides powerful monitoring, logging, and diagnostics.
     It equips you with insight into the health, performance, and availability of cloud-powered
@@ -3024,6 +3420,15 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
+- label: GoToMeeting
+  slug: gotomeeting
+  url: http://gotomeeting.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/731-gotomeeting.jpg
+  description: Citrix enables business mobility through the secure delivery of apps
+    and data to any device on any network.
+  paths: 0
+  alexa_rank: "7422"
+  api_rank: "7"
 - label: Groupon
   slug: groupon
   url: http://groupon.api.gallery.streamdata.io
@@ -3092,6 +3497,16 @@
   paths: 0
   alexa_rank: "6044"
   api_rank: "8"
+- label: HHS Media Services
+  slug: hhs-media-services
+  url: http://hhs.media.services.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hhs-media-services.png
+  description: Use this API platform to create sites with text and multimedia content
+    for syndication. CDC, FDA, HHS, and NIH have built syndication sites using this
+    platform, which is available in Java and .NET.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: HSBC
   slug: hsbc
   url: http://hsbc.api.gallery.streamdata.io
@@ -3109,6 +3524,18 @@
   paths: 0
   alexa_rank: "8074"
   api_rank: "8"
+- label: IBM Cloud
+  slug: ibm-cloud
+  url: http://ibm.cloud.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28560-ibm-containers.jpg
+  description: The IBM Cloud has been built to help you solve problems and advance
+    opportunities in a world flush with data. Whether it&rsquo;s data you possess,
+    data outside your firewall, or data that&rsquo;s coming, the IBM Cloud helps you
+    protect it, move it, integrate it and unlock intelligence from it &mdash; giving
+    you what it takes to prevail in a competitive market.
+  paths: 0
+  alexa_rank: "11207"
+  api_rank: "8"
 - label: IBM Watson
   slug: ibm-watson
   url: http://ibm.watson.api.gallery.streamdata.io
@@ -3120,6 +3547,15 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
+- label: Iconfinder
+  slug: iconfinder
+  url: http://iconfinder.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1538-iconfinder.jpg
+  description: Iconfinder is the leading search engine and market place for vector
+    icons in SVG, PNG, CSH and AI format..
+  paths: 0
+  alexa_rank: "4089"
+  api_rank: "7"
 - label: IEX
   slug: iex
   url: http://iex.api.gallery.streamdata.io
@@ -3129,6 +3565,28 @@
   paths: 0
   alexa_rank: "225220"
   api_rank: "9"
+- label: Import.io
+  slug: import-io
+  url: http://import.io.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1728-import-io.jpg
+  description: Home Page - Import.io - Web Scraping, Data Extraction and Web Harvesting
+  paths: 0
+  alexa_rank: "87026"
+  api_rank: "9"
+- label: Infermedica
+  slug: infermedica
+  url: http://infermedica.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/infermedica-logo.jpeg
+  description: At Infermedica we believe in people. Every team member brings unique
+    skills, talent and knowledge. Together we solve the most complex healthcare problems.
+    Infermedica improves the diagnostic process using the most advanced reasoning
+    technology for preliminary medical diagnosis.White-labelled enterprise platform
+    (web, mobile, chatbot or voice-enabled applications) for symptom checking, patient
+    triage and clinical decision support. Open developer portal that allows to easily
+    integrate our diagnostic engine into 3rd party software.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: Instagram
   slug: instagram
   url: http://instagram.api.gallery.streamdata.io
@@ -3143,6 +3601,26 @@
   paths: 0
   alexa_rank: ~
   api_rank: "9"
+- label: Instructure
+  slug: instructure
+  url: http://instructure.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg
+  description: Instructure makes software that makes smarter people. Products include
+    Canvas LMS, Bridge and Canvas Network.
+  paths: 0
+  alexa_rank: "367"
+  api_rank: "8"
+- label: International Trade Administration
+  slug: international-trade-administration
+  url: http://international.trade.administration.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11180-international-trade-administration.jpg
+  description: The International Trade Administration (ITA) strengthens the competitiveness
+    of U.S. industry, promotes trade and investment, and ensures fair trade through
+    the rigorous enforcement of our trade laws and agreements. ITA works to improve
+    the global busi...
+  paths: 0
+  alexa_rank: "81093"
+  api_rank: "10"
 - label: Intrinio
   slug: intrinio
   url: http://intrinio.api.gallery.streamdata.io
@@ -3153,6 +3631,33 @@
   paths: 0
   alexa_rank: "321628"
   api_rank: "8"
+- label: Jumpseller
+  slug: jumpseller
+  url: http://jumpseller.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  description: We founded Jumpseller.com in 2009 in Europe  we called it Vendder back
+    then  and released our first version of the Jumpseller product in September 2010.
+    After releasing the product we quickly grew to thousands of customers. In November
+    2010, we recei...
+  paths: 0
+  alexa_rank: "153745"
+  api_rank: "7"
+- label: Kaltura
+  slug: kaltura
+  url: http://kaltura.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28437-kaltura-vpaa-s.jpg
+  description: A recognized leader in the OTT TV (Over the Top TV), OVP (Online Video
+    Platform), EdVP (Education Video Platform) and EVP (Enterprise Video Platform)
+    markets, Kaltura has emerged as the fastest growing video platform, and as the
+    one with the widest use-case and appeal. Kaltura is deployed globally in thousands
+    of enterprises, media companies, service providers and educational institutions
+    and engages hundreds of millions of viewers at home, in work, and at school. The
+    company is committed to its core values of openness, flexibility, and collaboration,
+    and is the initiator and backer of the worlds leading open-source video-management
+    project, which is home to more than 100,000 community members.
+  paths: 0
+  alexa_rank: "23496"
+  api_rank: "7"
 - label: Knoema
   slug: knoema
   url: http://knoema.api.gallery.streamdata.io
@@ -3163,6 +3668,48 @@
   paths: 0
   alexa_rank: "38551"
   api_rank: "8"
+- label: LaunchDarkly
+  slug: launchdarkly
+  url: http://launchdarkly.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21652-launchdarkly-com.jpg
+  description: Our vision is to eliminate risk for developers and operations teams
+    from the software development cycle. As companies transition to a world built
+    on software, there is an increasing requirement to move quickly&mdash;but that
+    often comes with the desire to maintain control. LaunchDarkly is the feature management
+    platform that enables dev and ops teams to control the whole feature lifecycle,
+    from concept to launch to value. Feature flagging is an industry best practice
+    of wrapping a new or risky section of code or infrastructure change with a flag.
+    Each flag can easily be turned on/off independent of code deployment (aka &rdquo;dark
+    launching&rdquo;). Equipping businesses with the ability to move at the speed
+    of every deploy allows an entire company to learn rapidly, deliver value to their
+    customers faster, and produce more value. Developers can build, marketing can
+    launch, product can iterate, and sales can sell.
+  paths: 0
+  alexa_rank: "187776"
+  api_rank: "7"
+- label: Learnifier
+  slug: learnifier
+  url: http://learnifier.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28448-learnifier.jpg
+  description: Create your online courses in minutes. Learnifier is the fast and easy
+    tool for creating and sharing great courses that work on your mobile, tablet and
+    desktop. Book a DEMO or test it out with our FREE TRIAL.
+  paths: 0
+  alexa_rank: "5836977"
+  api_rank: "7"
+- label: link.fish
+  slug: link-fish
+  url: http://link.fish.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/link-fish-logo.png
+  description: Automatically get the information of the websites you are interested
+    in and work with it together with others in real-time. Depending on the page you
+    bookmark link.fish automatically extracts the data you actually care about. No
+    matter if bedrooms for apartments, rating of movies or the cook time of your favorite
+    recipe. Invite other people to your collection to work with them or make it public
+    for everbody to see. All changes made will immediately be visible by everyone.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
 - label: LinkedIn
   slug: linkedin
   url: http://linkedin.api.gallery.streamdata.io
@@ -3185,6 +3732,33 @@
   paths: 0
   alexa_rank: "4007"
   api_rank: "7"
+- label: LoginRadius
+  slug: loginradius
+  url: http://loginradius.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1086-loginradius.jpg
+  description: Simplify customer authentication and authorization to amplify your
+    business with better understanding of your audience using our customer identity
+    management
+  paths: 0
+  alexa_rank: "60839"
+  api_rank: "8"
+- label: Lota Data
+  slug: lota-data
+  url: http://lota.data.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: ""
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: Lufthansa
+  slug: lufthansa
+  url: http://lufthansa.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28453-lh-partner.jpg
+  description: Book your flights to Germany, Italy, UK or France online at attractive
+    low fares. Fly via Frankfurt, Munich or Zurich - Lufthansa United States of America
+  paths: 0
+  alexa_rank: "3886"
+  api_rank: "7"
 - label: Lyft
   slug: lyft
   url: http://lyft.api.gallery.streamdata.io
@@ -3206,6 +3780,29 @@
   paths: 0
   alexa_rank: "152167"
   api_rank: "8"
+- label: Mailgun
+  slug: mailgun
+  url: http://mailgun.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/612-mail_gun.jpg
+  description: Mailgun provides a web service for integrating email inboxes into apps.
+    Providing APIs for sending, receiving, and storing APis, including tools for managing
+    delivery, real-time integration, organizing, routing, and tracking on emails.
+    Malign provides a free trial to learn about services, and pay as you go, unit
+    based pricing to continue from there, including volume pricing for increased usage.
+  paths: 0
+  alexa_rank: "24750"
+  api_rank: "8"
+- label: Mailjet
+  slug: mailjet
+  url: http://mailjet.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg
+  description: Streamline your emailing and boost your sales with Mailjet. We serve
+    all your email and SMS needs with one simple and powerful solution. You can try
+    it now with 6000 emails/mo absolutely free. Sign up now, or read more about how
+    we can help your busine...
+  paths: 0
+  alexa_rank: "20242"
+  api_rank: "9"
 - label: MasterCard
   slug: mastercard
   url: http://mastercard.api.gallery.streamdata.io
@@ -3215,6 +3812,15 @@
   paths: 0
   alexa_rank: "48280"
   api_rank: "9"
+- label: Matrix
+  slug: matrix
+  url: http://matrix.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11769-matrix.jpg
+  description: An open standard for decentralised secure communication. Please support
+    at https://t.co/oZd61hbMx3! | bridged to https://t.co/ujgzEXDSa4
+  paths: 0
+  alexa_rank: "156652"
+  api_rank: "8"
 - label: Mattermost
   slug: mattermost
   url: http://mattermost.api.gallery.streamdata.io
@@ -3235,15 +3841,17 @@
   paths: 0
   alexa_rank: ~
   api_rank: "8"
-- label: Meetup
-  slug: meetup
-  url: http://meetup.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg
-  description: Find Meetups so you can do more of what matters to you. Or create your
-    own group and meet people near you who share your interests.
+- label: Messente
+  slug: messente
+  url: http://messente.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1817-messente.jpg
+  description: Simple, powerful, and transparent. Thats how we do business. Start
+    messaging your clients and verifying users now. No commitments, contracts, or
+    sign-up fees.     http://messente.com/contact    Were a forward-thinking team.
+    Our purpose is to connect ...
   paths: 0
-  alexa_rank: "902"
-  api_rank: "9"
+  alexa_rank: "677156"
+  api_rank: "7"
 - label: Microsoft Graph
   slug: microsoft-graph
   url: http://microsoft.graph.api.gallery.streamdata.io
@@ -3267,6 +3875,49 @@
   paths: 0
   alexa_rank: ~
   api_rank: "8"
+- label: MotaWord
+  slug: motaword
+  url: http://motaword.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/motaword-logo.png
+  description: MotaWord is the world&rsquo;s fastest, lowest cost, cloud-based, collaborative
+    business translation platform.MotaWord combines the efforts of talented human
+    translators through the use of a cloud based translation platform. Our translators
+    are able to login simultaneously into projects that fit their language combination
+    and provide translation service collaboratively - while also seeing the whole
+    content for contextual purposes. This ability to simultaneously utilize multiple
+    translators makes MotaWord exceptionally fast and highly accurate.
+  paths: 0
+  alexa_rank: ~
+  api_rank: "7"
+- label: Mynewsdesk
+  slug: mynewsdesk
+  url: http://mynewsdesk.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11441-mynewsdesk.jpg
+  description: Discover the impact of Digital PR! Monitor what is being said about
+    your brand, create your story, identify and engage your audience and analyze the
+    results
+  paths: 0
+  alexa_rank: "26576"
+  api_rank: "7"
+- label: MySpace Developers
+  slug: myspace-developers
+  url: http://myspace.developers.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1619-myspace-developers.jpg
+  description: 'AskMyspace: http://askmyspace.com  Twitter: http://twitter.com/Myspace  Instagram:
+    http://instagram.com/Myspace  Tumblr: http://myspace.tumblr.com  YouTube: http://www.youtube.com/Myspace'
+  paths: 0
+  alexa_rank: "4691"
+  api_rank: "7"
+- label: National Renewable Energy Laboratory
+  slug: national-renewable-energy-laboratory
+  url: http://national.renewable.energy.laboratory.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1097-national-renewable-energy-laboratory.jpg
+  description: The National Renewable Energy Laboratory (NREL) is the nations primary
+    laboratory for renewable energy and energy efficiency research and development
+    (R&D).
+  paths: 0
+  alexa_rank: "31023"
+  api_rank: "7"
 - label: Nationwide Building Society
   slug: nationwide-building-society
   url: http://nationwide.building.society.api.gallery.streamdata.io
@@ -3295,15 +3946,31 @@
   paths: 0
   alexa_rank: ~
   api_rank: "8"
-- label: New Relic
-  slug: new-relic
-  url: http://new.relic.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg
-  description: New Relic???s digital intelligence platform lets developers, ops, and
-    tech teams measure and monitor the performance of their applications and infrastructure.
+- label: Netatmo
+  slug: netatmo
+  url: http://netatmo.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: We develop groundbreaking, intuitive and beautifully-designed connected
+    consumer electronics. Truly smart, our innovative products provide a seamless
+    experience that helps users create a safer, healthier and more comfortable home.
+    We carefully design the mechanics, electronics and embedded software of all our
+    products to the highest standards. Our mobile and web applications are designed
+    to be simple to operate, yet deliver a rich user experience.
   paths: 0
-  alexa_rank: "10322"
-  api_rank: "8"
+  alexa_rank: ~
+  api_rank: "7"
+- label: NetLicensing
+  slug: netlicensing
+  url: http://netlicensing.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28466-labs64-net-licensing-restful-api-test-center.jpg
+  description: Labs64 NetLicensing is a first-class solution in the Licensing-as-a-Service
+    (LaaS) sector. Based on open standards, it provides a cost effective, integrated
+    and scalable platform for software vendors and developers who want to concentrate
+    on their product&rsquo;s core functionality instead of spending resources on developing
+    an own license management software.
+  paths: 0
+  alexa_rank: "1080577"
+  api_rank: "7"
 - label: New York Times
   slug: new-york-times
   url: http://new.york.times.api.gallery.streamdata.io
@@ -3323,597 +3990,138 @@
   paths: 0
   alexa_rank: "149236"
   api_rank: "9"
-- label: Nordea
-  slug: nordea
-  url: http://nordea.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nordea-bank-logo.png
-  description: The Nordeas Open Banking Initiative (OBI) API, offers a safe and simple
-    way to try out the upcoming OBI. This API is a sandbox version, and its purpose
-    is to make developers familiar with the upcoming OBI production release. Moreover,
-    it allows the developers to experiment and build applications which use the OBI
-    before its official release.
+- label: NewsCred
+  slug: newscred
+  url: http://newscred.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscred.jpg
+  description: NewsCred is the leading enterprise content marketing company. NewsCred
+    delivers content marketing solutions that drive business results for top brands
+  paths: 0
+  alexa_rank: "91598"
+  api_rank: "7"
+- label: Nexmo
+  slug: nexmo
+  url: http://nexmo.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/626-nexmo.jpg
+  description: Nexmo, a Vonage Company, is a global cloud communications platform
+    leader providing innovative APIs & SDKs for voice, text, messaging & phone verification.
+  paths: 0
+  alexa_rank: "33205"
+  api_rank: "7"
+- label: Next Caller
+  slug: next-caller
+  url: http://next.caller.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2468-next-caller.jpg
+  description: Identify inbound phone numbers and increase sales conversion with accurate
+    real-time caller data. Accurately detect phone spoofing fraud before you pickup
+    the phone and route your inbound calls intelligently
+  paths: 0
+  alexa_rank: "3612031"
+  api_rank: "8"
+- label: NSIDC Web Service Documentation Index
+  slug: nsidc-web-service-documentation-index
+  url: http://nsidc.web.service.documentation.index.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: NSIDC manages and distributes scientific data, creates tools for data
+    access, supports data users, performs scientific research, and educates the public
+    about the cryosphere.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
-- label: NPR
-  slug: npr
-  url: http://npr.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/141-npr.jpg
-  description: NPR delivers breaking national and world news. Also top stories from
-    business, politics, health, science, technology, music, arts and culture. Subscribe
-    to podcasts and RSS feeds.
+  api_rank: "7"
+- label: OneNote
+  slug: onenote
+  url: http://onenote.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
+  description: Microsoft OneNote (formerly called Microsoft Office OneNote) is a computer
+    program for free-form information gathering and multi-user collaboration. It gathers
+    users notes (handwritten or typed), drawings, screen clippings and audio commentaries.
+    Notes can be shared with other OneNote users over the Internet or a network. OneNote
+    is available as a part of the Microsoft Office suite. It is also available as
+    a free stand-alone application for Windows, Mac, Windows RT, Windows Phone, iOS,
+    Android and Symbian.[4] A web-based version of OneNote is provided as part of
+    OneDrive or Office Online and enables users to edit notes via a web browser.
   paths: 0
-  alexa_rank: "641"
-  api_rank: "9"
-- label: OpenCage
-  slug: opencage
-  url: http://opencage.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2956-opencage.jpg
-  description: An easy-to-use forward and reverse geocoding API. Worldwide coverage.
-    Affordable, predictable pricing. Open data.
+  alexa_rank: "5531"
+  api_rank: "7"
+- label: Open FinTech
+  slug: open-fintech
+  url: http://open.fintech.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
+  description: International standards yield technological, economic and social advantages.
+    Standards speed up the development of new applications and simplify the process
+    of communication between the services. Data and service is available under the
+    Open Database License (ODbL). It is an open standard and open data, every player
+    of FinTech market can contribute to development and enhancement. All data is available
+    through Rest API based on JSON API standard.
   paths: 0
-  alexa_rank: "1026215"
-  api_rank: "9"
-- label: OpenCorporates
-  slug: opencorporates
-  url: http://opencorporates.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg
-  description: Free and Open Company Data on 135 million companies and corporations
-    in over 125 jurisdictions, including US, UK, Switzerland, Panama...
+  alexa_rank: ~
+  api_rank: "7"
+- label: Open Science Framework
+  slug: open-science-framework
+  url: http://open.science.framework.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: OSF provides free and open source project management support for researchers
+    across the entire research lifecycle. As a collaboration tool, OSF helps researchers
+    work on projects privately with a limited number of collaborators and make parts
+    of their projects public, or make all the project publicly accessible for broader
+    dissemination. As a workflow system, OSF enables connections to the many services
+    researchers already use to streamline their process and increase efficiency. As
+    a flexible repository, it can store and archive research data, protocols, and
+    materials.
   paths: 0
-  alexa_rank: "53526"
-  api_rank: "9"
-- label: OpenDNS
-  slug: opendns
-  url: http://opendns.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20022-opendns.jpg
-  description: OpenDNS was founded in 2006 and acquired by Cisco in 2015. Today, more
-    than 12,000 business worldwide rely on our enterprise security products. Cisco
-    Umbrella is a cloud security platform that provides the first line of defense
-    against threats on the i...
+  alexa_rank: ~
+  api_rank: "7"
+- label: OrgHunter
+  slug: orghunter
+  url: http://orghunter.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  description: OrgHunter.com is the number one destination for online charity and
+    donor matching services. Every charity deserves the opportunity to be discovered
+    regardless of size or financial status.
   paths: 0
-  alexa_rank: "4178"
-  api_rank: "8"
-- label: PagerDuty
-  slug: pagerduty
-  url: http://pagerduty.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/632-pagerduty.jpg
-  description: See how PagerDuty Digital Operations Management Platform integrates
-    machine data & human intelligence to improve visibility & agility across organizations.
+  alexa_rank: "2914633"
+  api_rank: "7"
+- label: Pay Run
+  slug: pay-run
+  url: http://pay.run.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payrun-logo.jpeg
+  description: PayRun.io is a RESTful payroll and auto enrolment API built by developers
+    for developers. It is a 100% compliant solution hosted in our own private cloud,
+    providing realtime payroll calculations and regulatory reporting to HMRC.
   paths: 0
-  alexa_rank: "19574"
-  api_rank: "8"
-- label: ParallelDots
-  slug: paralleldots
-  url: http://paralleldots.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paralleldots-logo.png
+  alexa_rank: ~
+  api_rank: "7"
+- label: Paylocity
+  slug: paylocity
+  url: http://paylocity.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
   description: ""
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
-- label: PayPal
-  slug: paypal
-  url: http://paypal.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
-  description: PayPal is the faster, safer way to send money, make an online payment,
-    receive money or set up a merchant account.
-  paths: 0
-  alexa_rank: "71"
-  api_rank: "10"
-- label: Pinboard
-  slug: pinboard
-  url: http://pinboard.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/240-pinboard.jpg
-  description: veni, vidi, tweeti
-  paths: 0
-  alexa_rank: "44671"
-  api_rank: "9"
-- label: Pingdom
-  slug: pingdom
-  url: http://pingdom.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  description: Monitor your website???s availability and performance for free with
-    Pingdom and always be the first to know when your website is down. No installation
-    required.
-  paths: 0
-  alexa_rank: "5592"
   api_rank: "7"
-- label: Pingometer
-  slug: pingometer
-  url: http://pingometer.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
-  description: Pingometer is a service that monitors the uptime, downtime, and performance
-    of websites. Get 24/7 monitoring - sign up for your FREE account today!
+- label: PredictHQ
+  slug: predicthq
+  url: http://predicthq.api.gallery.streamdata.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28211-developer-predicthq-com.jpg
+  description: Event visibility yields higher returns & reduces operational costs.
+    PredictHQ is the worlds largest source of intelligent event data making businesses
+    smarter.
   paths: 0
-  alexa_rank: "1382804"
-  api_rank: "8"
-- label: Plivo
-  slug: plivo
-  url: http://plivo.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1113-plivo.jpg
-  description: 'Voice & SMS API Platform: Plivo enables businesses and developers
-    to tap into powerful Voice and SMS capabilities without carrier lock-in.'
-  paths: 0
-  alexa_rank: "116335"
-  api_rank: "8"
-- label: Product Hunt
-  slug: product-hunt
-  url: http://product.hunt.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/product-hunt-logo.png
-  description: Product Hunt (YC S14) surfaces the best new products, every day. Its
-    a place for product-loving enthusiasts to share and geek out about the latest
-    mobile apps, websites, hardware projects, and tech creations.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: Quandl
-  slug: quandl
-  url: http://quandl.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11440-quandl.jpg
-  description: Quandl delivers financial data to users in the format they want. Access
-    thousands of databases via the Quandl API or in your tool of choice.
-  paths: 0
-  alexa_rank: "53781"
-  api_rank: "8"
-- label: Rackspace
-  slug: rackspace
-  url: http://rackspace.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/241-rackspace.jpg
-  description: Host on our dedicated or cloud infrastructure or through one of our
-    partners. Leverage our expertise to run fast and lean. We offer web, app or email
-    hosting, data services and managed security solutions.
-  paths: 0
-  alexa_rank: "4115"
-  api_rank: "9"
-- label: Reddit
-  slug: reddit
-  url: http://reddit.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3516-reddit.jpg
-  description: Reddit is a community of millions of users engaging in the creation
-    of content and the sharing of conversation across tens of thousands of topics.
-  paths: 0
-  alexa_rank: "6"
-  api_rank: "9"
-- label: Regulations.gov
-  slug: regulations-gov
-  url: http://regulations.gov.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/regulations-gov-logo.png
-  description: Regulations.gov is a multi-agency website where citizens can view and
-    comment on federal regulations and other agency actions that affect their daily
-    lives. More than 35 federal departments and agencies participate in Regulations.gov,
-    which is designed to encourage public involvement and citizen input.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: Royal Bank of Scotland
-  slug: royal-bank-of-scotland
-  url: http://royal.bank.of.scotland.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/royal-bank-of-scotland.png
-  description: 'The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail
-    na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly
-    abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank
-    of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of
-    Scotland has around 700 branches, mainly in Scotland, though there are branches
-    in many larger towns and cities throughout England and Wales. Both the bank and
-    its parent, The Royal Bank of Scotland Group, are completely separate from the
-    fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank
-    of Scotland by 32 years.'
-  paths: 0
-  alexa_rank: "52820"
+  alexa_rank: "428389"
   api_rank: "7"
-- label: Runscope
-  slug: runscope
-  url: http://runscope.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1752-runscope.jpg
-  description: API performance monitoring. Everything is going to be 200 OK
+- label: Public Transport Victoria Timetable
+  slug: public-transport-victoria-timetable
+  url: http://public.transport.victoria.timetable.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: The PTV Timetable API provides direct access to Public Transport Victoria&rsquo;s
+    public transport timetable data. The API returns scheduled timetable, route and
+    stop data for all metropolitan and regional train, tram and bus services in Victoria,
+    including Night Network(Night Train and Night Tram data are included in metropolitan
+    train and tram services data, respectively, whereas Night Bus is a separate route
+    type). The API also returns real-time data for metropolitan train, tram and bus
+    services (where this data is made available to PTV), as well as disruption information,
+    stop facility information, and access to myki ticket outlet data.
   paths: 0
-  alexa_rank: "125183"
-  api_rank: "9"
-- label: Salesforce
-  slug: salesforce
-  url: http://salesforce.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
-  description: Build more meaningful and lasting relationships and connect with your
-    customers across sales, customer service, marketing, communities, apps, analytics,
-    and more using our Customer Success Platform. Try for Free.
-  paths: 0
-  alexa_rank: "146"
-  api_rank: "10"
-- label: Santander Bank
-  slug: santander-bank
-  url: http://santander.bank.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
-  description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary
-    of Spanish Santander Group. It is based in Boston and its principal market is
-    the northeastern United States. It has $54.7 billion in deposits, operates about
-    650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800
-    people. It offers an array of financial services and products including retail
-    banking, mortgages, corporate banking, cash management, credit card, capital markets,
-    trust and wealth management, and insurance.
-  paths: 0
-  alexa_rank: "11016"
-  api_rank: "8"
-- label: SendGrid
-  slug: sendgrid
-  url: http://sendgrid.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg
-  description: Delivering your transactional and marketing emails through the worlds
-    largest cloud-based email delivery platform. Send with confidence.
-  paths: 0
-  alexa_rank: "9582"
-  api_rank: "9"
-- label: Sensr.net
-  slug: sensr-net
-  url: http://sensr.net.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/924-sensr-net.jpg
-  description: Sensr.net keeps track of interesting images and alert you when something
-    happens. Were starting off with basic motion detection. We keep the images around
-    and organize them by time and day. Well send you an email or a text message if
-    youd like when ...
-  paths: 0
-  alexa_rank: "766070"
+  alexa_rank: ~
   api_rank: "7"
-- label: Server Density
-  slug: server-density
-  url: http://server.density.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg
-  description: SaaS infrastructure monitoring. Dashboards, graphs and alerts to help
-    you improve performance and maintain uptime. Organizer of @humanops
-  paths: 0
-  alexa_rank: "197497"
-  api_rank: "7"
-- label: Site24x7
-  slug: site24x7
-  url: http://site24x7.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
-  description: Site24x7 offers both free & paid website monitoring services. Monitor
-    websites remotely and receive instant email/sms alerts if your website becomes
-    unavailable. View uptime & performance graphs of your website monitors.
-  paths: 0
-  alexa_rank: "42122"
-  api_rank: "7"
-- label: Slack
-  slug: slack
-  url: http://slack.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slack-logo.png
-  description: Slack is a team communication application providing services such as
-    real-time messaging, archiving, and to search for modern teams. It offers one-on-one
-    messaging, private groups, persistent chat rooms, and direct messaging as well
-    as group chats organized by topic. All content inside Slack is searchable from
-    one search box and it integrates with a number of third-party services, including
-    Google Docs, Dropbox, Heroku, Crashlytics, GitHub, and Zendesk.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: SmartBear Software
-  slug: smartbear-software
-  url: http://smartbear.software.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smartbear-software.jpg
-  description: Testing and Development teams around the world use SmartBears automation,
-    development and monitoring tools to build better software and applications.
-  paths: 0
-  alexa_rank: "35193"
-  api_rank: "9"
-- label: SoundCloud
-  slug: soundcloud
-  url: http://soundcloud.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/252-soundcloud.jpg
-  description: SoundCloud is a music and podcast streaming platform that lets you
-    listen to millions of songs from around the world, or upload your own. Start listening
-    now!
-  paths: 0
-  alexa_rank: "114"
-  api_rank: "9"
-- label: SpectroCoin
-  slug: spectrocoin
-  url: http://spectrocoin.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26436-spectrocoin-com.jpg
-  description: SpectroCoin offers bitcoin exchange, bitcoin wallet, bitcoin debit
-    card, and bitcoin payment processing services. Buy and sell bitcoins through SEPA,
-    international and local bank transfers, or credit and debit cards.
-  paths: 0
-  alexa_rank: "13042"
-  api_rank: "8"
-- label: Spotify
-  slug: spotify
-  url: http://spotify.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1165-spotify.jpg
-  description: Spotify is a digital music service that gives you access to millions
-    of songs.
-  paths: 0
-  alexa_rank: "133"
-  api_rank: "8"
-- label: Square
-  slug: square
-  url: http://square.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
-  description: Square helps millions of sellers run their business- from secure credit
-    card processing to point of sale solutions. Get paid faster with Square and sign
-    up today!
-  paths: 0
-  alexa_rank: "2436"
-  api_rank: "9"
-- label: Stack Exchange
-  slug: stack-exchange
-  url: http://stack.exchange.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/253-stack-exchange.jpg
-  description: After someone asks a question, members of the community propose answers.
-    Others vote on those answers. Very quickly, the answers with the most votes rise
-    to the top. You don???t have to read through a lot of discussion to find the best
-    answer.    Like to...
-  paths: 0
-  alexa_rank: "126"
-  api_rank: "8"
-- label: Standard Chartered
-  slug: standard-chartered
-  url: http://standard.chartered.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
-  description: Standard Chartered PLC is a British multinational banking and financial
-    services company headquartered in London, England. It operates a network of more
-    than 1,200 branches and outlets (including subsidiaries, associates and joint
-    ventures) across more than 70 countries and employs around 87,000 people. It is
-    a universal bank with operations in consumer, corporate and institutional banking,
-    and treasury services. Despite its UK base, it does not conduct retail banking
-    in the UK, and around 90% of its profits come from Asia, Africa and the Middle
-    East.
-  paths: 0
-  alexa_rank: "4658"
-  api_rank: "7"
-- label: StatusPage.io
-  slug: statuspage-io
-  url: http://statuspage.io.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18898-statuspage-io.jpg
-  description: StatusPage.io is the best way for web infrastructure, developer API,
-    and SaaS companies to get set up with their very own status page in minutes
-  paths: 0
-  alexa_rank: "34645"
-  api_rank: "8"
-- label: StockTwits
-  slug: stocktwits
-  url: http://stocktwits.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/944-stocktwits.jpg
-  description: StockTwits is a real-time social network for investors and traders.
-    Download our app and visit StockTwits.com.
-  paths: 0
-  alexa_rank: "6524"
-  api_rank: "8"
-- label: Stride
-  slug: stride
-  url: http://stride.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
-  description: Stride is a cloud-based team business communication and collaboration
-    tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride
-    software is available to download onto computers running Windows, Mac or Linux,
-    as well as Android, iOS smartphones, and tablets
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: Stripe
-  slug: stripe
-  url: http://stripe.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
-  description: Online payment processing for internet businesses. Stripe is a suite
-    of payment APIs that powers commerce for online businesses of all sizes, including
-    fraud prevention, and subscription management. Use Stripe???s payment platform
-    to accept and process p...
-  paths: 0
-  alexa_rank: "1793"
-  api_rank: "10"
-- label: Sustainable Facilities Tool API
-  slug: sustainable-facilities-tool-api
-  url: http://sustainable.facilities.tool.api.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sustainable-facilities-mobile_504b7.png
-  description: Our core API allows developers to interact with the Sustainable Facilities
-    Tool programmatically. Its designed for public use and to be easily integrated
-    into other applications.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: System Award Management
-  slug: system-award-management
-  url: http://system.award.management.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/53aa67a8-caec-11e3-9248-37414d200130.gif
-  description: The SAM API is a RESTful method of retrieving public information about
-    the businesses or individuals (referred to as &ldquo;entities&rdquo;) within the
-    SAM data set. The entities publicly available data set can currently be retrieved
-    on an entity-by-entity basis.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: The Guardian
-  slug: the-guardian
-  url: http://the.guardian.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
-  description: The Guardian is a British national daily newspaper which has grown
-    into a national paper associated with a complex organisational structure and an
-    international multimedia and web presence. The Guardian provides API access to
-    articles accessible by tag and section, and a suite of open source data and tools.
-    The Guardian makes content accessible to increase traffic, brand awareness, and
-    as a marketing vehicle, including partnership opportunities via platform program.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: Tumblr
-  slug: tumblr
-  url: http://tumblr.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr.jpg
-  description: Tumblr is a place to express yourself, discover yourself, and bond
-    over the stuff you love. Its where your interests connect you with your people.
-  paths: 0
-  alexa_rank: "59"
-  api_rank: "7"
-- label: Twilio
-  slug: twilio
-  url: http://twilio.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
-  description: Cloud communications platform for building SMS, Voice & Messaging applications
-    on an API built for global scale. Get started with a free trial.
-  paths: 0
-  alexa_rank: "9195"
-  api_rank: "10"
-- label: Twitter
-  slug: twitter
-  url: http://twitter.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/266-twitter.jpg
-  description: From breaking news and entertainment to sports and politics, get the
-    full story with all the live commentary.
-  paths: 0
-  alexa_rank: "13"
-  api_rank: "10"
-- label: Tyk
-  slug: tyk
-  url: http://tyk.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11408-tyk.jpg
-  description: Tyk - Open Source API Gateway, API Management Platform, Developer Portal
-    and Analytics - Tyk
-  paths: 0
-  alexa_rank: "489034"
-  api_rank: "9"
-- label: U.S. Digital Registry
-  slug: u-s--digital-registry
-  url: http://u.s..digital.registry.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/digital-gov-logo.jpeg
-  description: Whether for access to emergency, financial or education public services,
-    users need to trust they are engaging with official U.S. government digital accounts.
-    The U.S. Digital Registry serves as the authoritative resource for agencies, citizens
-    and developers to confirm the official status of social media and public-facing
-    collaboration accounts, mobile apps and mobile websites, and help prevent exploitation
-    from unofficial sources, phishing scams or malicious entities.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: Uber
-  slug: uber
-  url: http://uber.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uber-logo.png
-  description: The Uber API exposes a set of RESTful endpoints that enable your application
-    to GET information such as time and price estimates about the products offered
-    in a given location, request rides on behalf of authenticated users, and create
-    ride reminders for users to take a ride at a specific time in the future.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: Ulster Bank
-  slug: ulster-bank
-  url: http://ulster.bank.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
-  description: Ulster Bank is a large commercial bank, and one of the traditional
-    Big Four Irish banks. The Ulster Bank Group is subdivided into two separate legal
-    entities, Ulster Bank Limited (UBL &ndash; registered in Northern Ireland) and
-    Ulster Bank Ireland DAC (UBIDAC &ndash; registered in the Republic of Ireland).
-    The Groups headquarters (and UBIDACs) is located on Georges Quay, Dublin, in the
-    Republic of Ireland whilst the official headquarters of UBL is in Donegall Square
-    East, Belfast, in Northern Ireland, and it maintains a large sector of the financial
-    services in both the UK and the Republic of Ireland.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: USA.Gov Corporate Consumer Contact Information
-  slug: usa-gov-corporate-consumer-contact-information
-  url: http://usa.gov.corporate.consumer.contact.information.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usa-gov-logo.png
-  description: We make the Corporate Consumer Contact listing found in the Consumer
-    Action Handbook (PDF) available via a REST API. The API programmatically returns
-    all of the information contained in the directory, or you can query the API to
-    return just a subset of the available information.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: USAJobs API
-  slug: usajobs-api
-  url: http://usajobs.api.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usajobs.png
-  description: Federal, state, and local government agencies are hiring and have thousands
-    of job openings across the country, posted on USAJobs.gov and local government
-    jobs sites. This Jobs API allows you to tap into a list of current jobs openings
-    with the government. Jobs are searchable by keyword, location, agency, schedule,
-    or any combination of these.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
-- label: VersaPay
-  slug: versapay
-  url: http://versapay.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
-  description: VersaPay handles elements of both credit and debit card merchant payment
-    processing in Canada. In offering a host of merchant account services and credit
-    card POS terminals it allows for an efficient merchant payment service in all
-    aspects- in person, on the go, online, and at the office. Founded in 2005 by Michael
-    Gokturk, VersaPay is a Canadian owned and operated national financial transaction
-    services provider partnered with Chase Paymentech. Versapay also offers electronic
-    funds transfer through a system called Versapay EMT.
-  paths: 0
-  alexa_rank: "410909"
-  api_rank: "9"
-- label: VictorOps
-  slug: victorops
-  url: http://victorops.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20023-victorops.jpg
-  description: VictorOps incident managament software gives DevOps observability,
-    collaboration, & real-time alerting, to build, deploy, & operate software. Learn
-    more.
-  paths: 0
-  alexa_rank: "196587"
-  api_rank: "8"
-- label: Washington Metropolitan Area Transit Authority
-  slug: washington-metropolitan-area-transit-authority
-  url: http://washington.metropolitan.area.transit.authority.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1214-washington-metropolitan-area-transit-authority.jpg
-  description: Official feed of Metro/WMATA, not monitored 24/7. Report emergencies
-    to Transit Police at (202) 962-2121. Service updates @metrorailinfo & @metrobusinfo.
-  paths: 0
-  alexa_rank: "24927"
-  api_rank: "8"
-- label: Weather Underground
-  slug: weather-underground
-  url: http://weather.underground.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/966-weather-underground.jpg
-  description: Weather Underground provides local & long range weather forecasts,
-    weather reports, maps & tropical weather conditions for locations worldwide.
-  paths: 0
-  alexa_rank: "619"
-  api_rank: "10"
-- label: Weatherbit
-  slug: weatherbit
-  url: http://weatherbit.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/weatherbit-logo.png
-  description: Our mission at Weatherbit.io is pretty simple. It is to provide the
-    highest quality weather forecasts, observations, and historical weather data at
-    the best price. We constantly improve our platform every day. Our Weather APIs
-    grow with you. Have a feature request? Let us know on our Support Forum! Our commitment
-    to data quality is unparalleled. Our forecast system uses global forecast models
-    (GFS/ECMWF), in combination with local short range high resolution models to derive
-    the most accurate, and relevant forecast apis on the web.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "8"
-- label: Wikipedia
-  slug: wikipedia
-  url: http://wikipedia.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/144-wikipedia.jpg
-  description: Wikipedia is a free online encyclopedia, created and edited by volunteers
-    around the world and hosted by the Wikimedia Foundation.
-  paths: 0
-  alexa_rank: "5"
-  api_rank: "8"
-- label: Xignite
-  slug: xignite
-  url: http://xignite.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
-  description: Financial market data on-demand. Xignite financial Web services help
-    build smarter websites and applications in minutes with zero up-front investment.
-  paths: 0
-  alexa_rank: "383974"
-  api_rank: "9"
-- label: YouTube
-  slug: youtube
-  url: http://youtube.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/youtube-logo.png
-  description: YouTube allows billions of people to discover, watch and share originally-created
-    videos. YouTube provides a forum for people to connect, inform, and inspire others
-    across the globe and acts as a distribution platform for original content creators
-    and advertisers large and small.
-  paths: 0
-  alexa_rank: ~
-  api_rank: "9"
 ...
