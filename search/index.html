@@ -40,11 +40,11 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                   entity[rowKey] = [];
                   entity[rowKey]['org_label'] = rowEntry['label'];
-                  entity[rowKey]['org_slug']= rowEntry['slug'];
+                  entity[rowKey]['org_slug'] = rowEntry['slug'];
                   entity[rowKey]['org_url'] = rowEntry['url'];
                   entity[rowKey]['org_image'] = rowEntry['image'];
 
-                  entity[rowKey]['org_url'] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity_slug[rowKey] + '/master/_listings/' + entity_slug[rowKey] + '/apis.md';
+                  entity[rowKey]['org_url'] = 'https://raw.githubusercontent.com/streamdata-gallery-organizations/' + entity[rowKey]['org_slug'] + '/master/_listings/' + entity[rowKey]['org_slug'] + '/apis.md';
                   console.log(entity[rowKey]['org_url']);
 
                   jQuery.ajax({
