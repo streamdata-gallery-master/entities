@@ -57,8 +57,6 @@ title: Streamdata.io API Gallery - API Lifecycle
                           entity[rowKey]['apisjson_index_response'] = entity[rowKey]['apisjson_index_response'].replace("---","");
                           entity[rowKey]['apisjson_index_yaml'] = jsyaml.load(entity[rowKey]['apisjson_index_response']);
 
-                          //console.log("HERE: " + entity[rowKey]['apisjson_index_yaml']['name']);
-
                           entity[rowKey]['apis_name'] = entity[rowKey]['apisjson_index_yaml']['name'];
                           entity[rowKey]['apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'];
                           entity[rowKey]['apis_slug'] = entity[rowKey]['apisjson_index_yaml']['x-api-slug'];
@@ -67,8 +65,8 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                           console.log("searching: " + search_keywords);
 
-                          entity[rowKey]['search_apis_name'] = entity[rowKey]['apisjson_index_yaml']['name'].search(search_keywords);
-                          entity[rowKey]['search_apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'].search(search_keywords);
+                          entity[rowKey]['search_apis_name'] = entity[rowKey]['apis_name'].search(search_keywords);
+                          entity[rowKey]['search_apis_description'] = entity[rowKey]['apis_description'].search(search_keywords);
 
                           console.log("searched: " + entity[rowKey]['search_apis_name']);
                           console.log("searched 2: " + entity[rowKey]['search_apis_description']);
