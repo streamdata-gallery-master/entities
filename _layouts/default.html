@@ -7,5 +7,24 @@
   {{ content }}
   {% include footer.html %}
 
+  <script>
+
+    function viewLog()
+      {
+      jQuery.ajax({
+         url: "http://traffic.beacon.streamdata.gallery/view/count/",
+         method: "get",
+         success:function(traffic){
+            console.log(traffic);
+          },
+          error: function(XMLHttpRequest, textStatus, errorThrown) {
+              //console.log("Status: " + textStatus);
+              //console.log("Error: " + errorThrown);
+          }
+      });
+    }
+
+  </script>
+
 </body>
 </html>
