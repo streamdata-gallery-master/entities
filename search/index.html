@@ -19,7 +19,7 @@ title: Streamdata.io API Gallery - Search
          url: "http://traffic.beacon.streamdata.gallery/search/count/?search="+search_keywords,
          method: "get",
          success:function(traffic){
-            console.log(traffic);
+            //console.log(traffic);
           },
           error: function(XMLHttpRequest, textStatus, errorThrown) {
               //console.log("Status: " + textStatus);
@@ -132,7 +132,7 @@ title: Streamdata.io API Gallery - Search
                              url: "http://traffic.beacon.streamdata.gallery/error/log/?url="+entity[rowKey]['org_url'],
                              method: "get",
                              success:function(traffic){
-                                console.log(traffic);
+                                //console.log(traffic);
                               },
                               error: function(XMLHttpRequest, textStatus, errorThrown) {
                                   //console.log("Status: " + textStatus);
