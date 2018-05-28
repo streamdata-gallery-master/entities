@@ -61,16 +61,9 @@ title: Streamdata.io API Gallery - API Lifecycle
                           entity[rowKey]['apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'];
                           entity[rowKey]['apis_slug'] = entity[rowKey]['apisjson_index_yaml']['x-api-slug'];
 
-                          console.log(entity[rowKey]['apis_name']);
-
-                          console.log("searching: " + search_keywords);
-
+                          // search
                           entity[rowKey]['search_apis_name'] = entity[rowKey]['apis_name'].search(search_keywords);
                           entity[rowKey]['search_apis_description'] = entity[rowKey]['apis_description'].search(search_keywords);
-
-                          //console.log("searched: " + entity[rowKey]['search_apis_name']);
-                          //console.log("searched 2: " + entity[rowKey]['search_apis_description']);
-
                           entity[rowKey]['search_apis_name'] = entity[rowKey]['search_apis_name'] - 0;
                           entity[rowKey]['search_apis_description'] = entity[rowKey]['search_apis_description'] - 0;
 
@@ -78,15 +71,11 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                             entity[rowKey]['api_name'] = rowEntry2.name;
                             entity[rowKey]['api_description'] = rowEntry2.description;
+                            entity[rowKey]['api_image'] = rowEntry2.image;
 
-                            console.log("individual apis: " + entity[rowKey]['api_name']);
-
+                            // search
                             entity[rowKey]['search_api_name'] = entity[rowKey]['api_name'].search(search_keywords);
                             entity[rowKey]['search_api_description'] = entity[rowKey]['api_description'].search(search_keywords);
-
-                            //console.log("searched 3: " + entity[rowKey]['search_api_name']);
-                            //console.log("searched 4: " + entity[rowKey]['search_api_description']);
-
                             entity[rowKey]['search_api_name'] = entity[rowKey]['search_api_name'] - 0;
                             entity[rowKey]['search_api_description'] = entity[rowKey]['search_api_description'] - 0;
 
@@ -94,18 +83,18 @@ title: Streamdata.io API Gallery - API Lifecycle
                               {
 
                               // Just APIs for now.
-                              console.log("api:" + entity[rowKey]['apis_name'] + ' = ' + entity[rowKey]['apis_description'] + ' - ' + entity[rowKey]['apis_slug']);
+                              //console.log("api:" + entity[rowKey]['apis_name'] + ' = ' + entity[rowKey]['apis_description'] + ' - ' + entity[rowKey]['apis_slug']);
 
                               //entity[rowKey]['html'] = '';
                               entity[rowKey]['html'] = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__upper" style="background-color:#FFF;">';
-                              entity[rowKey]['html'] = entity[rowKey]['html'] + '<a href="#"><img src="' + entity[rowKey]['org_image'] + '" class="taggedLinkCard__image" alt=""></a>';
+                              entity[rowKey]['html'] = entity[rowKey]['html'] + '<a href="#"><img src="' + entity[rowKey]['api_image'] + '" class="taggedLinkCard__image" alt=""></a>';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__lower">';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__copy">';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey]['api_name'] + '</a></h3>';
-                              entity[rowKey]['html'] = entity[rowKey]['html'] + '<p class="taggedLinkCard__body">' + entity[rowKey]['api_description'] + '</p>';
+                              entity[rowKey]['html'] = entity[rowKey]['html'] + '<p class="taggedLinkCard__body">' + entity[rowKey]['api_description'].substr(1, 250); + '...</p>';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                               entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
