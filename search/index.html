@@ -74,7 +74,10 @@ title: Streamdata.io API Gallery - API Lifecycle
                           entity[rowKey]['search_apis_name'] = entity[rowKey]['search_apis_name'] - 0;
                           entity[rowKey]['search_apis_description'] = entity[rowKey]['search_apis_description'] - 0;
 
-                          console.log("ROW:" + entity[rowKey]['apisjson_index_yaml']['apis']);
+                          jQuery.each(entity[rowKey]['apisjson_index_yaml']['apis'], function(rowKey2, rowEntry2) {
+
+                            console.log("individual apis: " + rowKey2);
+                            console.log("individual apis: " + rowEntry2);
 
                             if(entity[rowKey]['search_apis_name'] > 1 || entity[rowKey]['search_apis_description'] > 1)
                               {
@@ -101,6 +104,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                               document.getElementById('searchlisting').innerHTML = document.getElementById('searchlisting').innerHTML + entity[rowKey]['html'];
                               }
 
+                          });
 
                       },
                       error: function(XMLHttpRequest, textStatus, errorThrown) {
