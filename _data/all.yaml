@@ -3,11 +3,11 @@
   slug: accelo
   url: http://accelo.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/320-accelo.jpg
-  description: 'The #1 Service Operations Automation (ServOps) featuring sales, project
+  description: 'The 1 Service Operations Automation featuring sales, project
     management, email integration, retainer management, sales tracking, and support.'
   paths: 0
-  alexa_rank: "105620"
-  api_rank: "8"
+  alexa_rank: 105620
+  api_rank: 8
 - label: Actual Reports
   slug: actual-reports
   url: http://actual.reports.api.gallery.streamdata.io
@@ -19,7 +19,7 @@
     products are Document Creator for QuickB
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Adafruit Industries
   slug: adafruit-industries
   url: http://adafruit.industries.api.gallery.streamdata.io
@@ -29,7 +29,7 @@
     making the best designed products for makers of all ages and skill levels.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: AddThis
   slug: addthis
   url: http://addthis.api.gallery.streamdata.io
@@ -38,8 +38,8 @@
     recommendations help you get more likes, shares and followers and keep them coming
     back.
   paths: 0
-  alexa_rank: "585"
-  api_rank: "9"
+  alexa_rank: 585
+  api_rank: 9
 - label: Adobe
   slug: adobe
   url: http://adobe.api.gallery.streamdata.io
@@ -47,8 +47,8 @@
   description: Adobe is changing the world through digital experiences. We help our
     customers create, deliver and optimize content and applications.
   paths: 0
-  alexa_rank: "82"
-  api_rank: "9"
+  alexa_rank: 82
+  api_rank: 9
 - label: Affiliate Window
   slug: affiliate-window
   url: http://affiliate.window.api.gallery.streamdata.io
@@ -56,8 +56,8 @@
   description: Join our global affiliate network to connect with consumers worldwide
     and earn commission from online content.
   paths: 0
-  alexa_rank: "12160"
-  api_rank: "8"
+  alexa_rank: 12160
+  api_rank: 8
 - label: AirMap
   slug: airmap
   url: http://airmap.api.gallery.streamdata.io
@@ -69,7 +69,7 @@
     expanding global network of hundred
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Airtable
   slug: airtable
   url: http://airtable.api.gallery.streamdata.io
@@ -77,8 +77,8 @@
   description: Airtable works like a spreadsheet but gives you the power of a database
     to organize anything. Sign up for free.
   paths: 0
-  alexa_rank: "5028"
-  api_rank: "8"
+  alexa_rank: 5028
+  api_rank: 8
 - label: Algorithmia
   slug: algorithmia
   url: http://algorithmia.api.gallery.streamdata.io
@@ -87,8 +87,8 @@
     algorithm development, where state of the art algorithms are always live and accessible
     to anyone.
   paths: 0
-  alexa_rank: "53020"
-  api_rank: "8"
+  alexa_rank: 53020
+  api_rank: 8
 - label: Amazon Dash
   slug: amazon-dash
   url: http://amazon.dash.api.gallery.streamdata.io
@@ -100,7 +100,7 @@
     service, and fulfillment network&md
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Ardoq
   slug: ardoq
   url: http://ardoq.api.gallery.streamdata.io
@@ -109,8 +109,8 @@
     documentation. Our model based system focuses on automation, visualisation and
     democratisation of documentation.
   paths: 0
-  alexa_rank: "816963"
-  api_rank: "8"
+  alexa_rank: 816963
+  api_rank: 8
 - label: Aria Systems
   slug: aria-systems
   url: http://aria.systems.api.gallery.streamdata.io
@@ -118,8 +118,8 @@
   description: Maximize your recurring revenues with a leading subscription billing
     software that specializes in enterprise commerce. Learn more about Aria Systems!
   paths: 0
-  alexa_rank: "684231"
-  api_rank: "8"
+  alexa_rank: 684231
+  api_rank: 8
 - label: Arxan Technologies
   slug: arxan-technologies
   url: http://arxan.technologies.api.gallery.streamdata.io
@@ -128,8 +128,8 @@
     from the inside out, so they are shielded from app-level attacks that lead to
     brand damage and financial loss.
   paths: 0
-  alexa_rank: "1084126"
-  api_rank: "8"
+  alexa_rank: 1084126
+  api_rank: 8
 - label: AtlasCT
   slug: atlasct
   url: http://atlasct.api.gallery.streamdata.io
@@ -137,8 +137,8 @@
   description: AtlasCT is a global leader in maps and location-based services (LBS)
     technologies for mobile and web.
   paths: 0
-  alexa_rank: "11502651"
-  api_rank: "8"
+  alexa_rank: 11502651
+  api_rank: 8
 - label: Atlassian
   slug: atlassian
   url: http://atlassian.api.gallery.streamdata.io
@@ -146,8 +146,8 @@
   description: Millions of users globally rely on Atlassian products every day for
     improving software development, project management, collaboration, and code quality.
   paths: 0
-  alexa_rank: "1656"
-  api_rank: "8"
+  alexa_rank: 1656
+  api_rank: 8
 - label: Atlassian Confluence
   slug: atlassian-confluence
   url: http://atlassian.confluence.api.gallery.streamdata.io
@@ -155,8 +155,8 @@
   description: Millions of users globally rely on Atlassian products every day for
     improving software development, project management, collaboration, and code quality.
   paths: 0
-  alexa_rank: "1627"
-  api_rank: "9"
+  alexa_rank: 1627
+  api_rank: 9
 - label: Auckland Museum
   slug: auckland-museum
   url: http://auckland.museum.api.gallery.streamdata.io
@@ -168,31 +168,31 @@
     The public API, which allows
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: AWS Io T Jobs Data Plane
   slug: aws-io-t-jobs-data-plane
   url: http://aws.io.t.jobs.data.plane.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/beam-logo-full-color-name-bottom-1000.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: AWS Price List Service
   slug: aws-price-list-service
   url: http://aws.price.list.service.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-kafka.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: AWSMarketplace Metering
   slug: awsmarketplace-metering
   url: http://awsmarketplace.metering.api.gallery.streamdata.io
   image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Baltimore Open311
   slug: baltimore-open311
   url: http://baltimore.open311.api.gallery.streamdata.io
@@ -203,7 +203,7 @@
     have submitted
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Bank Innovation
   slug: bank-innovation
   url: http://bank.innovation.api.gallery.streamdata.io
@@ -213,8 +213,8 @@
     Media and Communications conference in Boston yesterday, Kelly said: Remember
     blockchain actually ...'
   paths: 0
-  alexa_rank: "186215"
-  api_rank: "8"
+  alexa_rank: 186215
+  api_rank: 8
 - label: Bank of America
   slug: bank-of-america
   url: http://bank.of.america.api.gallery.streamdata.io
@@ -222,8 +222,8 @@
   description: Welcome to Bank of America, home for all of your financial needs. Our
     purpose is to help make financial lives better through the power of every connection.
   paths: 0
-  alexa_rank: "226"
-  api_rank: "8"
+  alexa_rank: 226
+  api_rank: 8
 - label: BaseHealth
   slug: basehealth
   url: http://basehealth.api.gallery.streamdata.io
@@ -233,15 +233,15 @@
     The result is engaging, sustained population health.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: BigML
   slug: bigml
   url: http://bigml.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/159-bigml.jpg
   description: Machine Learning made beautifully simple for everyone.
   paths: 0
-  alexa_rank: "185611"
-  api_rank: "8"
+  alexa_rank: 185611
+  api_rank: 8
 - label: BinaryOps.io
   slug: binaryops-io
   url: http://binaryops.io.api.gallery.streamdata.io
@@ -249,7 +249,7 @@
   description: Delivering API based data solutions for mobile & modern web applications.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: BioID Web Services
   slug: bioid-web-services
   url: http://bioid.web.services.api.gallery.streamdata.io
@@ -259,8 +259,8 @@
     relevant background information on periocular eye recognition and anti-spoofing
     liveness detectio...
   paths: 0
-  alexa_rank: "1177710"
-  api_rank: "8"
+  alexa_rank: 1177710
+  api_rank: 8
 - label: Bloomington Indiana 311
   slug: bloomington-indiana-311
   url: http://bloomington.indiana.311.api.gallery.streamdata.io
@@ -269,7 +269,7 @@
     suite of lightweight tools for Open311.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: BookingSync
   slug: bookingsync
   url: http://bookingsync.api.gallery.streamdata.io
@@ -277,8 +277,8 @@
   description: Vacation rental property management software. Save Time & Book More
     with our Reservation System, Channel Manager and Website Builder. Request a Demo!
   paths: 0
-  alexa_rank: "165601"
-  api_rank: "8"
+  alexa_rank: 165601
+  api_rank: 8
 - label: Braintree
   slug: braintree
   url: http://braintree.api.gallery.streamdata.io
@@ -286,8 +286,8 @@
   description: An all-in-one solution to accept, process, and split payments in your
     mobile app or online -- from small business to large enterprise.
   paths: 0
-  alexa_rank: "31285"
-  api_rank: "9"
+  alexa_rank: 31285
+  api_rank: 9
 - label: BrickFTP
   slug: brickftp
   url: http://brickftp.api.gallery.streamdata.io
@@ -295,8 +295,8 @@
   description: Secure FTP server hosting with web, FTP, SFTP, WebDAV, LDAP & sharing
     options. Great for companies, large files and video. Instant setup.
   paths: 0
-  alexa_rank: "165509"
-  api_rank: "8"
+  alexa_rank: 165509
+  api_rank: 8
 - label: Bureau of Labor Statistics
   slug: bureau-of-labor-statistics
   url: http://bureau.of.labor.statistics.api.gallery.streamdata.io
@@ -308,7 +308,7 @@
     agency that collects, processes,
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: BusinessUSA
   slug: businessusa
   url: http://businessusa.api.gallery.streamdata.io
@@ -320,7 +320,7 @@
     to government agencies to think bey
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Campaign Monitor
   slug: campaign-monitor
   url: http://campaign.monitor.api.gallery.streamdata.io
@@ -328,8 +328,8 @@
   description: Campaign Monitor makes it easy for you to create, send, and optimize
     your email marketing campaigns.
   paths: 0
-  alexa_rank: "24393"
-  api_rank: "8"
+  alexa_rank: 24393
+  api_rank: 8
 - label: Center for Operational Oceanographic Products and Services
   slug: center-for-operational-oceanographic-products-and-services
   url: http://center.for.operational.oceanographic.products.and.services.api.gallery.streamdata.io
@@ -339,8 +339,8 @@
     coastal and marine resources. Visit www.noaa.gov and follow us on Twitter via
     @NOAA.
   paths: 0
-  alexa_rank: "2046"
-  api_rank: "9"
+  alexa_rank: 2046
+  api_rank: 9
 - label: Centers for Medicare and Medicaid Services
   slug: centers-for-medicare-and-medicaid-services
   url: http://centers.for.medicare.and.medicaid.services.api.gallery.streamdata.io
@@ -352,7 +352,7 @@
     Medicaid, the State Childrens Hea
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: ChargeBee
   slug: chargebee
   url: http://chargebee.api.gallery.streamdata.io
@@ -360,8 +360,8 @@
   description: Chargebee lets you automate your recurring billing, manage subscriptions
     at scale and access metrics that matter.
   paths: 0
-  alexa_rank: "38714"
-  api_rank: "9"
+  alexa_rank: 38714
+  api_rank: 9
 - label: Chattanooga
   slug: chattanooga
   url: http://chattanooga.api.gallery.streamdata.io
@@ -373,7 +373,7 @@
     help develop meaningful soluti
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Checkr
   slug: checkr
   url: http://checkr.api.gallery.streamdata.io
@@ -384,8 +384,8 @@
     and county criminal records, driving history, SSN verification, previous addresses
     and more. Our simple and robust API
   paths: 0
-  alexa_rank: "64192"
-  api_rank: "8"
+  alexa_rank: 64192
+  api_rank: 8
 - label: Cincinnati
   slug: cincinnati
   url: http://cincinnati.api.gallery.streamdata.io
@@ -397,7 +397,7 @@
     our neighborhoods and the quality of life of
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: CitizensConnect
   slug: citizensconnect
   url: http://citizensconnect.api.gallery.streamdata.io
@@ -405,8 +405,8 @@
   description: The official website of the City of Boston. Stay informed, request
     City services through 311, or contact the Mayor and City Council.
   paths: 0
-  alexa_rank: "45833"
-  api_rank: "8"
+  alexa_rank: 45833
+  api_rank: 8
 - label: City of Edmonton
   slug: city-of-edmonton
   url: http://city.of.edmonton.api.gallery.streamdata.io
@@ -414,8 +414,8 @@
   description: Official site of the City of Edmonton in Alberta, Canada. Learn about
     City services, programs, attractions, events and City projects.
   paths: 0
-  alexa_rank: "48936"
-  api_rank: "8"
+  alexa_rank: 48936
+  api_rank: 8
 - label: City of London
   slug: city-of-london
   url: http://city.of.london.api.gallery.streamdata.io
@@ -427,7 +427,7 @@
     to influencing and cajoling othe
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: CityGro
   slug: citygro
   url: http://citygro.api.gallery.streamdata.io
@@ -439,7 +439,7 @@
     of customers to connect with the
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: CitySDK
   slug: citysdk
   url: http://citysdk.api.gallery.streamdata.io
@@ -449,16 +449,16 @@
     pilots and prototypes and acts as an intermediate between the arts, science and
     the media. Waag Soc...
   paths: 0
-  alexa_rank: "393075"
-  api_rank: "8"
+  alexa_rank: 393075
+  api_rank: 8
 - label: CloudBoost.io
   slug: cloudboost-io
   url: http://cloudboost.io.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18919-cloudboost-io.jpg
   description: CloudBoost lets you build mobile and web applications that scale.
   paths: 0
-  alexa_rank: "149874"
-  api_rank: "8"
+  alexa_rank: 149874
+  api_rank: 8
 - label: CloudConvert
   slug: cloudconvert
   url: http://cloudconvert.api.gallery.streamdata.io
@@ -470,7 +470,7 @@
     job for you. Dont worry, your files ar
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Cobalt
   slug: cobalt
   url: http://cobalt.api.gallery.streamdata.io
@@ -478,8 +478,8 @@
   description: Cobalt.io is the future of penetration testing. We leverage global
     talent and a software platform to deliver a better penetration test.
   paths: 0
-  alexa_rank: "840655"
-  api_rank: "8"
+  alexa_rank: 840655
+  api_rank: 8
 - label: Cobot
   slug: cobot
   url: http://cobot.api.gallery.streamdata.io
@@ -487,8 +487,8 @@
   description: Cobot is the leading management software for coworking spaces, office
     hubs, and flexible workspaces around the world.
   paths: 0
-  alexa_rank: "170219"
-  api_rank: "8"
+  alexa_rank: 170219
+  api_rank: 8
 - label: Collins Dictionary
   slug: collins-dictionary
   url: http://collins.dictionary.api.gallery.streamdata.io
@@ -496,16 +496,16 @@
   description: 'Online Dictionary and Thesaurus from Collins with over 1 million words:
     Definitions, synonyms, pronunciations, translations, origin and examples.'
   paths: 0
-  alexa_rank: "1816"
-  api_rank: "8"
+  alexa_rank: 1816
+  api_rank: 8
 - label: CommonCrawl
   slug: commoncrawl
   url: http://commoncrawl.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1920-commoncrawl.jpg
   description: CommonCrawl is a non-profit foundation dedicated to the open web.
   paths: 0
-  alexa_rank: "457674"
-  api_rank: "8"
+  alexa_rank: 457674
+  api_rank: 8
 - label: Compose
   slug: compose
   url: http://compose.api.gallery.streamdata.io
@@ -517,7 +517,7 @@
     complete monitoring. Th
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Consumer Financial Protection Bureau
   slug: consumer-financial-protection-bureau
   url: http://consumer.financial.protection.bureau.api.gallery.streamdata.io
@@ -529,7 +529,7 @@
     and other financial compan
   paths: 0
   alexa_rank: 0
-  api_rank: "10"
+  api_rank: 10
 - label: Cornell University
   slug: cornell-university
   url: http://cornell.university.api.gallery.streamdata.io
@@ -538,7 +538,7 @@
     much else of APIs out of the institution, but will be keeping an eye out.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Cronofy
   slug: cronofy
   url: http://cronofy.api.gallery.streamdata.io
@@ -550,7 +550,7 @@
     point that enables an array of valuable use
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Cutcaster
   slug: cutcaster
   url: http://cutcaster.api.gallery.streamdata.io
@@ -560,8 +560,8 @@
     story.    Search our picture library via our lightning quick search engine, download
     comps, buy s...
   paths: 0
-  alexa_rank: "1137461"
-  api_rank: "9"
+  alexa_rank: 1137461
+  api_rank: 9
 - label: Dallas, TX
   slug: dallas-tx
   url: http://dallas.tx.api.gallery.streamdata.io
@@ -570,7 +570,7 @@
     engage, share.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: DataHero
   slug: datahero
   url: http://datahero.api.gallery.streamdata.io
@@ -578,8 +578,8 @@
   description: DataHero is an online data visualization and data dashboard software
     platform that makes it easy to share insights with your team and your clients.
   paths: 0
-  alexa_rank: "85774"
-  api_rank: "8"
+  alexa_rank: 85774
+  api_rank: 8
 - label: DataMade
   slug: datamade
   url: http://datamade.api.gallery.streamdata.io
@@ -591,7 +591,7 @@
     City. At nights and over weekends, theyv
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: DEA - E-Commerce Program
   slug: dea--ecommerce-program
   url: http://dea..ecommerce.program.api.gallery.streamdata.io
@@ -603,7 +603,7 @@
     paper DEA Form 222. Using a technology c
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Denver, CO
   slug: denver-co
   url: http://denver.co.api.gallery.streamdata.io
@@ -613,7 +613,7 @@
     the Open Colorado Data Catalog.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Department of Agriculture
   slug: department-of-agriculture
   url: http://department.of.agriculture.api.gallery.streamdata.io
@@ -621,8 +621,8 @@
   description: 'USDA is committed to providing safe and nutritious food, conservation,
     sustainable food production and revitalizing rural America.Comment Policy: http://www.usda.gov/newmedia'
   paths: 0
-  alexa_rank: "3080"
-  api_rank: "9"
+  alexa_rank: 3080
+  api_rank: 9
 - label: Department of Defense
   slug: department-of-defense
   url: http://department.of.defense.api.gallery.streamdata.io
@@ -632,8 +632,8 @@
     the organization which employs over 1.4 million active duty service members, 1.1
     million National Gua...
   paths: 0
-  alexa_rank: "23092"
-  api_rank: "9"
+  alexa_rank: 23092
+  api_rank: 9
 - label: Department of Education
   slug: department-of-education
   url: http://department.of.education.api.gallery.streamdata.io
@@ -641,8 +641,8 @@
   description: Welcome to my page.  If youre looking for the official source of information
     about the U.S. Department of Education, please visit our homepage at www.ed.gov.
   paths: 0
-  alexa_rank: "1124"
-  api_rank: "9"
+  alexa_rank: 1124
+  api_rank: 9
 - label: Department of Energy
   slug: department-of-energy
   url: http://department.of.energy.api.gallery.streamdata.io
@@ -650,8 +650,8 @@
   description: Building the new clean energy economy. Reducing nuclear dangers & environmental
     risks. Expanding the frontiers of knowledge via scientific research.
   paths: 0
-  alexa_rank: "11894"
-  api_rank: "9"
+  alexa_rank: 11894
+  api_rank: 9
 - label: Department of Health and Human Services
   slug: department-of-health-and-human-services
   url: http://department.of.health.and.human.services.api.gallery.streamdata.io
@@ -663,7 +663,7 @@
     of America.[3] Before the separat
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of Homeland Security
   slug: department-of-homeland-security
   url: http://department.of.homeland.security.api.gallery.streamdata.io
@@ -675,7 +675,7 @@
     attacks, man-made accidents, and natural
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of Housing and Urban Development
   slug: department-of-housing-and-urban-development
   url: http://department.of.housing.and.urban.development.api.gallery.streamdata.io
@@ -687,7 +687,7 @@
     Lyndon Johnson, to develop
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of Justice
   slug: department-of-justice
   url: http://department.of.justice.api.gallery.streamdata.io
@@ -699,7 +699,7 @@
     who is nominated by the President
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of Labor
   slug: department-of-labor
   url: http://department.of.labor.api.gallery.streamdata.io
@@ -711,7 +711,7 @@
     by the U.S. Secretary of L
   paths: 0
   alexa_rank: 0
-  api_rank: "10"
+  api_rank: 10
 - label: Department of State
   slug: department-of-state
   url: http://department.of.state.api.gallery.streamdata.io
@@ -723,7 +723,7 @@
     department established.
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of the Treasury
   slug: department-of-the-treasury
   url: http://department.of.the.treasury.api.gallery.streamdata.io
@@ -735,15 +735,15 @@
     the current Secretary of the Treasury; h
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Department of Transportation
   slug: department-of-transportation
   url: http://department.of.transportation.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9541-department-of-transportation.jpg
   description: Welcome to the Facebook page of the U.S. Department of Transportation.
   paths: 0
-  alexa_rank: "77669"
-  api_rank: "8"
+  alexa_rank: 77669
+  api_rank: 8
 - label: Department of Veterans Affairs
   slug: department-of-veterans-affairs
   url: http://department.of.veterans.affairs.api.gallery.streamdata.io
@@ -755,7 +755,7 @@
     administering programs of vete
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: DeployGate
   slug: deploygate
   url: http://deploygate.api.gallery.streamdata.io
@@ -763,8 +763,8 @@
   description: Share your apps from day one - DeployGate is the fastest and easiest
     way to share iOS/Android apps in development to your team members and beta testers.
   paths: 0
-  alexa_rank: "697601"
-  api_rank: "8"
+  alexa_rank: 697601
+  api_rank: 8
 - label: Detroit, MI
   slug: detroit-mi
   url: http://detroit.mi.api.gallery.streamdata.io
@@ -773,7 +773,7 @@
     informed decision-making.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: DigiCert
   slug: digicert
   url: http://digicert.api.gallery.streamdata.io
@@ -781,8 +781,8 @@
   description: SSL certificates by DigiCert secure unlimited servers with the strongest
     encryption and highest authentication available.
   paths: 0
-  alexa_rank: "20828"
-  api_rank: "8"
+  alexa_rank: 20828
+  api_rank: 8
 - label: Digital Public Library of America
   slug: digital-public-library-of-america
   url: http://digital.public.library.of.america.api.gallery.streamdata.io
@@ -792,8 +792,8 @@
     millions of photographs, manuscripts, books, sounds, moving images, and more from
     libraries, archiv...
   paths: 0
-  alexa_rank: "145322"
-  api_rank: "10"
+  alexa_rank: 145322
+  api_rank: 10
 - label: DJI
   slug: dji
   url: http://dji.api.gallery.streamdata.io
@@ -805,7 +805,7 @@
     stabilization systems re
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Duo Security
   slug: duo-security
   url: http://duo.security.api.gallery.streamdata.io
@@ -814,8 +814,8 @@
     with two-factor authentication and security health of their devices before they
     connect to the apps you want them to access.
   paths: 0
-  alexa_rank: "43544"
-  api_rank: "8"
+  alexa_rank: 43544
+  api_rank: 8
 - label: Economic Research Service
   slug: economic-research-service
   url: http://economic.research.service.api.gallery.streamdata.io
@@ -823,8 +823,8 @@
   description: 'USDA is committed to providing safe and nutritious food, conservation,
     sustainable food production and revitalizing rural America.Comment Policy: http://www.usda.gov/newmedia'
   paths: 0
-  alexa_rank: "3080"
-  api_rank: "9"
+  alexa_rank: 3080
+  api_rank: 9
 - label: Edx
   slug: edx
   url: http://edx.api.gallery.streamdata.io
@@ -836,7 +836,7 @@
     as Coursera and Udacity, in th
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Elastic Path
   slug: elastic-path
   url: http://elastic.path.api.gallery.streamdata.io
@@ -846,8 +846,8 @@
     from the ground up, they are designed as scalable ecommerce solutions, able to
     take advantage of an...
   paths: 0
-  alexa_rank: "593998"
-  api_rank: "9"
+  alexa_rank: 593998
+  api_rank: 9
 - label: Elasticsearch
   slug: elasticsearch
   url: http://elasticsearch.api.gallery.streamdata.io
@@ -855,8 +855,8 @@
   description: Were the creators of Elasticsearch, Kibana, Beats, and Logstash --
     the Elastic Stack. Securely and reliably search, analyze, and visualize your data.
   paths: 0
-  alexa_rank: "6768"
-  api_rank: "9"
+  alexa_rank: 6768
+  api_rank: 9
 - label: eligible
   slug: eligible
   url: http://eligible.api.gallery.streamdata.io
@@ -864,8 +864,8 @@
   description: Eligible seamlessly integrates with healthcare systems to provide real
     time eligibility functionality via modern APIs.
   paths: 0
-  alexa_rank: "774250"
-  api_rank: "8"
+  alexa_rank: 774250
+  api_rank: 8
 - label: Encyclopedia of Life
   slug: encyclopedia-of-life
   url: http://encyclopedia.of.life.api.gallery.streamdata.io
@@ -874,8 +874,8 @@
     knowledge about all animal and plant life where pictures, information, facts,
     and mo...
   paths: 0
-  alexa_rank: "37471"
-  api_rank: "8"
+  alexa_rank: 37471
+  api_rank: 8
 - label: Energy Information Administration
   slug: energy-information-administration
   url: http://energy.information.administration.api.gallery.streamdata.io
@@ -887,7 +887,7 @@
     and the environment. EIA programs cover da
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: ENERGY STAR
   slug: energy-star
   url: http://energy.star.api.gallery.streamdata.io
@@ -896,8 +896,8 @@
     20 years, EPAs ENERGY STAR program has been Americas resource for saving energy
     and protecting the environment.
   paths: 0
-  alexa_rank: "49187"
-  api_rank: "8"
+  alexa_rank: 49187
+  api_rank: 8
 - label: eSignal
   slug: esignal
   url: http://esignal.api.gallery.streamdata.io
@@ -905,8 +905,8 @@
   description: 'Everything you need, all in one place: charts that change the game,
     better backtesting & scanning, and reliable real-time data'
   paths: 0
-  alexa_rank: "166305"
-  api_rank: "8"
+  alexa_rank: 166305
+  api_rank: 8
 - label: Esri
   slug: esri
   url: http://esri.api.gallery.streamdata.io
@@ -915,8 +915,8 @@
     our commitment to solving Earth???s most pressing challenges with geographic expertise
     and rational resolve.
   paths: 0
-  alexa_rank: "3189"
-  api_rank: "8"
+  alexa_rank: 3189
+  api_rank: 8
 - label: Ethereum
   slug: ethereum
   url: http://ethereum.api.gallery.streamdata.io
@@ -924,8 +924,8 @@
   description: Ethereum is a decentralized platform for applications that run exactly
     as programmed without any chance of fraud, censorship or third-party interference.
   paths: 0
-  alexa_rank: "10309"
-  api_rank: "8"
+  alexa_rank: 10309
+  api_rank: 8
 - label: Evernote
   slug: evernote
   url: http://evernote.api.gallery.streamdata.io
@@ -933,8 +933,8 @@
   description: Organize your work and declutter your life. With Evernote on your desktop
     and mobile devices, your notes are always with you and always in sync.
   paths: 0
-  alexa_rank: "466"
-  api_rank: "8"
+  alexa_rank: 466
+  api_rank: 8
 - label: Evo Snap
   slug: evo-snap
   url: http://evo.snap.api.gallery.streamdata.io
@@ -945,8 +945,8 @@
     across traditional POS, mobile and eCommerce touch points. Snap* streamlines the
     inclusion of multiple paymen
   paths: 0
-  alexa_rank: "3742727"
-  api_rank: "9"
+  alexa_rank: 3742727
+  api_rank: 9
 - label: Exosite
   slug: exosite
   url: http://exosite.api.gallery.streamdata.io
@@ -954,8 +954,8 @@
   description: Exosite is a leading Internet of Things (IoT) platform that makes it
     easy to build connected products, solutions, and businesses. Get started for free.
   paths: 0
-  alexa_rank: "410070"
-  api_rank: "8"
+  alexa_rank: 410070
+  api_rank: 8
 - label: FaxLogic
   slug: faxlogic
   url: http://faxlogic.api.gallery.streamdata.io
@@ -965,8 +965,8 @@
     and received. Access your faxes from anywhere using any Internet-connected device,
     including ...
   paths: 0
-  alexa_rank: "1365054"
-  api_rank: "8"
+  alexa_rank: 1365054
+  api_rank: 8
 - label: Federal Aviation Administration
   slug: federal-aviation-administration
   url: http://federal.aviation.administration.api.gallery.streamdata.io
@@ -974,8 +974,8 @@
   description: The Federal Aviation Administration is an operating mode of the U.S.
     Department of Transportation.
   paths: 0
-  alexa_rank: "9333"
-  api_rank: "8"
+  alexa_rank: 9333
+  api_rank: 8
 - label: Federal Bureau of Investigation (FBI)
   slug: federal-bureau-of-investigation-fbi
   url: http://federal.bureau.of.investigation.fbi.api.gallery.streamdata.io
@@ -987,7 +987,7 @@
     Intelligence Community and reports to both
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Federal Communications Commission
   slug: federal-communications-commission
   url: http://federal.communications.commission.api.gallery.streamdata.io
@@ -999,7 +999,7 @@
     the District of Columbia and U.S. territ
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Federal Digital System
   slug: federal-digital-system
   url: http://federal.digital.system.api.gallery.streamdata.io
@@ -1011,7 +1011,7 @@
     and dissemination of electr
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Federal Emergency Management Agency
   slug: federal-emergency-management-agency
   url: http://federal.emergency.management.agency.api.gallery.streamdata.io
@@ -1023,7 +1023,7 @@
     that has occurred in the United States
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Federal Motor Carrier Safety Administration
   slug: federal-motor-carrier-safety-administration
   url: http://federal.motor.carrier.safety.administration.api.gallery.streamdata.io
@@ -1035,7 +1035,7 @@
     and truck drivers through enactment an
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Federal Register
   slug: federal-register
   url: http://federal.register.api.gallery.streamdata.io
@@ -1047,7 +1047,7 @@
     and published in the Federal Register are
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Federal Reserve Bank of St. Louis
   slug: federal-reserve-bank-of-st--louis
   url: http://federal.reserve.bank.of.st..louis.api.gallery.streamdata.io
@@ -1059,7 +1059,7 @@
     Fed is the headquarters of the Eighth
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: FedEx
   slug: fedex
   url: http://fedex.api.gallery.streamdata.io
@@ -1069,8 +1069,8 @@
     preparation, package tracking, shipment rates and tools tailored to the needs
     of international shippers ...'
   paths: 0
-  alexa_rank: "464"
-  api_rank: "8"
+  alexa_rank: 464
+  api_rank: 8
 - label: Feedbooks
   slug: feedbooks
   url: http://feedbooks.api.gallery.streamdata.io
@@ -1078,8 +1078,8 @@
   description: Discover thousands of eBooks, including new releases and the best collection
     of free public domain books, that you can read on any mobile device.
   paths: 0
-  alexa_rank: "86955"
-  api_rank: "8"
+  alexa_rank: 86955
+  api_rank: 8
 - label: FenixEdu
   slug: fenixedu
   url: http://fenixedu.api.gallery.streamdata.io
@@ -1089,15 +1089,15 @@
     service providers targeting higher educational institutions using APIs.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Fieldbook
   slug: fieldbook
   url: http://fieldbook.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19066-fieldbook.jpg
   description: Frustrated with tracking your work in spreadsheets? Fieldbook can help.
   paths: 0
-  alexa_rank: "350696"
-  api_rank: "8"
+  alexa_rank: 350696
+  api_rank: 8
 - label: Flir
   slug: flir
   url: http://flir.api.gallery.streamdata.io
@@ -1105,8 +1105,8 @@
   description: FLIR is the world leader in the design, manufacture, and marketing
     of thermal imaging infrared cameras.
   paths: 0
-  alexa_rank: "89081"
-  api_rank: "8"
+  alexa_rank: 89081
+  api_rank: 8
 - label: FOIA.gov
   slug: foia-gov
   url: http://foia.gov.api.gallery.streamdata.io
@@ -1118,7 +1118,7 @@
     procedures and grants ni
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Food and Drug Administration
   slug: food-and-drug-administration
   url: http://food.and.drug.administration.api.gallery.streamdata.io
@@ -1130,7 +1130,7 @@
     dietary supplements, prescriptio
   paths: 0
   alexa_rank: 0
-  api_rank: "10"
+  api_rank: 10
 - label: Ford Motor Company
   slug: ford-motor-company
   url: http://ford.motor.company.api.gallery.streamdata.io
@@ -1138,8 +1138,8 @@
   description: Go further than you ever imagined in a new Ford vehicle, built just
     for you. See our full lineup.
   paths: 0
-  alexa_rank: "3241"
-  api_rank: "8"
+  alexa_rank: 3241
+  api_rank: 8
 - label: ForeignAssistance.gov
   slug: foreignassistance-gov
   url: http://foreignassistance.gov.api.gallery.streamdata.io
@@ -1151,7 +1151,7 @@
     of the National Security Council.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: FOREX.com
   slug: forex-com
   url: http://forex.com.api.gallery.streamdata.io
@@ -1160,8 +1160,8 @@
     platforms, tight spreads, quality executions, powerful trading tools & 24-hour
     live support
   paths: 0
-  alexa_rank: "33032"
-  api_rank: "8"
+  alexa_rank: 33032
+  api_rank: 8
 - label: Fort Worth, TX
   slug: fort-worth-tx
   url: http://fort.worth.tx.api.gallery.streamdata.io
@@ -1169,7 +1169,7 @@
   description: Welcome to the City of Fort Worth open data portal.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Fortumo
   slug: fortumo
   url: http://fortumo.api.gallery.streamdata.io
@@ -1179,8 +1179,8 @@
     connects service providers with more than 350 mobile operators across Asia, Europe,
     Latin America, the M...
   paths: 0
-  alexa_rank: "209629"
-  api_rank: "9"
+  alexa_rank: 209629
+  api_rank: 9
 - label: Freshdesk
   slug: freshdesk
   url: http://freshdesk.api.gallery.streamdata.io
@@ -1189,8 +1189,8 @@
     support with all smart automations to get things done faster. Sign up for a free
     trial today!
   paths: 0
-  alexa_rank: "2227"
-  api_rank: "8"
+  alexa_rank: 2227
+  api_rank: 8
 - label: FuelEconomy.gov
   slug: fueleconomy-gov
   url: http://fueleconomy.gov.api.gallery.streamdata.io
@@ -1200,7 +1200,7 @@
     Michigan, and by vehicle manufacturers with oversight by EPA.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: GatherContent
   slug: gathercontent
   url: http://gathercontent.api.gallery.streamdata.io
@@ -1212,7 +1212,7 @@
     with thousands of customers across 135 co
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: General Motors
   slug: general-motors
   url: http://general.motors.api.gallery.streamdata.io
@@ -1220,8 +1220,8 @@
   description: General Motors is home to Buick, Cadillac, GMC and Chevrolet. Find
     the latest news about GM automotive innovations, investor relations and more.
   paths: 0
-  alexa_rank: "9816"
-  api_rank: "8"
+  alexa_rank: 9816
+  api_rank: 8
 - label: Geocodio
   slug: geocodio
   url: http://geocodio.api.gallery.streamdata.io
@@ -1229,8 +1229,8 @@
   description: Hassle-free geocoding. Convert addresses into latitude/longitude via
     API or spreadsheet upload. Add Congressional districts, timezones, and more.
   paths: 0
-  alexa_rank: "684712"
-  api_rank: "8"
+  alexa_rank: 684712
+  api_rank: 8
 - label: Geoplatform.gov
   slug: geoplatform-gov
   url: http://geoplatform.gov.api.gallery.streamdata.io
@@ -1242,7 +1242,7 @@
     your own GIS maps or applicatio
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: GeoRanker
   slug: georanker
   url: http://georanker.api.gallery.streamdata.io
@@ -1253,7 +1253,7 @@
     available on GeoRanker.com
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Get Satisfaction
   slug: get-satisfaction
   url: http://get.satisfaction.api.gallery.streamdata.io
@@ -1262,8 +1262,8 @@
     companies build better relationships with their customers and prospects, through
     the best online customer community.
   paths: 0
-  alexa_rank: "34896"
-  api_rank: "8"
+  alexa_rank: 34896
+  api_rank: 8
 - label: Giant Swarm
   slug: giant-swarm
   url: http://giant.swarm.api.gallery.streamdata.io
@@ -1273,8 +1273,8 @@
     (AWS, Azure, GCE) with 24/7 management and enterprise support to easily run their
     cloud native ...
   paths: 0
-  alexa_rank: "523788"
-  api_rank: "8"
+  alexa_rank: 523788
+  api_rank: 8
 - label: Gigya
   slug: gigya
   url: http://gigya.api.gallery.streamdata.io
@@ -1283,8 +1283,8 @@
     personalized experiences. Designed to meet privacy, compliance & security best
     practices.
   paths: 0
-  alexa_rank: "2111"
-  api_rank: "8"
+  alexa_rank: 2111
+  api_rank: 8
 - label: glot.io
   slug: glot-io
   url: http://glot.io.api.gallery.streamdata.io
@@ -1296,7 +1296,7 @@
     Execution time is limited to 15 seconds
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: GoodRx
   slug: goodrx
   url: http://goodrx.api.gallery.streamdata.io
@@ -1304,8 +1304,8 @@
   description: Compare prescription drug prices and find coupons at more than 60,000
     US pharmacies. Save up to 80% instantly!
   paths: 0
-  alexa_rank: "15383"
-  api_rank: "8"
+  alexa_rank: 15383
+  api_rank: 8
 - label: Google AdWords
   slug: google-adwords
   url: http://google.adwords.api.gallery.streamdata.io
@@ -1317,7 +1317,7 @@
     uses these characteristics to place adv
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: Gracenote
   slug: gracenote
   url: http://gracenote.api.gallery.streamdata.io
@@ -1326,8 +1326,8 @@
     to the music, TV shows, movies and sports they love across the worlds most popular
     entertainment platforms and devices, from Apple to Amazon to Comcast and Ford.
   paths: 0
-  alexa_rank: "178175"
-  api_rank: "8"
+  alexa_rank: 178175
+  api_rank: 8
 - label: GroupDocs
   slug: groupdocs
   url: http://groupdocs.api.gallery.streamdata.io
@@ -1336,8 +1336,8 @@
     compare, annotate, sign and convert over 45 common document formats in your own
     app.
   paths: 0
-  alexa_rank: "543000"
-  api_rank: "8"
+  alexa_rank: 543000
+  api_rank: 8
 - label: HealthData.gov
   slug: healthdata-gov
   url: http://healthdata.gov.api.gallery.streamdata.io
@@ -1349,7 +1349,7 @@
     Initiative is all about and why our e
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Healthfinder.gov
   slug: healthfinder-gov
   url: http://healthfinder.gov.api.gallery.streamdata.io
@@ -1358,8 +1358,8 @@
     to get the most reliable information. At https://healthfinder.gov and https://healthfinder.gov/myhealthfinder
     we connect you with science-based prevention and wellness information yo...
   paths: 0
-  alexa_rank: "178777"
-  api_rank: "8"
+  alexa_rank: 178777
+  api_rank: 8
 - label: Help Scout
   slug: help-scout
   url: http://help.scout.api.gallery.streamdata.io
@@ -1369,8 +1369,8 @@
     get what they need. That may reduce your support volume, but it comes at the expense
     of frustrated c...
   paths: 0
-  alexa_rank: "8382"
-  api_rank: "8"
+  alexa_rank: 8382
+  api_rank: 8
 - label: Helpware
   slug: helpware
   url: http://helpware.api.gallery.streamdata.io
@@ -1382,7 +1382,7 @@
     team in customer service, accounting
   paths: 0
   alexa_rank: 0
-  api_rank: "10"
+  api_rank: 10
 - label: HHS - Health Indicator Warehouse
   slug: hhs--health-indicator-warehouse
   url: http://hhs..health.indicator.warehouse.api.gallery.streamdata.io
@@ -1394,7 +1394,7 @@
     initiatives, Facilitate ha'
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: historio.us
   slug: historio-us
   url: http://historio.us.api.gallery.streamdata.io
@@ -1406,7 +1406,7 @@
     to select or forms to fill out, and it wo
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: HistoryAtState
   slug: historyatstate
   url: http://historyatstate.api.gallery.streamdata.io
@@ -1418,7 +1418,7 @@
     It researches and writes historica
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Hiveage
   slug: hiveage
   url: http://hiveage.api.gallery.streamdata.io
@@ -1429,7 +1429,7 @@
     our take on how to simplify the process.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Honolulu, HI
   slug: honolulu-hi
   url: http://honolulu.hi.api.gallery.streamdata.io
@@ -1437,7 +1437,7 @@
   description: E Komo Mai! Welcome to City and County of Honolulus open data portal.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: HostBill
   slug: hostbill
   url: http://hostbill.api.gallery.streamdata.io
@@ -1445,8 +1445,8 @@
   description: Hosting, Cloud/IaaS/VPS Solutions Providers, Domain name and SSL Resellers
     around the globe use HostBill to automate & manage their online businesses
   paths: 0
-  alexa_rank: "689010"
-  api_rank: "9"
+  alexa_rank: 689010
+  api_rank: 9
 - label: Houghton Mifflin Harcourt
   slug: houghton-mifflin-harcourt
   url: http://houghton.mifflin.harcourt.api.gallery.streamdata.io
@@ -1458,7 +1458,7 @@
     APIs will connect with a sandbox
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Houston, TX
   slug: houston-tx
   url: http://houston.tx.api.gallery.streamdata.io
@@ -1467,7 +1467,7 @@
     and maps or upload datasets.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Hypothes.is
   slug: hypothes-is
   url: http://hypothes.is.api.gallery.streamdata.io
@@ -1476,7 +1476,7 @@
     collaborate, organize your research, or take personal notes.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: iKnode
   slug: iknode
   url: http://iknode.api.gallery.streamdata.io
@@ -1485,7 +1485,7 @@
     Platform! Sign up! Create in your browser Deploy to the cloud Execute from ???
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: InComm
   slug: incomm
   url: http://incomm.api.gallery.streamdata.io
@@ -1493,8 +1493,8 @@
   description: Provide new payment solutions to your client base and integrate cash
     payments into your existing applications with just a few lines of code.
   paths: 0
-  alexa_rank: "6958414"
-  api_rank: "9"
+  alexa_rank: 6958414
+  api_rank: 9
 - label: Indianapolis, IN
   slug: indianapolis-in
   url: http://indianapolis.in.api.gallery.streamdata.io
@@ -1503,7 +1503,7 @@
     available at dev.socrata.com
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Infoblox
   slug: infoblox
   url: http://infoblox.api.gallery.streamdata.io
@@ -1511,8 +1511,8 @@
   description: Infoblox Actionable Network Intelligence controls and secures your
     network from the core - One unified platform including DNS, DHCP, and IPAM (DDI).
   paths: 0
-  alexa_rank: "150804"
-  api_rank: "8"
+  alexa_rank: 150804
+  api_rank: 8
 - label: Integrated Taxonomic Information System
   slug: integrated-taxonomic-information-system
   url: http://integrated.taxonomic.information.system.api.gallery.streamdata.io
@@ -1524,7 +1524,7 @@
     specialists. ITIS is also a partner of Spec
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Invoicera
   slug: invoicera
   url: http://invoicera.api.gallery.streamdata.io
@@ -1533,8 +1533,8 @@
     billing &  online payments. Best online invoicing software for SaaS companies,
     businesses & enterprises.
   paths: 0
-  alexa_rank: "437512"
-  api_rank: "9"
+  alexa_rank: 437512
+  api_rank: 9
 - label: Iron
   slug: iron
   url: http://iron.api.gallery.streamdata.io
@@ -1544,8 +1544,8 @@
     about managing and scaling infrastructure, letting developers focus on building
     great applications.
   paths: 0
-  alexa_rank: "266335"
-  api_rank: "9"
+  alexa_rank: 266335
+  api_rank: 9
 - label: Issuu
   slug: issuu
   url: http://issuu.api.gallery.streamdata.io
@@ -1553,8 +1553,8 @@
   description: Millions of readers find and share the magazines, catalogs and publications
     they love on issuu.
   paths: 0
-  alexa_rank: "744"
-  api_rank: "8"
+  alexa_rank: 744
+  api_rank: 8
 - label: Johns Hopkins University
   slug: johns-hopkins-university
   url: http://johns.hopkins.university.api.gallery.streamdata.io
@@ -1565,7 +1565,7 @@
     else is provide via the portal.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Joyent
   slug: joyent
   url: http://joyent.api.gallery.streamdata.io
@@ -1574,8 +1574,8 @@
     in running Containers, Serverless Docker and VMs securely at scale for over a
     decade.
   paths: 0
-  alexa_rank: "143119"
-  api_rank: "8"
+  alexa_rank: 143119
+  api_rank: 8
 - label: Judo Payments
   slug: judo-payments
   url: http://judo.payments.api.gallery.streamdata.io
@@ -1583,8 +1583,8 @@
   description: Judopay  Next generation mobile payments for an app experience your
     customers will love
   paths: 0
-  alexa_rank: "405101"
-  api_rank: "9"
+  alexa_rank: 405101
+  api_rank: 9
 - label: Kansas City, MO
   slug: kansas-city-mo
   url: http://kansas.city.mo.api.gallery.streamdata.io
@@ -1595,7 +1595,7 @@
     entrepreneurs to more easily build technological solutions to improve City services.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: LabKey
   slug: labkey
   url: http://labkey.api.gallery.streamdata.io
@@ -1607,7 +1607,7 @@
     the complex needs of modern
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Las Vegas, NV
   slug: las-vegas-nv
   url: http://las.vegas.nv.api.gallery.streamdata.io
@@ -1617,7 +1617,7 @@
     they can imagine.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Lateral
   slug: lateral
   url: http://lateral.api.gallery.streamdata.io
@@ -1626,8 +1626,8 @@
     when they need it. In doing so we hope to accelerate discovery, understanding
     and collaboration in a wide range of disciplines.
   paths: 0
-  alexa_rank: "830839"
-  api_rank: "8"
+  alexa_rank: 830839
+  api_rank: 8
 - label: Lexington, KY
   slug: lexington-ky
   url: http://lexington.ky.api.gallery.streamdata.io
@@ -1639,7 +1639,7 @@
     for the creation of useful civic applicat
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: LiveOps
   slug: liveops
   url: http://liveops.api.gallery.streamdata.io
@@ -1649,8 +1649,8 @@
     In 2000, we started the journey to help establish the work-from-home model in
     customer service. Si...
   paths: 0
-  alexa_rank: "122645"
-  api_rank: "8"
+  alexa_rank: 122645
+  api_rank: 8
 - label: LivePerson
   slug: liveperson
   url: http://liveperson.api.gallery.streamdata.io
@@ -1658,8 +1658,8 @@
   description: LivePerson transforms customer care at large brands, by moving analog
     voice calls to digital messaging and bots.
   paths: 0
-  alexa_rank: "121478"
-  api_rank: "8"
+  alexa_rank: 121478
+  api_rank: 8
 - label: Loader.io
   slug: loader-io
   url: http://loader.io.api.gallery.streamdata.io
@@ -1667,8 +1667,8 @@
   description: Free tool for web application load testing that allows for the simulation
     of concurrent connections to your web applications APIs
   paths: 0
-  alexa_rank: "307904"
-  api_rank: "9"
+  alexa_rank: 307904
+  api_rank: 9
 - label: Local Motors
   slug: local-motors
   url: http://local.motors.api.gallery.streamdata.io
@@ -1678,8 +1678,8 @@
     Local Motors began low volume vehicle manufacturing of open-source designs using
     multiple micro...
   paths: 0
-  alexa_rank: "644869"
-  api_rank: "8"
+  alexa_rank: 644869
+  api_rank: 8
 - label: Logentries
   slug: logentries
   url: http://logentries.api.gallery.streamdata.io
@@ -1687,8 +1687,8 @@
   description: Log management and analytics by Logentries for development, IT operations
     and Security teams. 100% free service trusted by thousands of customers worldwide.
   paths: 0
-  alexa_rank: "135832"
-  api_rank: "8"
+  alexa_rank: 135832
+  api_rank: 8
 - label: loggr.net
   slug: loggr-net
   url: http://loggr.net.api.gallery.streamdata.io
@@ -1696,8 +1696,8 @@
   description: Monitor your web app events in Loggr, get powerful analytics, notifications
     and sharing from anywhere... in realtime.
   paths: 0
-  alexa_rank: "5329714"
-  api_rank: "8"
+  alexa_rank: 5329714
+  api_rank: 8
 - label: Long Beach, CA
   slug: long-beach-ca
   url: http://long.beach.ca.api.gallery.streamdata.io
@@ -1707,7 +1707,7 @@
     demographic info, the latest news, and much more.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Los Angeles, CA
   slug: los-angeles-ca
   url: http://los.angeles.ca.api.gallery.streamdata.io
@@ -1719,7 +1719,7 @@
     and problem solving within the public a
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Louisville, KY
   slug: louisville-ky
   url: http://louisville.ky.api.gallery.streamdata.io
@@ -1730,7 +1730,7 @@
     in an easy to use format
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Lulu
   slug: lulu
   url: http://lulu.api.gallery.streamdata.io
@@ -1741,8 +1741,8 @@
     multiple formats and markets and improving discovery so buyers can more easily
     find the content they need. Since our found
   paths: 0
-  alexa_rank: "16021"
-  api_rank: "8"
+  alexa_rank: 16021
+  api_rank: 8
 - label: Madison, WI
   slug: madison-wi
   url: http://madison.wi.api.gallery.streamdata.io
@@ -1754,7 +1754,7 @@
     datasets and makes them available at the
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Magnet
   slug: magnet
   url: http://magnet.api.gallery.streamdata.io
@@ -1766,7 +1766,7 @@
     least amount of disruption. Magnet&rsquo;s e
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Magnus Health
   slug: magnus-health
   url: http://magnus.health.api.gallery.streamdata.io
@@ -1774,8 +1774,8 @@
   description: Magnus Health is an online software solution for collecting, managing,
     and securely storing student health information for K-12 schools and colleges.
   paths: 0
-  alexa_rank: "929062"
-  api_rank: "8"
+  alexa_rank: 929062
+  api_rank: 8
 - label: MapQuest
   slug: mapquest
   url: http://mapquest.api.gallery.streamdata.io
@@ -1784,16 +1784,16 @@
     updates and road conditions.  Find nearby businesses, restaurants and hotels.
     Explore!
   paths: 0
-  alexa_rank: "2843"
-  api_rank: "10"
+  alexa_rank: 2843
+  api_rank: 10
 - label: MATLAB
   slug: matlab
   url: http://matlab.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20038-matlab.jpg
   description: MathWorks develops, sells, and supports MATLAB and Simulink products.
   paths: 0
-  alexa_rank: "812"
-  api_rank: "8"
+  alexa_rank: 812
+  api_rank: 8
 - label: Measure
   slug: measure
   url: http://measure.api.gallery.streamdata.io
@@ -1805,7 +1805,7 @@
     operations and cost profiles. In a market
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Mega
   slug: mega
   url: http://mega.api.gallery.streamdata.io
@@ -1817,7 +1817,7 @@
     service.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Memphis, TN
   slug: memphis-tn
   url: http://memphis.tn.api.gallery.streamdata.io
@@ -1829,7 +1829,7 @@
     provide public information. Current econ
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: MetaCert
   slug: metacert
   url: http://metacert.api.gallery.streamdata.io
@@ -1837,8 +1837,8 @@
   description: Data loss detection and prevention for companies that use Team Collaboration
     services. Protection against malicious and unwanted URLs.
   paths: 0
-  alexa_rank: "136997"
-  api_rank: "8"
+  alexa_rank: 136997
+  api_rank: 8
 - label: Miami, FL
   slug: miami-fl
   url: http://miami.fl.api.gallery.streamdata.io
@@ -1847,15 +1847,15 @@
     financial reports, salaries, public data and other information.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Micro
   slug: micro
   url: http://micro.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20078-micro.jpg
   description: Micro is simplifying cloud-native development
   paths: 0
-  alexa_rank: "1919823"
-  api_rank: "8"
+  alexa_rank: 1919823
+  api_rank: 8
 - label: MindTouch
   slug: mindtouch
   url: http://mindtouch.api.gallery.streamdata.io
@@ -1863,8 +1863,8 @@
   description: MindTouch is intelligent knowledge software that improves support agent
     productivity, increases ticket deflection, and fuels self-service support.
   paths: 0
-  alexa_rank: "268530"
-  api_rank: "8"
+  alexa_rank: 268530
+  api_rank: 8
 - label: moo.com
   slug: moo-com
   url: http://moo.com.api.gallery.streamdata.io
@@ -1873,8 +1873,8 @@
     image on each business card - upload your own design, logo, text and photos online.
     | MOO (United States)
   paths: 0
-  alexa_rank: "11197"
-  api_rank: "9"
+  alexa_rank: 11197
+  api_rank: 9
 - label: Moz
   slug: moz
   url: http://moz.api.gallery.streamdata.io
@@ -1883,8 +1883,8 @@
     that make SEO, inbound marketing, link building, and content marketing easy. Start
     your free 30-day trial today!
   paths: 0
-  alexa_rank: "2424"
-  api_rank: "8"
+  alexa_rank: 2424
+  api_rank: 8
 - label: MuseScore
   slug: musescore
   url: http://musescore.api.gallery.streamdata.io
@@ -1896,7 +1896,7 @@
     statistics, groups and it comes with
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Museum Victoria
   slug: museum-victoria
   url: http://museum.victoria.api.gallery.streamdata.io
@@ -1908,7 +1908,7 @@
     collections and expert staff to furthe
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Music Story
   slug: music-story
   url: http://music.story.api.gallery.streamdata.io
@@ -1916,16 +1916,16 @@
   description: Music Story is a music metadata provider which increases your music
     offer quality.
   paths: 0
-  alexa_rank: "2140043"
-  api_rank: "8"
+  alexa_rank: 2140043
+  api_rank: 8
 - label: musiXmatch
   slug: musixmatch
   url: http://musixmatch.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1621-musixmatch.jpg
   description: Musixmatch is the worlds largest catalog of song lyrics and translations
   paths: 0
-  alexa_rank: "2635"
-  api_rank: "8"
+  alexa_rank: 2635
+  api_rank: 8
 - label: National Aeronautics and Space Administration
   slug: national-aeronautics-and-space-administration
   url: http://national.aeronautics.and.space.administration.api.gallery.streamdata.io
@@ -1937,7 +1937,7 @@
     with a distinctly civilian (rather than m
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: National Archives and Records Administration
   slug: national-archives-and-records-administration
   url: http://national.archives.and.records.administration.api.gallery.streamdata.io
@@ -1949,7 +1949,7 @@
     and publishing the le
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: National Climate Data Center
   slug: national-climate-data-center
   url: http://national.climate.data.center.api.gallery.streamdata.io
@@ -1959,8 +1959,8 @@
     coastal and marine resources. Visit www.noaa.gov and follow us on Twitter via
     @NOAA.
   paths: 0
-  alexa_rank: "2046"
-  api_rank: "9"
+  alexa_rank: 2046
+  api_rank: 9
 - label: National Highway Traffic Safety Administration
   slug: national-highway-traffic-safety-administration
   url: http://national.highway.traffic.safety.administration.api.gallery.streamdata.io
@@ -1972,7 +1972,7 @@
     Federal Motor
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: National Institute on Drug Abuse
   slug: national-institute-on-drug-abuse
   url: http://national.institute.on.drug.abuse.api.gallery.streamdata.io
@@ -1982,7 +1982,7 @@
     science to bear on drug abuse and addiction.
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: National Library of Medicine
   slug: national-library-of-medicine
   url: http://national.library.of.medicine.api.gallery.streamdata.io
@@ -1994,7 +1994,7 @@
     manuscripts, microfilms, phot
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: National Renewable Energy Laboratory
   slug: national-renewable-energy-laboratory
   url: http://national.renewable.energy.laboratory.api.gallery.streamdata.io
@@ -2006,7 +2006,7 @@
     the U.S. Department of Energy (DOE). Thi
   paths: 0
   alexa_rank: 0
-  api_rank: "10"
+  api_rank: 10
 - label: National Science Foundation
   slug: national-science-foundation
   url: http://national.science.foundation.api.gallery.streamdata.io
@@ -2018,7 +2018,7 @@
     NSF funds approximately 20% of all f
   paths: 0
   alexa_rank: 0
-  api_rank: "9"
+  api_rank: 9
 - label: National Security Agency (NSA)
   slug: national-security-agency-nsa
   url: http://national.security.agency.nsa.api.gallery.streamdata.io
@@ -2030,7 +2030,7 @@
     charged with protection o
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: National Weather Service
   slug: national-weather-service
   url: http://national.weather.service.api.gallery.streamdata.io
@@ -2038,8 +2038,8 @@
   description: NOAAs National Weather Service is building a Weather-Ready Nation by
     providing better information for better decisions to save lives and livelihoods.
   paths: 0
-  alexa_rank: "1083"
-  api_rank: "10"
+  alexa_rank: 1083
+  api_rank: 10
 - label: Neo4j
   slug: neo4j
   url: http://neo4j.api.gallery.streamdata.io
@@ -2048,8 +2048,8 @@
     enterprise applications, including artificial intelligence, fraud detection and
     recommendations.'
   paths: 0
-  alexa_rank: "41646"
-  api_rank: "8"
+  alexa_rank: 41646
+  api_rank: 8
 - label: Nest
   slug: nest
   url: http://nest.api.gallery.streamdata.io
@@ -2058,8 +2058,8 @@
     outdoor security cameras, smoke and carbon monoxide alarm, security system, video
     doorbell and more.
   paths: 0
-  alexa_rank: "3843"
-  api_rank: "8"
+  alexa_rank: 3843
+  api_rank: 8
 - label: Netsil
   slug: netsil
   url: http://netsil.api.gallery.streamdata.io
@@ -2067,24 +2067,24 @@
   description: Netsil provides observability and monitoring for cloud apps. DevOps
     teams use Netsils auto-discovered maps & analytics to assure uptime and performance.
   paths: 0
-  alexa_rank: "1205185"
-  api_rank: "8"
+  alexa_rank: 1205185
+  api_rank: 8
 - label: Nevatech
   slug: nevatech
   url: http://nevatech.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27-nevatech.jpg
   description: API Management and SOA Governance for enterprises and developers
   paths: 0
-  alexa_rank: "5583055"
-  api_rank: "9"
+  alexa_rank: 5583055
+  api_rank: 9
 - label: New Orleans, LA
   slug: new-orleans-la
   url: http://new.orleans.la.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/738-new-orleans,-la.jpg
   description: One Team. One Fight. One Voice. One City.
   paths: 0
-  alexa_rank: "135049"
-  api_rank: "8"
+  alexa_rank: 135049
+  api_rank: 8
 - label: New York Federal Reserve Foreign Exchange
   slug: new-york-federal-reserve-foreign-exchange
   url: http://new.york.federal.reserve.foreign.exchange.api.gallery.streamdata.io
@@ -2092,8 +2092,8 @@
   description: The Federal Reserve Bank of New York plays a leadership role in monetary
     policy, financial supervision and the payments system.
   paths: 0
-  alexa_rank: "92409"
-  api_rank: "8"
+  alexa_rank: 92409
+  api_rank: 8
 - label: New York Senate
   slug: new-york-senate
   url: http://new.york.senate.api.gallery.streamdata.io
@@ -2103,8 +2103,8 @@
     and the senators who represent them, lawmakers are able to craft a better set
     of laws by which ...
   paths: 0
-  alexa_rank: "109059"
-  api_rank: "8"
+  alexa_rank: 109059
+  api_rank: 8
 - label: Newark, NJ
   slug: newark-nj
   url: http://newark.nj.api.gallery.streamdata.io
@@ -2115,7 +2115,7 @@
     civic applications by third party developers.
   paths: 0
   alexa_rank: 0
-  api_rank: "8"
+  api_rank: 8
 - label: Orange
   slug: orange
   url: http://orange.api.gallery.streamdata.io
@@ -2126,8 +2126,8 @@
     gives us scope to imagine and create services with a focus on making life better.
     Orange Partner is your business hub
   paths: 0
-  alexa_rank: "31770"
-  api_rank: "8"
+  alexa_rank: 31770
+  api_rank: 8
 - label: OVH US
   slug: ovh-us
   url: http://ovh.us.api.gallery.streamdata.io
@@ -2136,8 +2136,8 @@
     hosted private cloud, public cloud, and dedicated server solutions. We just opened
     our first U.S. data center; learn more about our limited time introductory offer!
   paths: 0
-  alexa_rank: "177984"
-  api_rank: "8"
+  alexa_rank: 177984
+  api_rank: 8
 - label: StrikeIron
   slug: strikeiron
   url: http://strikeiron.api.gallery.streamdata.io
@@ -2148,8 +2148,8 @@
     text messaging, and sales tax solutions to customers in a variety of markets.
     Our solutions are delivered as Web service
   paths: 0
-  alexa_rank: "29442"
-  api_rank: "9"
+  alexa_rank: 29442
+  api_rank: 9
 - label: U.S. Department of Labor
   slug: u-s--department-of-labor
   url: http://u.s..department.of.labor.api.gallery.streamdata.io
@@ -2157,8 +2157,8 @@
   description: Welcome to the U.S. Department of Labors Facebook page. We share info
     on jobs and training, safety and regulations, and other issues impacting workers.
   paths: 0
-  alexa_rank: "19801"
-  api_rank: "9"
+  alexa_rank: 19801
+  api_rank: 9
 - label: U.S. Department of State Office of the Historian
   slug: u-s--department-of-state-office-of-the-historian
   url: http://u.s..department.of.state.office.of.the.historian.api.gallery.streamdata.io
@@ -2166,6 +2166,6 @@
   description: If youre looking for the official source of information about the U.S.
     Department of State, please visit http://www.state.gov.
   paths: 0
-  alexa_rank: "724"
-  api_rank: "8"
+  alexa_rank: 724
+  api_rank: 8
 ...

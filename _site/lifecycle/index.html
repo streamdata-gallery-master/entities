@@ -2749,5 +2749,17 @@
 </footer>
 
 
+  <script>
+    // Logging
+    jQuery.ajax({
+       url: "http://traffic.beacon.streamdata.gallery/view/count/",
+       method: "get",
+       success:function(traffic){
+          console.log(traffic);
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {}
+    });
+  </script>
+
 </body>
 </html>

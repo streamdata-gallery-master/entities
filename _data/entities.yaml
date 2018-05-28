@@ -6,8 +6,8 @@
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API. Serving realtime tick data for over 500 forex currency pairs and commodities.
   paths: 0
-  alexa_rank: "648546"
-  api_rank: "8"
+  alexa_rank: 648546
+  api_rank: 8
 - label: 3scale
   slug: 3scale
   url: http://3scale.api.gallery.streamdata.io
@@ -15,8 +15,8 @@
   description: 3scales API Management platform gives you the tools you need to take
     control of your API. Trusted by more customers than any other vendor.
   paths: 0
-  alexa_rank: "345437"
-  api_rank: "10"
+  alexa_rank: 345437
+  api_rank: 10
 - label: 7digital
   slug: 7digital
   url: http://7digital.api.gallery.streamdata.io
@@ -24,8 +24,8 @@
   description: Welcome to 7digital!    Choose from over 30 million high quality tracks
     in our store; download, sync and play your music on the go.
   paths: 0
-  alexa_rank: "55455"
-  api_rank: "7"
+  alexa_rank: 55455
+  api_rank: 7
 - label: Accelerated Mobile Pages URL
   slug: accelerated-mobile-pages-url
   url: http://accelerated.mobile.pages.url.api.gallery.streamdata.io
@@ -37,7 +37,7 @@
     Google AMP Cache can be used to serve cached AMP HTML pages.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Allied Irish Bank
   slug: allied-irish-bank
   url: http://allied.irish.bank.api.gallery.streamdata.io
@@ -50,7 +50,7 @@
     through its tied agency with Irish Life Assurance plc.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Alpha Vantage
   slug: alpha-vantage
   url: http://alpha.vantage.api.gallery.streamdata.io
@@ -61,8 +61,8 @@
     Our success is driven by rigorous research, cutting edge technology, and a disciplined
     focus on democratizing access to data.
   paths: 0
-  alexa_rank: "160846"
-  api_rank: "8"
+  alexa_rank: 160846
+  api_rank: 8
 - label: Amadeus
   slug: amadeus
   url: http://amadeus.api.gallery.streamdata.io
@@ -71,16 +71,16 @@
     ecosystem, manage operations more effectively and serve travellers better than
     ever
   paths: 0
-  alexa_rank: "4309"
-  api_rank: "8"
+  alexa_rank: 4309
+  api_rank: 8
 - label: AMEE
   slug: amee
   url: http://amee.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
   description: Data driven solutions to strengthen supply chain performance and risk.
   paths: 0
-  alexa_rank: "4769400"
-  api_rank: "8"
+  alexa_rank: 4769400
+  api_rank: 8
 - label: AngelList
   slug: angellist
   url: http://angellist.api.gallery.streamdata.io
@@ -88,8 +88,8 @@
   description: AngelList is where the world meets startups. Find a great startup job,
     invest in a startup, or raise money
   paths: 0
-  alexa_rank: "2447"
-  api_rank: "9"
+  alexa_rank: 2447
+  api_rank: 9
 - label: Apica
   slug: apica
   url: http://apica.api.gallery.streamdata.io
@@ -98,8 +98,8 @@
     peak performance data and 24/7 monitoring of applications and sites around the
     world.
   paths: 0
-  alexa_rank: "827487"
-  api_rank: "7"
+  alexa_rank: 827487
+  api_rank: 7
 - label: APIs.io
   slug: apis-io
   url: http://apis.io.api.gallery.streamdata.io
@@ -107,8 +107,8 @@
   description: Find all the APIs you need to build your successful projects. APIs.io
     is the first search engine for APIs.
   paths: 0
-  alexa_rank: "1028198"
-  api_rank: "10"
+  alexa_rank: 1028198
+  api_rank: 10
 - label: ARIN
   slug: arin
   url: http://arin.api.gallery.streamdata.io
@@ -118,8 +118,8 @@
     of five (5) RIRs. Like the other RIRs, ARIN:    Provides services related to the
     technical coordinati...'
   paths: 0
-  alexa_rank: "51791"
-  api_rank: "8"
+  alexa_rank: 51791
+  api_rank: 8
 - label: Arlington National Cemetery
   slug: arlington-national-cemetery
   url: http://arlington.national.cemetery.api.gallery.streamdata.io
@@ -129,8 +129,8 @@
     are buried here, to include veterans from all our nations wars. Arlington has
     been the final...
   paths: 0
-  alexa_rank: "268709"
-  api_rank: "9"
+  alexa_rank: 268709
+  api_rank: 9
 - label: Aspose
   slug: aspose
   url: http://aspose.api.gallery.streamdata.io
@@ -139,8 +139,8 @@
     APIs for developers. Integrate in any enterprise level web desktop and mobile
     application
   paths: 0
-  alexa_rank: "59913"
-  api_rank: "8"
+  alexa_rank: 59913
+  api_rank: 8
 - label: AT&T Dev Program
   slug: att-dev-program
   url: http://att.dev.program.api.gallery.streamdata.io
@@ -149,8 +149,8 @@
     tablets, unlimited data plans, and high-speed internet. Join the nations best
     network today!
   paths: 0
-  alexa_rank: "691"
-  api_rank: "8"
+  alexa_rank: 691
+  api_rank: 8
 - label: Authentiq Connect
   slug: authentiq-connect
   url: http://authentiq.connect.api.gallery.streamdata.io
@@ -160,7 +160,7 @@
     about authentication again.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: AWS API Gateway
   slug: aws-api-gateway
   url: http://aws.api.gateway.api.gallery.streamdata.io
@@ -178,7 +178,7 @@
     of data transferred out.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS AppStream 2.0
   slug: aws-appstream-2-0
   url: http://aws.appstream.2.0.api.gallery.streamdata.io
@@ -190,7 +190,7 @@
     experience on the device of their choice.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Auto Scaling
   slug: aws-auto-scaling
   url: http://aws.auto.scaling.api.gallery.streamdata.io
@@ -205,7 +205,7 @@
     daily, or weekly variability in usage.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Batch
   slug: aws-batch
   url: http://aws.batch.api.gallery.streamdata.io
@@ -221,7 +221,7 @@
     services and features, such as Amazon EC2 and Spot Instances.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Certificate Manager
   slug: aws-certificate-manager
   url: http://aws.certificate.manager.api.gallery.streamdata.io
@@ -238,7 +238,7 @@
     pay only for the AWS resources you create to run your application.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CloudFormation
   slug: aws-cloudformation
   url: http://aws.cloudformation.api.gallery.streamdata.io
@@ -260,7 +260,7 @@
     pay only for the AWS resources needed to run your applications.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CloudFront
   slug: aws-cloudfront
   url: http://aws.cloudfront.api.gallery.streamdata.io
@@ -271,7 +271,7 @@
     an easy way to accelerate content to end users with no minimum usage commitments.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CloudHSM
   slug: aws-cloudhsm
   url: http://aws.cloudhsm.api.gallery.streamdata.io
@@ -302,7 +302,7 @@
     allows you to add secure and durable key storage to your applications.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CloudSearch
   slug: aws-cloudsearch
   url: http://aws.cloudsearch.api.gallery.streamdata.io
@@ -314,7 +314,7 @@
     more information, see Benefits.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CloudWatch
   slug: aws-cloudwatch
   url: http://aws.cloudwatch.api.gallery.streamdata.io
@@ -331,7 +331,7 @@
     smoothly.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Code Pipeline
   slug: aws-code-pipeline
   url: http://aws.code.pipeline.api.gallery.streamdata.io
@@ -349,7 +349,7 @@
     and process data that was previously locked up in on-premise data silos.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CodeBuild
   slug: aws-codebuild
   url: http://aws.codebuild.api.gallery.streamdata.io
@@ -364,7 +364,7 @@
     the compute resources you use.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CodeCommit
   slug: aws-codecommit
   url: http://aws.codecommit.api.gallery.streamdata.io
@@ -376,7 +376,7 @@
     from source code to binaries, and it works seamlessly with your existing Git tools.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS CodeDeploy
   slug: aws-codedeploy
   url: http://aws.codedeploy.api.gallery.streamdata.io
@@ -390,7 +390,7 @@
     with your infrastructure so you can easily deploy to one instance or thousands.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Cognito
   slug: aws-cognito
   url: http://aws.cognito.api.gallery.streamdata.io
@@ -407,7 +407,7 @@
     to handle user management, authentication, and sync across devices.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Config
   slug: aws-config
   url: http://aws.config.api.gallery.streamdata.io
@@ -422,7 +422,7 @@
     analysis, resource change tracking, and troubleshooting.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Data Pipeline
   slug: aws-data-pipeline
   url: http://aws.data.pipeline.api.gallery.streamdata.io
@@ -440,7 +440,7 @@
     and process data that was previously locked up in on-premise data silos.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Database Migration Service
   slug: aws-database-migration-service
   url: http://aws.database.migration.service.api.gallery.streamdata.io
@@ -459,7 +459,7 @@
     with high-availability.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Device Farm
   slug: aws-device-farm
   url: http://aws.device.farm.api.gallery.streamdata.io
@@ -470,7 +470,7 @@
     to pinpoint and fix issues before shipping your app.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Direct Connect
   slug: aws-direct-connect
   url: http://aws.direct.connect.api.gallery.streamdata.io
@@ -491,7 +491,7 @@
     your changing needs.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Directory Service
   slug: aws-directory-service
   url: http://aws.directory.service.api.gallery.streamdata.io
@@ -508,7 +508,7 @@
     Active Directory users and groups.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS DynamoDB
   slug: aws-dynamodb
   url: http://aws.dynamodb.api.gallery.streamdata.io
@@ -522,7 +522,7 @@
     Guide.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS EC2
   slug: aws-ec2
   url: http://aws.ec2.api.gallery.streamdata.io
@@ -540,7 +540,7 @@
     isolate themselves from common failure scenarios.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS EC2 Container Registry Service
   slug: aws-ec2-container-registry-service
   url: http://aws.ec2.container.registry.service.api.gallery.streamdata.io
@@ -558,7 +558,7 @@
     to the Internet.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS EC2 Container Service
   slug: aws-ec2-container-service
   url: http://aws.ec2.container.service.api.gallery.streamdata.io
@@ -576,7 +576,7 @@
     requirements.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS EC2 Systems Manager
   slug: aws-ec2-systems-manager
   url: http://aws.ec2.systems.manager.api.gallery.streamdata.io
@@ -594,7 +594,7 @@
     Manager is available now at no cost to manage both your EC2 and on-premises resources.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Elastic Beanstalk
   slug: aws-elastic-beanstalk
   url: http://aws.elastic.beanstalk.api.gallery.streamdata.io
@@ -610,7 +610,7 @@
     needed to store and run your applications.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Elastic Load Balancing
   slug: aws-elastic-load-balancing
   url: http://aws.elastic.load.balancing.api.gallery.streamdata.io
@@ -631,7 +631,7 @@
     ports on the same EC2 instance.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Elastic MapReduce
   slug: aws-elastic-mapreduce
   url: http://aws.elastic.mapreduce.api.gallery.streamdata.io
@@ -646,7 +646,7 @@
     scientific simulation, and bioinformatics.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS ElastiCache
   slug: aws-elasticache
   url: http://aws.elasticache.api.gallery.streamdata.io
@@ -663,7 +663,7 @@
     with your Redis or Memcached nodes.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Elasticsearch Service
   slug: aws-elasticsearch-service
   url: http://aws.elasticsearch.service.api.gallery.streamdata.io
@@ -678,7 +678,7 @@
     from raw data to actionable insights quickly.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Glacier
   slug: aws-glacier
   url: http://aws.glacier.api.gallery.streamdata.io
@@ -691,7 +691,7 @@
     access to archives, from a few minutes to several hours.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Identity and Access Management
   slug: aws-identity-and-access-management
   url: http://aws.identity.and.access.management.api.gallery.streamdata.io
@@ -705,7 +705,7 @@
     Management Consoleand get started with theseIAM Best Practices.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Inspector
   slug: aws-inspector
   url: http://aws.inspector.api.gallery.streamdata.io
@@ -721,7 +721,7 @@
     versions installed. These rules are regularly updated by AWS security researchers.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Internet of Things
   slug: aws-internet-of-things
   url: http://aws.internet.of.things.api.gallery.streamdata.io
@@ -739,7 +739,7 @@
     any infrastructure.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Key Management Service
   slug: aws-key-management-service
   url: http://aws.key.management.service.api.gallery.streamdata.io
@@ -753,7 +753,7 @@
     to help meet your regulatory and compliance needs.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Kinesis Analytics
   slug: aws-kinesis-analytics
   url: http://aws.kinesis.analytics.api.gallery.streamdata.io
@@ -769,7 +769,7 @@
     fee or setup cost.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Kinesis Firehose
   slug: aws-kinesis-firehose
   url: http://aws.kinesis.firehose.api.gallery.streamdata.io
@@ -789,7 +789,7 @@
     the service. There is no minimum fee or setup cost.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Lambda
   slug: aws-lambda
   url: http://aws.lambda.api.gallery.streamdata.io
@@ -802,7 +802,7 @@
     security, performance, and scalability of the AWS infrastructure.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Lightsale
   slug: aws-lightsale
   url: http://aws.lightsale.api.gallery.streamdata.io
@@ -815,7 +815,7 @@
     interface (CLI).
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Machine Learning
   slug: aws-machine-learning
   url: http://aws.machine.learning.api.gallery.streamdata.io
@@ -838,7 +838,7 @@
     as your application grows.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Marketplace Metering Service
   slug: aws-marketplace-metering-service
   url: http://aws.marketplace.metering.service.api.gallery.streamdata.io
@@ -850,7 +850,7 @@
     custom usage dimensions.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS OpsWorks
   slug: aws-opsworks
   url: http://aws.opsworks.api.gallery.streamdata.io
@@ -862,7 +862,7 @@
     OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Pinpoint
   slug: aws-pinpoint
   url: http://aws.pinpoint.api.gallery.streamdata.io
@@ -885,7 +885,7 @@
     the events you collect, so you can start small and scale as your application grows.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Polly
   slug: aws-polly
   url: http://aws.polly.api.gallery.streamdata.io
@@ -908,7 +908,7 @@
     make it a cost-effective way to enable Text-to-Speech everywhere.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS RDS
   slug: aws-rds
   url: http://aws.rds.api.gallery.streamdata.io
@@ -921,7 +921,7 @@
     andMicrosoft SQL Server.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Redshift
   slug: aws-redshift
   url: http://aws.redshift.api.gallery.streamdata.io
@@ -934,7 +934,7 @@
     their costs to $333 per uncompressed terabyte per year.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Rekognition
   slug: aws-rekognition
   url: http://aws.rekognition.api.gallery.streamdata.io
@@ -954,7 +954,7 @@
     no minimum fees and there are no upfront commitments.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Route 53
   slug: aws-route-53
   url: http://aws.route.53.api.gallery.streamdata.io
@@ -981,7 +981,7 @@
     configure DNS settings for your domains.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: AWS Security Token Service
   slug: aws-security-token-service
   url: http://aws.security.token.service.api.gallery.streamdata.io
@@ -991,7 +991,7 @@
     Management (IAM) users or for users that you authenticate (federated users).
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Server Migration Service
   slug: aws-server-migration-service
   url: http://aws.server.migration.service.api.gallery.streamdata.io
@@ -1003,7 +1003,7 @@
     migrations.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Service Catalog
   slug: aws-service-catalog
   url: http://aws.service.catalog.api.gallery.streamdata.io
@@ -1017,7 +1017,7 @@
     only the approved IT services they need.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Shield
   slug: aws-shield
   url: http://aws.shield.api.gallery.streamdata.io
@@ -1032,7 +1032,7 @@
     and transport layer DDoS attacks that target your web site or applications.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Simple Email Service
   slug: aws-simple-email-service
   url: http://aws.simple.email.service.api.gallery.streamdata.io
@@ -1044,7 +1044,7 @@
     for what you use.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Simple Notification Service
   slug: aws-simple-notification-service
   url: http://aws.simple.notification.service.api.gallery.streamdata.io
@@ -1061,7 +1061,7 @@
     endpoint.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Simple Queue Service
   slug: aws-simple-queue-service
   url: http://aws.simple.queue.service.api.gallery.streamdata.io
@@ -1077,7 +1077,7 @@
     low price for only what you use.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Snowball
   slug: aws-snowball
   url: http://aws.snowball.api.gallery.streamdata.io
@@ -1104,7 +1104,7 @@
     of the Snowball appliance.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Step Functions
   slug: aws-step-functions
   url: http://aws.step.functions.api.gallery.streamdata.io
@@ -1125,7 +1125,7 @@
     application is available at any scale.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS Storage Gateway Service
   slug: aws-storage-gateway-service
   url: http://aws.storage.gateway.service.api.gallery.streamdata.io
@@ -1142,7 +1142,7 @@
     scalability, extreme durability and low cost of cloud storage.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS WAF
   slug: aws-waf
   url: http://aws.waf.api.gallery.streamdata.io
@@ -1163,7 +1163,7 @@
     your web servers or origin servers running on EC2.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS WorkDocs
   slug: aws-workdocs
   url: http://aws.workdocs.api.gallery.streamdata.io
@@ -1184,7 +1184,7 @@
     sign-up for the public preview here.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS WorkSpaces
   slug: aws-workspaces
   url: http://aws.workspaces.api.gallery.streamdata.io
@@ -1201,7 +1201,7 @@
     Desktop Infrastructure (VDI) solutions.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AWS X-Ray
   slug: aws-xray
   url: http://aws.xray.api.gallery.streamdata.io
@@ -1217,7 +1217,7 @@
     services.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: AXA Assistance
   slug: axa-assistance
   url: http://axa.assistance.api.gallery.streamdata.io
@@ -1225,8 +1225,8 @@
   description: AXA Assistance is a worldwide specialist for car insurance, travel,
     health and home services. Trust in Axa Assistance for your insurance!
   paths: 0
-  alexa_rank: "2107685"
-  api_rank: "8"
+  alexa_rank: 2107685
+  api_rank: 8
 - label: Azure Advisor
   slug: azure-advisor
   url: http://azure.advisor.api.gallery.streamdata.io
@@ -1237,7 +1237,7 @@
     the performance, security, and reliability of your applications.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Analysis Services
   slug: azure-analysis-services
   url: http://azure.analysis.services.api.gallery.streamdata.io
@@ -1249,7 +1249,7 @@
     and pay only for what you use.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure API Management
   slug: azure-api-management
   url: http://azure.api.management.api.gallery.streamdata.io
@@ -1261,7 +1261,7 @@
     developer onboarding to help get your API program up and running.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Application Insights
   slug: azure-application-insights
   url: http://azure.application.insights.api.gallery.streamdata.io
@@ -1272,7 +1272,7 @@
     perform a root cause analysis to find and fix the issue.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Automation
   slug: azure-automation
   url: http://azure.automation.api.gallery.streamdata.io
@@ -1283,7 +1283,7 @@
     operational costs.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Batch
   slug: azure-batch
   url: http://azure.batch.api.gallery.streamdata.io
@@ -1298,7 +1298,7 @@
     it, without any capital investment.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Billing API
   slug: azure-billing-api
   url: http://azure.billing.api.api.gallery.streamdata.io
@@ -1309,7 +1309,7 @@
     and part of the family of APIs exposed by the Azure Resource Manager.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure CDN
   slug: azure-cdn
   url: http://azure.cdn.api.gallery.streamdata.io
@@ -1320,7 +1320,7 @@
     Delivery Network helps you reduce load times, save bandwidth, and increase responsiveness.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Cognitive Services
   slug: azure-cognitive-services
   url: http://azure.cognitive.services.api.gallery.streamdata.io
@@ -1331,7 +1331,7 @@
     language, and knowledge.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Container Registry
   slug: azure-container-registry
   url: http://azure.container.registry.api.gallery.streamdata.io
@@ -1342,7 +1342,7 @@
     the configuration of apps isolated from the configuration of the hosting environment.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Container Service
   slug: azure-container-service
   url: http://azure.container.service.api.gallery.streamdata.io
@@ -1354,7 +1354,7 @@
     handles everything else.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Data Lake Analytics
   slug: azure-data-lake-analytics
   url: http://azure.data.lake.analytics.api.gallery.streamdata.io
@@ -1373,7 +1373,7 @@
     in Azure, Azure SQL Database and Azure SQL Data Warehouse.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Data Lake Store
   slug: azure-data-lake-store
   url: http://azure.data.lake.store.api.gallery.streamdata.io
@@ -1389,7 +1389,7 @@
     limits on account or file size unlike current offerings in the market.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure DevTest Labs
   slug: azure-devtest-labs
   url: http://azure.devtest.labs.api.gallery.streamdata.io
@@ -1399,7 +1399,7 @@
     and Linux environments while minimalizing waste and controlling costs.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure DNS
   slug: azure-dns
   url: http://azure.dns.api.gallery.streamdata.io
@@ -1411,7 +1411,7 @@
     DNS, you can be sure your DNS will always be fast and available.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure DocumentDB
   slug: azure-documentdb
   url: http://azure.documentdb.api.gallery.streamdata.io
@@ -1421,7 +1421,7 @@
     and reliable performance, and rapid development.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Event Hubs
   slug: azure-event-hubs
   url: http://azure.event.hubs.api.gallery.streamdata.io
@@ -1433,7 +1433,7 @@
     multiple applications using publish-subscribe semantics.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure HDInsight
   slug: azure-hdinsight
   url: http://azure.hdinsight.api.gallery.streamdata.io
@@ -1443,7 +1443,7 @@
     platform that manages data of any type and size.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure IoT Hub
   slug: azure-iot-hub
   url: http://azure.iot.hub.api.gallery.streamdata.io
@@ -1458,7 +1458,7 @@
     of your system.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Key Vault
   slug: azure-key-vault
   url: http://azure.key.vault.api.gallery.streamdata.io
@@ -1475,7 +1475,7 @@
     and manage HSMs and key management software.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Logic Apps
   slug: azure-logic-apps
   url: http://azure.logic.apps.api.gallery.streamdata.io
@@ -1488,7 +1488,7 @@
     the Azure Marketplace all of the time.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Machine Learning
   slug: azure-machine-learning
   url: http://azure.machine.learning.api.gallery.streamdata.io
@@ -1501,7 +1501,7 @@
     in, check out our APIs and Azure Marketplace.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Media Services
   slug: azure-media-services
   url: http://azure.media.services.api.gallery.streamdata.io
@@ -1513,7 +1513,7 @@
     while protecting your content.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Monitor
   slug: azure-monitor
   url: http://azure.monitor.api.gallery.streamdata.io
@@ -1526,7 +1526,7 @@
     can scale your service by any of these&mdash;or by a custom metric you define.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Notification Hubs
   slug: azure-notification-hubs
   url: http://azure.notification.hubs.api.gallery.streamdata.io
@@ -1537,7 +1537,7 @@
     backend.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Recovery Services
   slug: azure-recovery-services
   url: http://azure.recovery.services.api.gallery.streamdata.io
@@ -1548,7 +1548,7 @@
     servers and virtual machines to the cloud or to a secondary datacenter.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Redis Cache
   slug: azure-redis-cache
   url: http://azure.redis.cache.api.gallery.streamdata.io
@@ -1558,7 +1558,7 @@
     accessible from any application within Azure.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Resource Health
   slug: azure-resource-health
   url: http://azure.resource.health.api.gallery.streamdata.io
@@ -1569,7 +1569,7 @@
     when you need help with Azure service issues.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Resource Manager
   slug: azure-resource-manager
   url: http://azure.resource.manager.api.gallery.streamdata.io
@@ -1580,7 +1580,7 @@
     managing resources with Resource Manager, see Azure Resource Manager overview.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Azure Scheduler
   slug: azure-scheduler
   url: http://azure.scheduler.api.gallery.streamdata.io
@@ -1591,7 +1591,7 @@
     right away, on a recurring schedule, or at some point in the future.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Search
   slug: azure-search
   url: http://azure.search.api.gallery.streamdata.io
@@ -1601,7 +1601,7 @@
     full-text search.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Service Bus
   slug: azure-service-bus
   url: http://azure.service.bus.api.gallery.streamdata.io
@@ -1615,7 +1615,7 @@
     like order processing.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Service Fabric
   slug: azure-service-fabric
   url: http://azure.service.fabric.api.gallery.streamdata.io
@@ -1627,7 +1627,7 @@
     and focus instead on implementing mission-critical, demanding workloads.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure SQL Database
   slug: azure-sql-database
   url: http://azure.sql.database.api.gallery.streamdata.io
@@ -1637,7 +1637,7 @@
     reliability, and data protection, SQL Database is a cloud database built for developers.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Storage
   slug: azure-storage
   url: http://azure.storage.api.gallery.streamdata.io
@@ -1646,7 +1646,7 @@
     Table Storage, Queue Storage, and Files.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Traffic Manager
   slug: azure-traffic-manager
   url: http://azure.traffic.manager.api.gallery.streamdata.io
@@ -1656,7 +1656,7 @@
     for your application or scenario.'
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Azure Virtual Network
   slug: azure-virtual-network
   url: http://azure.virtual.network.api.gallery.streamdata.io
@@ -1667,15 +1667,15 @@
     tunnel, or connect privately by using the ExpressRoute service.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Backupify
   slug: backupify
   url: http://backupify.api.gallery.streamdata.io
   image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Bandsintown
   slug: bandsintown
   url: http://bandsintown.api.gallery.streamdata.io
@@ -1688,7 +1688,7 @@
     calendar, so fans are sure not to miss the show.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Bank of Ireland
   slug: bank-of-ireland
   url: http://bank.of.ireland.api.gallery.streamdata.io
@@ -1700,7 +1700,7 @@
     the holding company of Bank of Ireland.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Bank of Scotland
   slug: bank-of-scotland
   url: http://bank.of.scotland.api.gallery.streamdata.io
@@ -1714,7 +1714,7 @@
     which allow Scottish banks to issue currency.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Barchart
   slug: barchart
   url: http://barchart.api.gallery.streamdata.io
@@ -1722,8 +1722,8 @@
   description: Barchart.com is the leading provider of intraday stock and commodities
     real-time or delayed charts with powerful indicators and technical analysis.
   paths: 0
-  alexa_rank: "15739"
-  api_rank: "7"
+  alexa_rank: 15739
+  api_rank: 7
 - label: Barclays
   slug: barclays
   url: http://barclays.api.gallery.streamdata.io
@@ -1736,8 +1736,8 @@
     Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management),
     Barclaycard, Investment Banking and Africa.'
   paths: 0
-  alexa_rank: "77947"
-  api_rank: "7"
+  alexa_rank: 77947
+  api_rank: 7
 - label: BBC
   slug: bbc
   url: http://bbc.api.gallery.streamdata.io
@@ -1745,8 +1745,8 @@
   description: Breaking news, sport, TV, radio and a whole lot more. The BBC informs,
     educates and entertains - wherever you are, whatever your age.
   paths: 0
-  alexa_rank: "93"
-  api_rank: "7"
+  alexa_rank: 93
+  api_rank: 7
 - label: BC Geographical Names
   slug: bc-geographical-names
   url: http://bc.geographical.names.api.gallery.streamdata.io
@@ -1757,7 +1757,7 @@
     might otherwise be overlooked or forgotten by visitors and later generations.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: BC Laws
   slug: bc-laws
   url: http://bc.laws.api.gallery.streamdata.io
@@ -1776,7 +1776,7 @@
     itself is an example of one such application.'
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: BC Route Planner
   slug: bc-route-planner
   url: http://bc.route.planner.api.gallery.streamdata.io
@@ -1787,7 +1787,7 @@
     the route, distance, time, and directions.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: BetterDoctor
   slug: betterdoctor
   url: http://betterdoctor.api.gallery.streamdata.io
@@ -1796,8 +1796,8 @@
     our consumer app, doctor marketing services, and API. Our mission is to help increase
     transparency in healthcare and help consumers make better decisions.
   paths: 0
-  alexa_rank: "625342"
-  api_rank: "8"
+  alexa_rank: 625342
+  api_rank: 8
 - label: BigOven
   slug: bigoven
   url: http://bigoven.api.gallery.streamdata.io
@@ -1805,8 +1805,8 @@
   description: Free recipe app for home cooks. Create a meal plan, grocery list and
     more from your favorite recipes. Organize your recipe collection and take it anywhere.
   paths: 0
-  alexa_rank: "117577"
-  api_rank: "8"
+  alexa_rank: 117577
+  api_rank: 8
 - label: Bitly
   slug: bitly
   url: http://bitly.api.gallery.streamdata.io
@@ -1815,8 +1815,8 @@
     understand and activate your best audience through the power of the link with
     Bitly Enterprise.
   paths: 0
-  alexa_rank: "737"
-  api_rank: "8"
+  alexa_rank: 737
+  api_rank: 8
 - label: BlazeMeter
   slug: blazemeter
   url: http://blazemeter.api.gallery.streamdata.io
@@ -1824,8 +1824,8 @@
   description: BlazeMeter platform for load and performance testing enables dev and
     QA teams to run scalable and continuous testing for website, mobile, api and software
   paths: 0
-  alexa_rank: "69236"
-  api_rank: "8"
+  alexa_rank: 69236
+  api_rank: 8
 - label: Blizzard
   slug: blizzard
   url: http://blizzard.api.gallery.streamdata.io
@@ -1834,7 +1834,7 @@
     World of Warcraft community site as a service to the World of Warcraft community.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Blockchain Info
   slug: blockchain-info
   url: http://blockchain.info.api.gallery.streamdata.io
@@ -1844,8 +1844,8 @@
     across the globe to transact quickly and without costly intermediaries. We also
     offers tools for develo...
   paths: 0
-  alexa_rank: "842"
-  api_rank: "8"
+  alexa_rank: 842
+  api_rank: 8
 - label: Blogger
   slug: blogger
   url: http://blogger.api.gallery.streamdata.io
@@ -1857,7 +1857,7 @@
     www.example.com).
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: BMC Software
   slug: bmc-software
   url: http://bmc.software.api.gallery.streamdata.io
@@ -1865,8 +1865,8 @@
   description: Transform your digital enterprise with BMC IT solutions. From mainframe
     to cloud to mobile, we???ll help you drive innovation and industrial efficiency.
   paths: 0
-  alexa_rank: "27308"
-  api_rank: "8"
+  alexa_rank: 27308
+  api_rank: 8
 - label: Botify
   slug: botify
   url: http://botify.api.gallery.streamdata.io
@@ -1876,8 +1876,8 @@
     and see the organic traffic results youve been seeking. Founded in 2012, Botify
     is a SaaS SEO platfo...
   paths: 0
-  alexa_rank: "274018"
-  api_rank: "7"
+  alexa_rank: 274018
+  api_rank: 7
 - label: Box
   slug: box
   url: http://box.api.gallery.streamdata.io
@@ -1885,16 +1885,16 @@
   description: Box is changing how you manage content across your business from simple
     file sharing to building custom apps.
   paths: 0
-  alexa_rank: "443"
-  api_rank: "9"
+  alexa_rank: 443
+  api_rank: 9
 - label: Boxcar
   slug: boxcar
   url: http://boxcar.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/714-boxcar.jpg
   description: 'For Developers: a push platform with SDKs, APIs and admin console.'
   paths: 0
-  alexa_rank: "1280273"
-  api_rank: "8"
+  alexa_rank: 1280273
+  api_rank: 8
 - label: Browshot.com
   slug: browshot-com
   url: http://browshot.com.api.gallery.streamdata.io
@@ -1902,8 +1902,8 @@
   description: Browshot is a service to take screenshot of web pages. Use any of our
     mobile and desktop browsers. We provide a powerful API and libraries.
   paths: 0
-  alexa_rank: "1714303"
-  api_rank: "7"
+  alexa_rank: 1714303
+  api_rank: 7
 - label: Buffer
   slug: buffer
   url: http://buffer.api.gallery.streamdata.io
@@ -1911,8 +1911,8 @@
   description: Buffer is an intuitive social media management platform trusted by
     brands, businesses, agencies, and individuals to help drive social media results.
   paths: 0
-  alexa_rank: "2789"
-  api_rank: "7"
+  alexa_rank: 2789
+  api_rank: 7
 - label: Bureau of Alcohol, Tobacco, Firearms, and Explosives
   slug: bureau-of-alcohol-tobacco-firearms-and-explosives
   url: http://bureau.of.alcohol.tobacco.firearms.and.explosives.api.gallery.streamdata.io
@@ -1930,7 +1930,7 @@
     full-scale mock-ups of criminal arson can be reconstructed.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Bureau of Economic Analysis
   slug: bureau-of-economic-analysis
   url: http://bureau.of.economic.analysis.api.gallery.streamdata.io
@@ -1940,8 +1940,8 @@
     product (GDP) and related measures of national, regional, industry and international
     accounts.
   paths: 0
-  alexa_rank: "64160"
-  api_rank: "9"
+  alexa_rank: 64160
+  api_rank: 9
 - label: Bureau of Justice Statistics
   slug: bureau-of-justice-statistics
   url: http://bureau.of.justice.statistics.api.gallery.streamdata.io
@@ -1954,7 +1954,7 @@
     agencies that comprise the U.S. justice system on its Web site.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: CallFire
   slug: callfire
   url: http://callfire.api.gallery.streamdata.io
@@ -1962,8 +1962,8 @@
   description: Grow your business with virtual phone numbers, IVR, voice broadcasting,
     mass text messaging services and power dialing. Try CallFire for FREE!
   paths: 0
-  alexa_rank: "129466"
-  api_rank: "9"
+  alexa_rank: 129466
+  api_rank: 9
 - label: Capital One DevExchange
   slug: capital-one-devexchange
   url: http://capital.one.devexchange.api.gallery.streamdata.io
@@ -1974,15 +1974,15 @@
     you. Now is the time to join our beta program, and help us shape the future.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Clarify
   slug: clarify
   url: http://clarify.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3503-clarify.jpg
   description: The API to search, re-imagined for a world that???s moved beyond text.
   paths: 0
-  alexa_rank: "2476786"
-  api_rank: "9"
+  alexa_rank: 2476786
+  api_rank: 9
 - label: Clearbit
   slug: clearbit
   url: http://clearbit.api.gallery.streamdata.io
@@ -1993,7 +1993,7 @@
     to focus on building great products.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Click Meter
   slug: click-meter
   url: http://click.meter.api.gallery.streamdata.io
@@ -2008,7 +2008,7 @@
     useful to everyone involved in web-marketing activities.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Clickatell
   slug: clickatell
   url: http://clickatell.api.gallery.streamdata.io
@@ -2016,8 +2016,8 @@
   description: Clickatell is a leading company in Global Mobile Messaging. You can
     reach 1000+ global networks with 1 API using Clickatells Bulk SMS Gateway.
   paths: 0
-  alexa_rank: "105051"
-  api_rank: "8"
+  alexa_rank: 105051
+  api_rank: 8
 - label: Clockwork
   slug: clockwork
   url: http://clockwork.api.gallery.streamdata.io
@@ -2025,8 +2025,8 @@
   description: Clockwork is an Easy Text Message API. An SMS API for Developers. Build
     powerful apps and include SMS. Signup is free, Try it now.
   paths: 0
-  alexa_rank: "643753"
-  api_rank: "8"
+  alexa_rank: 643753
+  api_rank: 8
 - label: Cloud Elements
   slug: cloud-elements
   url: http://cloud.elements.api.gallery.streamdata.io
@@ -2034,8 +2034,8 @@
   description: Cloud Elements is the leading API integration platform for SaaS app
     providers and the digital enterprise. Turn integration into your competitive advantage.
   paths: 0
-  alexa_rank: "278908"
-  api_rank: "7"
+  alexa_rank: 278908
+  api_rank: 7
 - label: CloudFlare
   slug: cloudflare
   url: http://cloudflare.api.gallery.streamdata.io
@@ -2043,8 +2043,8 @@
   description: Here at Cloudflare, we make the Internet work the way it should. Offering
     CDN, DNS, DDoS protection and security, find out how we can help your site.
   paths: 0
-  alexa_rank: "1685"
-  api_rank: "9"
+  alexa_rank: 1685
+  api_rank: 9
 - label: Code.gov
   slug: code-gov
   url: http://code.gov.api.gallery.streamdata.io
@@ -2054,7 +2054,7 @@
     of taxpayer dollars for the American people.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Constant Contact
   slug: constant-contact
   url: http://constant.contact.api.gallery.streamdata.io
@@ -2063,8 +2063,8 @@
     other online marketing campaigns to meet your business goals. Start your FREE
     trial today!
   paths: 0
-  alexa_rank: "1364"
-  api_rank: "7"
+  alexa_rank: 1364
+  api_rank: 7
 - label: Context.IO
   slug: context-io
   url: http://context.io.api.gallery.streamdata.io
@@ -2072,8 +2072,8 @@
   description: Create simple email webhooks and code against a free, RESTful, IMAP
     API.
   paths: 0
-  alexa_rank: "569975"
-  api_rank: "9"
+  alexa_rank: 569975
+  api_rank: 9
 - label: ConvertAPI
   slug: convertapi
   url: http://convertapi.api.gallery.streamdata.io
@@ -2081,8 +2081,8 @@
   description: Create PDF easily with our developers API/SDK for Ruby Java .NET C#
     PHP Shell Delphi.
   paths: 0
-  alexa_rank: "717909"
-  api_rank: "8"
+  alexa_rank: 717909
+  api_rank: 8
 - label: Coutts
   slug: coutts
   url: http://coutts.api.gallery.streamdata.io
@@ -2098,7 +2098,7 @@
     until 2011, when RBS Coutts was renamed Coutts &amp; Co. Limited.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Danske Bank
   slug: danske-bank
   url: http://danske.bank.api.gallery.streamdata.io
@@ -2110,8 +2110,8 @@
     and a major retail bank in the northern European region with over 5 million retail
     customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011.
   paths: 0
-  alexa_rank: "55813"
-  api_rank: "7"
+  alexa_rank: 55813
+  api_rank: 7
 - label: Data.Gov
   slug: data-gov
   url: http://data.gov.api.gallery.streamdata.io
@@ -2125,7 +2125,7 @@
     not private or restricted for national security reasons.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Data.Gov.au
   slug: data-gov-au
   url: http://data.gov.au.api.gallery.streamdata.io
@@ -2154,7 +2154,7 @@
     opportunity to &#8220;wow&#8221; you with fresh, authentic and timely content.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Data2CRM
   slug: data2crm
   url: http://data2crm.api.gallery.streamdata.io
@@ -2164,15 +2164,15 @@
     a Unified API Provider, to Connect Your Business Software with 17+ CRMs.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Datadog
   slug: datadog
   url: http://datadog.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22961-datadog.jpg
   description: See inside any stack, any app, at any scale, anywhere.
   paths: 0
-  alexa_rank: "13593"
-  api_rank: "8"
+  alexa_rank: 13593
+  api_rank: 8
 - label: Datumbox
   slug: datumbox
   url: http://datumbox.api.gallery.streamdata.io
@@ -2180,8 +2180,8 @@
   description: Build quickly and easily Intelligent Applications by using the power
     of Machine Learning!
   paths: 0
-  alexa_rank: "514549"
-  api_rank: "9"
+  alexa_rank: 514549
+  api_rank: 9
 - label: Disqus
   slug: disqus
   url: http://disqus.api.gallery.streamdata.io
@@ -2190,8 +2190,8 @@
     We help publishers power online discussions with comments and earn revenue with
     native advertising.
   paths: 0
-  alexa_rank: "850"
-  api_rank: "8"
+  alexa_rank: 850
+  api_rank: 8
 - label: DNS Check
   slug: dns-check
   url: http://dns.check.api.gallery.streamdata.io
@@ -2201,8 +2201,8 @@
     automatically re-checked, and reports updated. DNS records can be imported from
     a zone file, or added in...
   paths: 0
-  alexa_rank: "3315601"
-  api_rank: "8"
+  alexa_rank: 3315601
+  api_rank: 8
 - label: DomainTools
   slug: domaintools
   url: http://domaintools.api.gallery.streamdata.io
@@ -2212,8 +2212,8 @@
     with nearly every active domain on the Internet. Those connections inform risk
     assessments,...
   paths: 0
-  alexa_rank: "6104"
-  api_rank: "7"
+  alexa_rank: 6104
+  api_rank: 7
 - label: DonorsChoose
   slug: donorschoose
   url: http://donorschoose.api.gallery.streamdata.io
@@ -2221,8 +2221,8 @@
   description: DonorsChoose.org connects teachers in high-need communities with donors
     who want to help.
   paths: 0
-  alexa_rank: "23784"
-  api_rank: "7"
+  alexa_rank: 23784
+  api_rank: 7
 - label: Dropbox
   slug: dropbox
   url: http://dropbox.api.gallery.streamdata.io
@@ -2230,8 +2230,8 @@
   description: Dropbox is a modern workspace designed to reduce busywork-so you can
     focus on the things that matter. Sign in and put your creative energy to work.
   paths: 0
-  alexa_rank: "89"
-  api_rank: "10"
+  alexa_rank: 89
+  api_rank: 10
 - label: DuckDuckGo
   slug: duckduckgo
   url: http://duckduckgo.api.gallery.streamdata.io
@@ -2239,8 +2239,8 @@
   description: The Internet privacy company that empowers you to seamlessly take control
     of your personal information online, without any tradeoffs.
   paths: 0
-  alexa_rank: "286"
-  api_rank: "9"
+  alexa_rank: 286
+  api_rank: 9
 - label: Dyn
   slug: dyn
   url: http://dyn.api.gallery.streamdata.io
@@ -2248,8 +2248,8 @@
   description: Dyn is home to the worlds most trusted DNS product suite and the worlds
     most reputable Email Deliverability Service.
   paths: 0
-  alexa_rank: "20789"
-  api_rank: "8"
+  alexa_rank: 20789
+  api_rank: 8
 - label: EasyCron
   slug: easycron
   url: http://easycron.api.gallery.streamdata.io
@@ -2258,8 +2258,8 @@
     cron jobs with execution logs, Email notifications, run time predictions and a
     bunch of other featuers!
   paths: 0
-  alexa_rank: "181380"
-  api_rank: "9"
+  alexa_rank: 181380
+  api_rank: 9
 - label: eBay
   slug: ebay
   url: http://ebay.api.gallery.streamdata.io
@@ -2268,8 +2268,8 @@
     goods, digital cameras, baby items, coupons, and everything else on eBay, the
     worlds online marketplace
   paths: 0
-  alexa_rank: "42"
-  api_rank: "8"
+  alexa_rank: 42
+  api_rank: 8
 - label: EhrScape
   slug: ehrscape
   url: http://ehrscape.api.gallery.streamdata.io
@@ -2283,7 +2283,7 @@
     and weve got very big plans!
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Elastic Email
   slug: elastic-email
   url: http://elastic.email.api.gallery.streamdata.io
@@ -2291,8 +2291,8 @@
   description: Elastic Email is an all-in-one email delivery platform. Send beautiful
     newsletters or transactional emails in a better way.
   paths: 0
-  alexa_rank: "50338"
-  api_rank: "8"
+  alexa_rank: 50338
+  api_rank: 8
 - label: eMuseum API docs
   slug: emuseum-api-docs
   url: http://emuseum.api.docs.api.gallery.streamdata.io
@@ -2304,7 +2304,7 @@
     This API delivers search information and images from TMS &amp; eMuseum to GSA.gov.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: EPA Envirofacts
   slug: epa-envirofacts
   url: http://epa.envirofacts.api.gallery.streamdata.io
@@ -2314,16 +2314,16 @@
     and work;    -  national efforts to reduce environmental risk are based on the
     best available scientifi...'
   paths: 0
-  alexa_rank: "5166"
-  api_rank: "8"
+  alexa_rank: 5166
+  api_rank: 8
 - label: Etsy
   slug: etsy
   url: http://etsy.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/192-etsy.jpg
   description: Find handmade, vintage, and unique goods that express who you are.
   paths: 0
-  alexa_rank: "187"
-  api_rank: "9"
+  alexa_rank: 187
+  api_rank: 9
 - label: EU BON UTIS
   slug: eu-bon-utis
   url: http://eu.bon.utis.api.gallery.streamdata.io
@@ -2338,7 +2338,7 @@
     EDIT components.'
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Europeana
   slug: europeana
   url: http://europeana.api.gallery.streamdata.io
@@ -2346,8 +2346,8 @@
   description: Explore 51,990,182 artworks, artefacts, books, videos and sounds from
     more than 3,500 museums, galleries, libraries and archives across Europe.
   paths: 0
-  alexa_rank: "68066"
-  api_rank: "9"
+  alexa_rank: 68066
+  api_rank: 9
 - label: Eventbrite
   slug: eventbrite
   url: http://eventbrite.api.gallery.streamdata.io
@@ -2355,8 +2355,8 @@
   description: Eventbrite brings people together through live experiences. Discover
     events that match your passions, or create your own with online ticketing tools.
   paths: 0
-  alexa_rank: "643"
-  api_rank: "9"
+  alexa_rank: 643
+  api_rank: 9
 - label: Expedia
   slug: expedia
   url: http://expedia.api.gallery.streamdata.io
@@ -2365,8 +2365,8 @@
     Inc. Our technology powers the hotel offering of thousands of partners around
     the world.
   paths: 0
-  alexa_rank: "197733"
-  api_rank: "9"
+  alexa_rank: 197733
+  api_rank: 9
 - label: Facebook
   slug: facebook
   url: http://facebook.api.gallery.streamdata.io
@@ -2374,8 +2374,8 @@
   description: Create an account or log into Facebook. Connect with friends, family
     and other people you know. Share photos and videos, send messages and get updates.
   paths: 0
-  alexa_rank: "3"
-  api_rank: "9"
+  alexa_rank: 3
+  api_rank: 9
 - label: Factual
   slug: factual
   url: http://factual.api.gallery.streamdata.io
@@ -2383,8 +2383,8 @@
   description: Factual is pioneering how the world uses data to power mobile marketing,
     digital consumer products, mobile applications and real world analytics.
   paths: 0
-  alexa_rank: "147251"
-  api_rank: "9"
+  alexa_rank: 147251
+  api_rank: 9
 - label: Fire Browse Beta API
   slug: fire-browse-beta-api
   url: http://fire.browse.beta.api.api.gallery.streamdata.io
@@ -2396,7 +2396,7 @@
     from 11,000+ cancer patients, spanning 38 unique disease cohorts.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Firebase
   slug: firebase
   url: http://firebase.api.gallery.streamdata.io
@@ -2404,8 +2404,8 @@
   description: Firebase is a mobile platform that gives developers the tools and infrastructure
     to build better apps and grow successful businesses.
   paths: 0
-  alexa_rank: "1"
-  api_rank: "9"
+  alexa_rank: 1
+  api_rank: 9
 - label: First Trust Bank
   slug: first-trust-bank
   url: http://first.trust.bank.api.gallery.streamdata.io
@@ -2417,7 +2417,7 @@
     Conduct Authority and the Prudential Regulation Authority.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Fitbit
   slug: fitbit
   url: http://fitbit.api.gallery.streamdata.io
@@ -2426,8 +2426,8 @@
     stay motivated and improve your health by tracking your activity, exercise, food,
     weight and sleep.
   paths: 0
-  alexa_rank: "2266"
-  api_rank: "9"
+  alexa_rank: 2266
+  api_rank: 9
 - label: Flat
   slug: flat
   url: http://flat.api.gallery.streamdata.io
@@ -2438,7 +2438,7 @@
     in your web browser on any device
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Flickr
   slug: flickr
   url: http://flickr.api.gallery.streamdata.io
@@ -2451,7 +2451,7 @@
     social media.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Fluxiom
   slug: fluxiom
   url: http://fluxiom.api.gallery.streamdata.io
@@ -2459,8 +2459,8 @@
   description: Fluxiom offers seamless online file management in the cloud. Keep your
     files private, share them with a select audience or broadcast them to the world.
   paths: 0
-  alexa_rank: "3532345"
-  api_rank: "7"
+  alexa_rank: 3532345
+  api_rank: 7
 - label: Foursquare
   slug: foursquare
   url: http://foursquare.api.gallery.streamdata.io
@@ -2468,8 +2468,8 @@
   description: Foursquare helps you find the perfect places to go with friends. Discover
     the best food, nightlife, and entertainment in your area.
   paths: 0
-  alexa_rank: "2544"
-  api_rank: "9"
+  alexa_rank: 2544
+  api_rank: 9
 - label: Framesocket
   slug: framesocket
   url: http://framesocket.api.gallery.streamdata.io
@@ -2477,8 +2477,8 @@
   description: Easily integrate video into your website or mobile applications. Build
     traffic via Google Facebook YouTube Twitter. No limits on users storage or bandwidth.
   paths: 0
-  alexa_rank: "5719311"
-  api_rank: "8"
+  alexa_rank: 5719311
+  api_rank: 8
 - label: Freesound
   slug: freesound
   url: http://freesound.api.gallery.streamdata.io
@@ -2490,8 +2490,8 @@
     type of browsing and more--upload and download sounds to and from the database,
     under the same creative commons license, and interact with fellow sound-artists!
   paths: 0
-  alexa_rank: "6485"
-  api_rank: "8"
+  alexa_rank: 6485
+  api_rank: 8
 - label: FullContact
   slug: fullcontact
   url: http://fullcontact.api.gallery.streamdata.io
@@ -2499,8 +2499,8 @@
   description: Build a clearer picture of your customers in minutes with our data-focused
     APIs. Manage your personal or teams contacts with our contact apps.
   paths: 0
-  alexa_rank: "49636"
-  api_rank: "9"
+  alexa_rank: 49636
+  api_rank: 9
 - label: Ge.tt
   slug: ge-tt
   url: http://ge.tt.api.gallery.streamdata.io
@@ -2508,8 +2508,8 @@
   description: Extremely simple realtime filesharing. No signup required. Share any
     number of photos, videos, music, anything - in seconds - no matter how large.
   paths: 0
-  alexa_rank: "36546"
-  api_rank: "8"
+  alexa_rank: 36546
+  api_rank: 8
 - label: Geneea
   slug: geneea
   url: http://geneea.api.gallery.streamdata.io
@@ -2519,8 +2519,8 @@
     your business processes. Simply plug in the output of The Interpretor, our powerful
     software p...
   paths: 0
-  alexa_rank: "11275166"
-  api_rank: "7"
+  alexa_rank: 11275166
+  api_rank: 7
 - label: Getty Images
   slug: getty-images
   url: http://getty.images.api.gallery.streamdata.io
@@ -2529,8 +2529,8 @@
     art, video footage clips and stock music licensing at the richest image search
     photo library online.
   paths: 0
-  alexa_rank: "1939"
-  api_rank: "8"
+  alexa_rank: 1939
+  api_rank: 8
 - label: Giphy
   slug: giphy
   url: http://giphy.api.gallery.streamdata.io
@@ -2543,7 +2543,7 @@
     generally looking to discover or create that next big meme.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: GitHub
   slug: github
   url: http://github.api.gallery.streamdata.io
@@ -2553,8 +2553,8 @@
     workflow.    Whether using GitHub.com or your own instance of GitHub Enterprise,
     you can integrate ...
   paths: 0
-  alexa_rank: "70"
-  api_rank: "10"
+  alexa_rank: 70
+  api_rank: 10
 - label: Gitter
   slug: gitter
   url: http://gitter.api.gallery.streamdata.io
@@ -2562,8 +2562,8 @@
   description: Gitter is a chat and networking platform that helps to manage, grow
     and connect communities through messaging, content and discovery.
   paths: 0
-  alexa_rank: "18282"
-  api_rank: "8"
+  alexa_rank: 18282
+  api_rank: 8
 - label: GlobalChange.gov
   slug: globalchange-gov
   url: http://globalchange.gov.api.gallery.streamdata.io
@@ -2575,7 +2575,7 @@
     change.&rdquo;
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Gmail
   slug: gmail
   url: http://gmail.api.gallery.streamdata.io
@@ -2585,7 +2585,7 @@
     is the best choice for authorized access to a users Gmail data.
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Google Adsense
   slug: google-adsense
   url: http://google.adsense.api.gallery.streamdata.io
@@ -2596,7 +2596,7 @@
     You can make more money online.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Analytics
   slug: google-analytics
   url: http://google.analytics.api.gallery.streamdata.io
@@ -2607,7 +2607,7 @@
     whole organization.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google API Discovery Service
   slug: google-api-discovery-service
   url: http://google.api.discovery.service.api.gallery.streamdata.io
@@ -2617,7 +2617,7 @@
     JSON-based API that exposes machine-readable metadata about Google APIs.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google App Engine
   slug: google-app-engine
   url: http://google.app.engine.api.gallery.streamdata.io
@@ -2629,7 +2629,7 @@
     most successful companies power their applications on App Engine.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Apps Admin SDK
   slug: google-apps-admin-sdk
   url: http://google.apps.admin.sdk.api.gallery.streamdata.io
@@ -2642,7 +2642,7 @@
     customer and user usage reports.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Apps Script Execution
   slug: google-apps-script-execution
   url: http://google.apps.script.execution.api.gallery.streamdata.io
@@ -2656,7 +2656,7 @@
     and click the Scopes tab.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Beacons
   slug: google-beacons
   url: http://google.beacons.api.gallery.streamdata.io
@@ -2669,7 +2669,7 @@
     apps and the web.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Biquery
   slug: google-biquery
   url: http://google.biquery.api.gallery.streamdata.io
@@ -2682,7 +2682,7 @@
     500 companies.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Books
   slug: google-books
   url: http://google.books.api.gallery.streamdata.io
@@ -2693,7 +2693,7 @@
     manage your personal bookshelves.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Calendar
   slug: google-calendar
   url: http://google.calendar.api.gallery.streamdata.io
@@ -2705,7 +2705,7 @@
     Python, Go, Android, iOS).
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Civic Information
   slug: google-civic-information
   url: http://google.civic.information.api.gallery.streamdata.io
@@ -2717,7 +2717,7 @@
     candidate data, and other election official information.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Classroom
   slug: google-classroom
   url: http://google.classroom.api.gallery.streamdata.io
@@ -2727,7 +2727,7 @@
     feedback, and see everything in one place. Instant. Paperless. Easy.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Billing
   slug: google-cloud-billing
   url: http://google.cloud.billing.api.gallery.streamdata.io
@@ -2736,7 +2736,7 @@
     manage billing for your projects in the Google Cloud Platform.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Container Builder
   slug: google-cloud-container-builder
   url: http://google.cloud.container.builder.api.gallery.streamdata.io
@@ -2749,7 +2749,7 @@
     you can run applications from Docker containers.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Dataproc
   slug: google-cloud-dataproc
   url: http://google.cloud.dataproc.api.gallery.streamdata.io
@@ -2761,7 +2761,7 @@
     you a powerful and complete data processing platform.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Datastore
   slug: google-cloud-datastore
   url: http://google.cloud.datastore.api.gallery.streamdata.io
@@ -2773,7 +2773,7 @@
     as ACID transactions, SQL-like queries, indexes and much more.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Deployment Manager
   slug: google-cloud-deployment-manager
   url: http://google.cloud.deployment.manager.api.gallery.streamdata.io
@@ -2785,7 +2785,7 @@
     Treat your configuration as code and perform repeatable deployments.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud DNS
   slug: google-cloud-dns
   url: http://google.cloud.dns.api.gallery.streamdata.io
@@ -2799,7 +2799,7 @@
     records using our simple user interface, command-line interface or API.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Functions
   slug: google-cloud-functions
   url: http://google.cloud.functions.api.gallery.streamdata.io
@@ -2811,7 +2811,7 @@
     all without managing any infrastructure.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Identity Access Management
   slug: google-cloud-identity-access-management
   url: http://google.cloud.identity.access.management.api.gallery.streamdata.io
@@ -2824,7 +2824,7 @@
     entire organization, with built-in auditing to ease compliance processes.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Key Management Service
   slug: google-cloud-key-management-service
   url: http://google.cloud.key.management.service.api.gallery.streamdata.io
@@ -2837,7 +2837,7 @@
     data which you need to store in Google Cloud Platform.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Machine Learning Engine
   slug: google-cloud-machine-learning-engine
   url: http://google.cloud.machine.learning.engine.api.gallery.streamdata.io
@@ -2851,7 +2851,7 @@
     of users and TBs of data.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Natural Language
   slug: google-cloud-natural-language
   url: http://google.cloud.natural.language.api.gallery.streamdata.io
@@ -2865,7 +2865,7 @@
     your request or integrate with your document storage on Google Cloud Storage.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Prediction
   slug: google-cloud-prediction
   url: http://google.cloud.prediction.api.gallery.streamdata.io
@@ -2876,7 +2876,7 @@
     analysis, spam detection, recommendation systems, and more.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Pub Sub
   slug: google-cloud-pub-sub
   url: http://google.cloud.pub.sub.api.gallery.streamdata.io
@@ -2890,7 +2890,7 @@
     (and beyond).
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Resource Manager
   slug: google-cloud-resource-manager
   url: http://google.cloud.resource.manager.api.gallery.streamdata.io
@@ -2903,7 +2903,7 @@
     resource containers.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Source Repositories
   slug: google-cloud-source-repositories
   url: http://google.cloud.source.repositories.api.gallery.streamdata.io
@@ -2917,7 +2917,7 @@
     from within the Cloud Console.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Spanner
   slug: google-cloud-spanner
   url: http://google.cloud.spanner.api.gallery.streamdata.io
@@ -2935,7 +2935,7 @@
     many Google services for years.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud SQL
   slug: google-cloud-sql
   url: http://google.cloud.sql.api.gallery.streamdata.io
@@ -2947,7 +2947,7 @@
     for applications running anywhere.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Storage
   slug: google-cloud-storage
   url: http://google.cloud.storage.api.gallery.streamdata.io
@@ -2960,7 +2960,7 @@
     data objects to users via direct download.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud User Accounts
   slug: google-cloud-user-accounts
   url: http://google.cloud.user.accounts.api.gallery.streamdata.io
@@ -2970,7 +2970,7 @@
     representations and one or more methods.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Cloud Vision
   slug: google-cloud-vision
   url: http://google.cloud.vision.api.gallery.streamdata.io
@@ -2985,7 +2985,7 @@
     with your image storage on Google Cloud Storage.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Compute Engine
   slug: google-compute-engine
   url: http://google.compute.engine.api.gallery.streamdata.io
@@ -2996,7 +2996,7 @@
     cloud computing.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Consumer Surveys
   slug: google-consumer-surveys
   url: http://google.consumer.surveys.api.gallery.streamdata.io
@@ -3008,7 +3008,7 @@
     president. That tool is Google Consumer Surveys.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Container Engine
   slug: google-container-engine
   url: http://google.container.engine.api.gallery.streamdata.io
@@ -3021,7 +3021,7 @@
     infrastructure.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Content API for Shopping
   slug: google-content-api-for-shopping
   url: http://google.content.api.for.shopping.api.gallery.streamdata.io
@@ -3035,7 +3035,7 @@
     broader choice of programming languages and data formats.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Dataflow
   slug: google-dataflow
   url: http://google.dataflow.api.gallery.streamdata.io
@@ -3046,7 +3046,7 @@
     resource management and performance optimization.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Doubleclick
   slug: google-doubleclick
   url: http://google.doubleclick.api.gallery.streamdata.io
@@ -3057,7 +3057,7 @@
     discover direct deals that sellers make available.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Drive
   slug: google-drive
   url: http://google.drive.api.gallery.streamdata.io
@@ -3069,7 +3069,7 @@
     presentations, drawings, forms, and more.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Fit
   slug: google-fit
   url: http://google.fit.api.gallery.streamdata.io
@@ -3081,7 +3081,7 @@
     is persisted when they upgrade their fitness devices.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Fonts
   slug: google-fonts
   url: http://google.fonts.api.gallery.streamdata.io
@@ -3091,7 +3091,7 @@
     licenses. You can use them in any non-commercial or commercial project.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Fusion Tables
   slug: google-fusion-tables
   url: http://google.fusion.tables.api.gallery.streamdata.io
@@ -3100,7 +3100,7 @@
     to gather, visualize, and share data tables.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Genomics
   slug: google-genomics
   url: http://google.genomics.api.gallery.streamdata.io
@@ -3113,7 +3113,7 @@
     datasets.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Glass
   slug: google-glass
   url: http://google.glass.api.gallery.streamdata.io
@@ -3123,7 +3123,7 @@
     the best experience.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Knowledge Graph Search
   slug: google-knowledge-graph-search
   url: http://google.knowledge.graph.search.api.gallery.streamdata.io
@@ -3136,7 +3136,7 @@
     content using the Knowledge Graph entities.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Manufacturer Center
   slug: google-manufacturer-center
   url: http://google.manufacturer.center.api.gallery.streamdata.io
@@ -3150,7 +3150,7 @@
     new product data at any time.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google OAuth2
   slug: google-oauth2
   url: http://google.oauth2.api.gallery.streamdata.io
@@ -3165,7 +3165,7 @@
     own client credentials), experiment with the OAuth 2.0 Playground.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google PageSpeed Insights
   slug: google-pagespeed-insights
   url: http://google.pagespeed.insights.api.gallery.streamdata.io
@@ -3178,7 +3178,7 @@
     and so the score will change as we add new rules or improve our analysis.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Partners
   slug: google-partners
   url: http://google.partners.api.gallery.streamdata.io
@@ -3189,7 +3189,7 @@
     contact leads with them, and also audits the usage of clients.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google People
   slug: google-people
   url: http://google.people.api.gallery.streamdata.io
@@ -3204,7 +3204,7 @@
     a resource name, to get private contact and public profile data for each person.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Play
   slug: google-play
   url: http://google.play.api.gallery.streamdata.io
@@ -3215,7 +3215,7 @@
     API lets you upload and publish apps, and perform other publishing-related tasks.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Plus
   slug: google-plus
   url: http://google.plus.api.gallery.streamdata.io
@@ -3226,7 +3226,7 @@
     friends to take specific actions on your site.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google QPX Express
   slug: google-qpx-express
   url: http://google.qpx.express.api.gallery.streamdata.io
@@ -3238,7 +3238,7 @@
     and new opportunities for innovation.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Google Safe Browsing
   slug: google-safe-browsing
   url: http://google.safe.browsing.api.gallery.streamdata.io
@@ -3250,7 +3250,7 @@
     list is considered unsafe.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Search Console
   slug: google-search-console
   url: http://google.search.console.api.gallery.streamdata.io
@@ -3261,7 +3261,7 @@
     provides programmatic access to the service through the APIs documented here.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Service Control
   slug: google-service-control
   url: http://google.service.control.api.gallery.streamdata.io
@@ -3272,7 +3272,7 @@
     Endpoints. This page provides an overview of what it does and how it works.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Service Management
   slug: google-service-management
   url: http://google.service.management.api.gallery.streamdata.io
@@ -3282,7 +3282,7 @@
     services and their APIs, and services created using Google Cloud Endpoints.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Sheets
   slug: google-sheets
   url: http://google.sheets.api.gallery.streamdata.io
@@ -3294,7 +3294,7 @@
     can be accessed by code as well as users.'
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Site Verification
   slug: google-site-verification
   url: http://google.site.verification.api.gallery.streamdata.io
@@ -3305,7 +3305,7 @@
     site owners.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Slides
   slug: google-slides
   url: http://google.slides.api.gallery.streamdata.io
@@ -3318,7 +3318,7 @@
     of the time it would take to create them manually.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Spectrum Database
   slug: google-spectrum-database
   url: http://google.spectrum.database.api.gallery.streamdata.io
@@ -3328,7 +3328,7 @@
     at a given geolocation.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Speech
   slug: google-speech
   url: http://google.speech.api.gallery.streamdata.io
@@ -3342,7 +3342,7 @@
     Cloud Storage, by using the same technology Google uses to power its own products.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Stackdriver Monitoring
   slug: google-stackdriver-monitoring
   url: http://google.stackdriver.monitoring.api.gallery.streamdata.io
@@ -3355,7 +3355,7 @@
     reporting, and tracing capabilities.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Google Tag Manager
   slug: google-tag-manager
   url: http://google.tag.manager.api.gallery.streamdata.io
@@ -3368,7 +3368,7 @@
     you to to deploy tags on your site quickly.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Task Queue
   slug: google-task-queue
   url: http://google.task.queue.api.gallery.streamdata.io
@@ -3379,7 +3379,7 @@
     worker services in your application.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Tasks
   slug: google-tasks
   url: http://google.tasks.api.gallery.streamdata.io
@@ -3390,7 +3390,7 @@
     and PHP) to access and edit Google Tasks data.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google Translate
   slug: google-translate
   url: http://google.translate.api.gallery.streamdata.io
@@ -3405,7 +3405,7 @@
     translations and introduce new languages and language pairs.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Google URL Shortener
   slug: google-url-shortener
   url: http://google.url.shortener.api.gallery.streamdata.io
@@ -3419,7 +3419,7 @@
     or web.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: GoToMeeting
   slug: gotomeeting
   url: http://gotomeeting.api.gallery.streamdata.io
@@ -3427,8 +3427,8 @@
   description: Citrix enables business mobility through the secure delivery of apps
     and data to any device on any network.
   paths: 0
-  alexa_rank: "7422"
-  api_rank: "7"
+  alexa_rank: 7422
+  api_rank: 7
 - label: Groupon
   slug: groupon
   url: http://groupon.api.gallery.streamdata.io
@@ -3438,7 +3438,7 @@
     extensions, and multiple-platform interfaces to work.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: GSA Per Diem API
   slug: gsa-per-diem-api
   url: http://gsa.per.diem.api.api.gallery.streamdata.io
@@ -3452,15 +3452,15 @@
     the data and create innovative uses for it.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Gumroad
   slug: gumroad
   url: http://gumroad.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1067-gumroad.jpg
   description: Sell music, comics, software, books, and films directly to your audience.
   paths: 0
-  alexa_rank: "4658"
-  api_rank: "8"
+  alexa_rank: 4658
+  api_rank: 8
 - label: Halifax Bank
   slug: halifax-bank
   url: http://halifax.bank.api.gallery.streamdata.io
@@ -3471,7 +3471,7 @@
     in 1853
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Healthcare.gov
   slug: healthcare-gov
   url: http://healthcare.gov.api.gallery.streamdata.io
@@ -3487,7 +3487,7 @@
     businesses.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Heroku
   slug: heroku
   url: http://heroku.api.gallery.streamdata.io
@@ -3495,8 +3495,8 @@
   description: Heroku is a platform as a service (PaaS) that enables developers to
     build, run, and operate applications entirely in the cloud.
   paths: 0
-  alexa_rank: "6044"
-  api_rank: "8"
+  alexa_rank: 6044
+  api_rank: 8
 - label: HHS Media Services
   slug: hhs-media-services
   url: http://hhs.media.services.api.gallery.streamdata.io
@@ -3506,7 +3506,7 @@
     platform, which is available in Java and .NET.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: HSBC
   slug: hsbc
   url: http://hsbc.api.gallery.streamdata.io
@@ -3522,8 +3522,8 @@
     Corporation. The company was first formally incorporated in 1866. The company
     continues to see both the United Kingdom and Hong Kong as its home markets.
   paths: 0
-  alexa_rank: "8074"
-  api_rank: "8"
+  alexa_rank: 8074
+  api_rank: 8
 - label: IBM Cloud
   slug: ibm-cloud
   url: http://ibm.cloud.api.gallery.streamdata.io
@@ -3534,8 +3534,8 @@
     protect it, move it, integrate it and unlock intelligence from it &mdash; giving
     you what it takes to prevail in a competitive market.
   paths: 0
-  alexa_rank: "11207"
-  api_rank: "8"
+  alexa_rank: 11207
+  api_rank: 8
 - label: IBM Watson
   slug: ibm-watson
   url: http://ibm.watson.api.gallery.streamdata.io
@@ -3546,7 +3546,7 @@
     across many different industries.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Iconfinder
   slug: iconfinder
   url: http://iconfinder.api.gallery.streamdata.io
@@ -3554,8 +3554,8 @@
   description: Iconfinder is the leading search engine and market place for vector
     icons in SVG, PNG, CSH and AI format..
   paths: 0
-  alexa_rank: "4089"
-  api_rank: "7"
+  alexa_rank: 4089
+  api_rank: 7
 - label: IEX
   slug: iex
   url: http://iex.api.gallery.streamdata.io
@@ -3563,16 +3563,16 @@
   description: IEX, the Investors Exchange, is a fair, simple and transparent stock
     exchange dedicated to investor and issuer protection.
   paths: 0
-  alexa_rank: "225220"
-  api_rank: "9"
+  alexa_rank: 225220
+  api_rank: 9
 - label: Import.io
   slug: import-io
   url: http://import.io.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1728-import-io.jpg
   description: Home Page - Import.io - Web Scraping, Data Extraction and Web Harvesting
   paths: 0
-  alexa_rank: "87026"
-  api_rank: "9"
+  alexa_rank: 87026
+  api_rank: 9
 - label: Infermedica
   slug: infermedica
   url: http://infermedica.api.gallery.streamdata.io
@@ -3586,7 +3586,7 @@
     integrate our diagnostic engine into 3rd party software.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Instagram
   slug: instagram
   url: http://instagram.api.gallery.streamdata.io
@@ -3600,7 +3600,7 @@
     to their images. The maximum duration for Instagram videos is 15 seconds.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: Instructure
   slug: instructure
   url: http://instructure.api.gallery.streamdata.io
@@ -3608,8 +3608,8 @@
   description: Instructure makes software that makes smarter people. Products include
     Canvas LMS, Bridge and Canvas Network.
   paths: 0
-  alexa_rank: "367"
-  api_rank: "8"
+  alexa_rank: 367
+  api_rank: 8
 - label: International Trade Administration
   slug: international-trade-administration
   url: http://international.trade.administration.api.gallery.streamdata.io
@@ -3619,8 +3619,8 @@
     the rigorous enforcement of our trade laws and agreements. ITA works to improve
     the global busi...
   paths: 0
-  alexa_rank: "81093"
-  api_rank: "10"
+  alexa_rank: 81093
+  api_rank: 10
 - label: Intrinio
   slug: intrinio
   url: http://intrinio.api.gallery.streamdata.io
@@ -3629,8 +3629,8 @@
     those data feeds. Affordable, easy to access financial data for developers and
     investors
   paths: 0
-  alexa_rank: "321628"
-  api_rank: "8"
+  alexa_rank: 321628
+  api_rank: 8
 - label: Jumpseller
   slug: jumpseller
   url: http://jumpseller.api.gallery.streamdata.io
@@ -3640,8 +3640,8 @@
     After releasing the product we quickly grew to thousands of customers. In November
     2010, we recei...
   paths: 0
-  alexa_rank: "153745"
-  api_rank: "7"
+  alexa_rank: 153745
+  api_rank: 7
 - label: Kaltura
   slug: kaltura
   url: http://kaltura.api.gallery.streamdata.io
@@ -3656,8 +3656,8 @@
     and is the initiator and backer of the worlds leading open-source video-management
     project, which is home to more than 100,000 community members.
   paths: 0
-  alexa_rank: "23496"
-  api_rank: "7"
+  alexa_rank: 23496
+  api_rank: 7
 - label: Knoema
   slug: knoema
   url: http://knoema.api.gallery.streamdata.io
@@ -3666,8 +3666,8 @@
     interests in statistics and data analysis, visual storytelling and making infographics
     and data-driven presentations
   paths: 0
-  alexa_rank: "38551"
-  api_rank: "8"
+  alexa_rank: 38551
+  api_rank: 8
 - label: LaunchDarkly
   slug: launchdarkly
   url: http://launchdarkly.api.gallery.streamdata.io
@@ -3685,8 +3685,8 @@
     customers faster, and produce more value. Developers can build, marketing can
     launch, product can iterate, and sales can sell.
   paths: 0
-  alexa_rank: "187776"
-  api_rank: "7"
+  alexa_rank: 187776
+  api_rank: 7
 - label: Learnifier
   slug: learnifier
   url: http://learnifier.api.gallery.streamdata.io
@@ -3695,8 +3695,8 @@
     tool for creating and sharing great courses that work on your mobile, tablet and
     desktop. Book a DEMO or test it out with our FREE TRIAL.
   paths: 0
-  alexa_rank: "5836977"
-  api_rank: "7"
+  alexa_rank: 5836977
+  api_rank: 7
 - label: link.fish
   slug: link-fish
   url: http://link.fish.api.gallery.streamdata.io
@@ -3709,7 +3709,7 @@
     for everbody to see. All changes made will immediately be visible by everyone.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: LinkedIn
   slug: linkedin
   url: http://linkedin.api.gallery.streamdata.io
@@ -3717,8 +3717,8 @@
   description: 500 million+ members | Manage your professional identity. Build and
     engage with your professional network. Access knowledge, insights and opportunities.
   paths: 0
-  alexa_rank: "31"
-  api_rank: "8"
+  alexa_rank: 31
+  api_rank: 8
 - label: Lloyds Bank
   slug: lloyds-bank
   url: http://lloyds.bank.api.gallery.streamdata.io
@@ -3730,8 +3730,8 @@
     companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds
     TSB Bank plc between 1999 and 2013.
   paths: 0
-  alexa_rank: "4007"
-  api_rank: "7"
+  alexa_rank: 4007
+  api_rank: 7
 - label: LoginRadius
   slug: loginradius
   url: http://loginradius.api.gallery.streamdata.io
@@ -3740,16 +3740,16 @@
     business with better understanding of your audience using our customer identity
     management
   paths: 0
-  alexa_rank: "60839"
-  api_rank: "8"
+  alexa_rank: 60839
+  api_rank: 8
 - label: Lota Data
   slug: lota-data
   url: http://lota.data.api.gallery.streamdata.io
   image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Lufthansa
   slug: lufthansa
   url: http://lufthansa.api.gallery.streamdata.io
@@ -3757,8 +3757,8 @@
   description: Book your flights to Germany, Italy, UK or France online at attractive
     low fares. Fly via Frankfurt, Munich or Zurich - Lufthansa United States of America
   paths: 0
-  alexa_rank: "3886"
-  api_rank: "7"
+  alexa_rank: 3886
+  api_rank: 7
 - label: Lyft
   slug: lyft
   url: http://lyft.api.gallery.streamdata.io
@@ -3770,7 +3770,7 @@
     better connected. Lyft now operates in 68 cities across the U.S.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Lykke
   slug: lykke
   url: http://lykke.api.gallery.streamdata.io
@@ -3778,8 +3778,8 @@
   description: Lykke is a movement to build one global marketplace that is a level
     playing field where everyone has access.
   paths: 0
-  alexa_rank: "152167"
-  api_rank: "8"
+  alexa_rank: 152167
+  api_rank: 8
 - label: Mailgun
   slug: mailgun
   url: http://mailgun.api.gallery.streamdata.io
@@ -3790,8 +3790,8 @@
     Malign provides a free trial to learn about services, and pay as you go, unit
     based pricing to continue from there, including volume pricing for increased usage.
   paths: 0
-  alexa_rank: "24750"
-  api_rank: "8"
+  alexa_rank: 24750
+  api_rank: 8
 - label: Mailjet
   slug: mailjet
   url: http://mailjet.api.gallery.streamdata.io
@@ -3801,8 +3801,8 @@
     it now with 6000 emails/mo absolutely free. Sign up now, or read more about how
     we can help your busine...
   paths: 0
-  alexa_rank: "20242"
-  api_rank: "9"
+  alexa_rank: 20242
+  api_rank: 9
 - label: MasterCard
   slug: mastercard
   url: http://mastercard.api.gallery.streamdata.io
@@ -3810,8 +3810,8 @@
   description: Mastercard is a leading global payments & technology company that connects
     consumers, businesses, merchants, issuers & governments around the world.
   paths: 0
-  alexa_rank: "48280"
-  api_rank: "9"
+  alexa_rank: 48280
+  api_rank: 9
 - label: Matrix
   slug: matrix
   url: http://matrix.api.gallery.streamdata.io
@@ -3819,8 +3819,8 @@
   description: An open standard for decentralised secure communication. Please support
     at https://t.co/oZd61hbMx3! | bridged to https://t.co/ujgzEXDSa4
   paths: 0
-  alexa_rank: "156652"
-  api_rank: "8"
+  alexa_rank: 156652
+  api_rank: 8
 - label: Mattermost
   slug: mattermost
   url: http://mattermost.api.gallery.streamdata.io
@@ -3829,8 +3829,8 @@
     web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure,
     configurable, and scalable from teams to the enterprise.
   paths: 0
-  alexa_rank: "95684"
-  api_rank: "8"
+  alexa_rank: 95684
+  api_rank: 8
 - label: Medium
   slug: medium
   url: http://medium.api.gallery.streamdata.io
@@ -3840,7 +3840,7 @@
     contributions and professional, paid contributions, an example of social journalism.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Messente
   slug: messente
   url: http://messente.api.gallery.streamdata.io
@@ -3850,8 +3850,8 @@
     sign-up fees.     http://messente.com/contact    Were a forward-thinking team.
     Our purpose is to connect ...
   paths: 0
-  alexa_rank: "677156"
-  api_rank: "7"
+  alexa_rank: 677156
+  api_rank: 7
 - label: Microsoft Graph
   slug: microsoft-graph
   url: http://microsoft.graph.api.gallery.streamdata.io
@@ -3865,7 +3865,7 @@
     and insights from the Microsoft cloud (for commercial users).'
   paths: 0
   alexa_rank: ~
-  api_rank: "10"
+  api_rank: 10
 - label: Microsoft Office 365
   slug: microsoft-office-365
   url: http://microsoft.office.365.api.gallery.streamdata.io
@@ -3874,7 +3874,7 @@
     own app to connect to files, calendars, mail and more.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: MotaWord
   slug: motaword
   url: http://motaword.api.gallery.streamdata.io
@@ -3888,7 +3888,7 @@
     translators makes MotaWord exceptionally fast and highly accurate.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Mynewsdesk
   slug: mynewsdesk
   url: http://mynewsdesk.api.gallery.streamdata.io
@@ -3897,8 +3897,8 @@
     your brand, create your story, identify and engage your audience and analyze the
     results
   paths: 0
-  alexa_rank: "26576"
-  api_rank: "7"
+  alexa_rank: 26576
+  api_rank: 7
 - label: MySpace Developers
   slug: myspace-developers
   url: http://myspace.developers.api.gallery.streamdata.io
@@ -3906,8 +3906,8 @@
   description: 'AskMyspace: http://askmyspace.com  Twitter: http://twitter.com/Myspace  Instagram:
     http://instagram.com/Myspace  Tumblr: http://myspace.tumblr.com  YouTube: http://www.youtube.com/Myspace'
   paths: 0
-  alexa_rank: "4691"
-  api_rank: "7"
+  alexa_rank: 4691
+  api_rank: 7
 - label: National Renewable Energy Laboratory
   slug: national-renewable-energy-laboratory
   url: http://national.renewable.energy.laboratory.api.gallery.streamdata.io
@@ -3916,8 +3916,8 @@
     laboratory for renewable energy and energy efficiency research and development
     (R&D).
   paths: 0
-  alexa_rank: "31023"
-  api_rank: "7"
+  alexa_rank: 31023
+  api_rank: 7
 - label: Nationwide Building Society
   slug: nationwide-building-society
   url: http://nationwide.building.society.api.gallery.streamdata.io
@@ -3931,7 +3931,7 @@
     is now the second largest provider of household savings and mortgages in the UK.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: NatWest
   slug: natwest
   url: http://natwest.api.gallery.streamdata.io
@@ -3945,7 +3945,7 @@
     Holdings. NatWest Markets comprises its investment banking arm.
   paths: 0
   alexa_rank: ~
-  api_rank: "8"
+  api_rank: 8
 - label: Netatmo
   slug: netatmo
   url: http://netatmo.api.gallery.streamdata.io
@@ -3958,7 +3958,7 @@
     to be simple to operate, yet deliver a rich user experience.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: NetLicensing
   slug: netlicensing
   url: http://netlicensing.api.gallery.streamdata.io
@@ -3969,8 +3969,8 @@
     on their product&rsquo;s core functionality instead of spending resources on developing
     an own license management software.
   paths: 0
-  alexa_rank: "1080577"
-  api_rank: "7"
+  alexa_rank: 1080577
+  api_rank: 7
 - label: New York Times
   slug: new-york-times
   url: http://new.york.times.api.gallery.streamdata.io
@@ -3980,7 +3980,7 @@
     Founded in 1851, the paper has won 122 Pulitzer Prizes, more than any other newspaper.
   paths: 0
   alexa_rank: ~
-  api_rank: "9"
+  api_rank: 9
 - label: News API
   slug: news-api
   url: http://news.api.api.gallery.streamdata.io
@@ -3988,8 +3988,8 @@
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API.
   paths: 0
-  alexa_rank: "149236"
-  api_rank: "9"
+  alexa_rank: 149236
+  api_rank: 9
 - label: NewsCred
   slug: newscred
   url: http://newscred.api.gallery.streamdata.io
@@ -3997,8 +3997,8 @@
   description: NewsCred is the leading enterprise content marketing company. NewsCred
     delivers content marketing solutions that drive business results for top brands
   paths: 0
-  alexa_rank: "91598"
-  api_rank: "7"
+  alexa_rank: 91598
+  api_rank: 7
 - label: Nexmo
   slug: nexmo
   url: http://nexmo.api.gallery.streamdata.io
@@ -4006,8 +4006,8 @@
   description: Nexmo, a Vonage Company, is a global cloud communications platform
     leader providing innovative APIs & SDKs for voice, text, messaging & phone verification.
   paths: 0
-  alexa_rank: "33205"
-  api_rank: "7"
+  alexa_rank: 33205
+  api_rank: 7
 - label: Next Caller
   slug: next-caller
   url: http://next.caller.api.gallery.streamdata.io
@@ -4016,8 +4016,8 @@
     real-time caller data. Accurately detect phone spoofing fraud before you pickup
     the phone and route your inbound calls intelligently
   paths: 0
-  alexa_rank: "3612031"
-  api_rank: "8"
+  alexa_rank: 3612031
+  api_rank: 8
 - label: NSIDC Web Service Documentation Index
   slug: nsidc-web-service-documentation-index
   url: http://nsidc.web.service.documentation.index.api.gallery.streamdata.io
@@ -4027,7 +4027,7 @@
     about the cryosphere.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: OneNote
   slug: onenote
   url: http://onenote.api.gallery.streamdata.io
@@ -4041,8 +4041,8 @@
     Android and Symbian.[4] A web-based version of OneNote is provided as part of
     OneDrive or Office Online and enables users to edit notes via a web browser.
   paths: 0
-  alexa_rank: "5531"
-  api_rank: "7"
+  alexa_rank: 5531
+  api_rank: 7
 - label: Open FinTech
   slug: open-fintech
   url: http://open.fintech.api.gallery.streamdata.io
@@ -4055,7 +4055,7 @@
     through Rest API based on JSON API standard.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Open Science Framework
   slug: open-science-framework
   url: http://open.science.framework.api.gallery.streamdata.io
@@ -4070,7 +4070,7 @@
     materials.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: OrgHunter
   slug: orghunter
   url: http://orghunter.api.gallery.streamdata.io
@@ -4079,8 +4079,8 @@
     donor matching services. Every charity deserves the opportunity to be discovered
     regardless of size or financial status.
   paths: 0
-  alexa_rank: "2914633"
-  api_rank: "7"
+  alexa_rank: 2914633
+  api_rank: 7
 - label: Pay Run
   slug: pay-run
   url: http://pay.run.api.gallery.streamdata.io
@@ -4090,15 +4090,15 @@
     providing realtime payroll calculations and regulatory reporting to HMRC.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: Paylocity
   slug: paylocity
   url: http://paylocity.api.gallery.streamdata.io
   image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
-  description: ""
+  description:
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 - label: PredictHQ
   slug: predicthq
   url: http://predicthq.api.gallery.streamdata.io
@@ -4107,8 +4107,8 @@
     PredictHQ is the worlds largest source of intelligent event data making businesses
     smarter.
   paths: 0
-  alexa_rank: "428389"
-  api_rank: "7"
+  alexa_rank: 428389
+  api_rank: 7
 - label: Public Transport Victoria Timetable
   slug: public-transport-victoria-timetable
   url: http://public.transport.victoria.timetable.api.gallery.streamdata.io
@@ -4123,5 +4123,5 @@
     stop facility information, and access to myki ticket outlet data.
   paths: 0
   alexa_rank: ~
-  api_rank: "7"
+  api_rank: 7
 ...
