@@ -60,22 +60,22 @@ title: Streamdata.io API Gallery - API Lifecycle
                           jQuery.each(entity[rowKey]['apisjson_index_yaml'], function(rowKey2, rowEntry2) {
 
                               console.log("HERE: " + rowKey2);
-                              entity[rowKey2] = [];
-                              entity[rowKey2]['apis_name'] = rowEntry2['name'];
+                              entity[rowKey] = [];
+                              entity[rowKey]['apis_name'] = rowEntry2['name'];
                               console.log("HERE2: " + rowEntry2['name']);
-                              entity[rowKey2]['apis_description'] = rowEntry2['description'];
-                              entity[rowKey2]['apis_slug'] = rowEntry2['x-api-slug'];
+                              entity[rowKey]['apis_description'] = rowEntry2['description'];
+                              entity[rowKey]['apis_slug'] = rowEntry2['x-api-slug'];
 
-                              console.log(entity[rowKey2]['apis_name']);
+                              console.log(entity[rowKey]['apis_name']);
 
-                              entity[rowKey2]['search_apis_name'] = entity[rowKey2]['apis_name'].search(search_keywords);
-                              entity[rowKey2]['search_apis_description'] = entity[rowKey2]['apis_description'].search(search_keywords);
+                              entity[rowKey2]['search_apis_name'] = entity[rowKey]['apis_name'].search(search_keywords);
+                              entity[rowKey2]['search_apis_description'] = entity[rowKey]['apis_description'].search(search_keywords);
 
-                              if(entity[rowKey2]['search_apis_name'] > 1 && entity[rowKey2]['search_apis_description'] > 1)
+                              if(entity[rowKey2]['search_apis_name'] > 1 && entity[rowKey]['search_apis_description'] > 1)
                                 {
 
                                 // Just APIs for now.
-                                console.log("api:" + entity[rowKey2]['apis_name'] + ' = ' + entity[rowKey2]['apis_description'] + ' - ' + entity[rowKey2]['apis_slug']);
+                                console.log("api:" + entity[rowKey]['apis_name'] + ' = ' + entity[rowKey]['apis_description'] + ' - ' + entity[rowKey]['apis_slug']);
 
                                 var searchdiv = document.createElement("div");
                                 searchdiv.setAttribute('class', "taggedLinkCard taggedLinkCard--red");
@@ -92,8 +92,8 @@ title: Streamdata.io API Gallery - API Lifecycle
                                 html = html + '</div>';
                                 html = html + '<div class="taggedLinkCard__lower">';
                                 html = html + '<div class="taggedLinkCard__copy">';
-                                html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey2]['apis_name'] + '</a></h3>';
-                                html = html + '<p class="taggedLinkCard__body">' + entity[rowKey2]['apis_description'] + '</p>';
+                                html = html + '<h3 class="taggedLinkCard__title"><a href="#">' + entity[rowKey]['apis_name'] + '</a></h3>';
+                                html = html + '<p class="taggedLinkCard__body">' + entity[rowKey]['apis_description'] + '</p>';
                                 html = html + '</div>';
                                 html = html + '</div>';
                                 html = html + '</div>';
