@@ -60,6 +60,8 @@ title: Streamdata.io API Gallery - API Lifecycle
                           jQuery.each(entity[rowKey]['apisjson_index_yaml'], function(rowKey2, rowEntry2) {
 
                               console.log("HERE: " + rowKey2);
+                              console.log("HERE 2: " + rowEntry2);
+                              
                               entity[rowKey] = [];
                               entity[rowKey]['apis_name'] = rowEntry2['name'];
                               console.log("HERE2: " + rowEntry2['name']);
