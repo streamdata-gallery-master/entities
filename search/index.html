@@ -65,6 +65,8 @@ title: Streamdata.io API Gallery - API Lifecycle
 
                           console.log(entity[rowKey]['apis_name']);
 
+                          console.log("searching: " + search_keywords);
+
                           entity[rowKey]['search_apis_name'] = entity[rowKey]['apisjson_index_yaml']['name'].search(search_keywords);
                           entity[rowKey]['search_apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'].search(search_keywords);
 
