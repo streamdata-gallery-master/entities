@@ -102,6 +102,7 @@ title: Streamdata.io API Gallery - API Lifecycle
                             entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
                             //entity[rowKey]['html'] = entity[rowKey]['html'] + '</div>';
 
+                            document.getElementById("searchlisting").appendChild(searchdiv);
                             document.getElementById("entity-"+entity[rowKey]['apis_slug']).innerHTML = entity[rowKey]['html'];
                             }
 
