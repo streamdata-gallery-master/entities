@@ -15,6 +15,13 @@ title: Streamdata.io API Gallery - Search
       {
       search_keywords = document.getElementById('search_keywords').value;
 
+      jQuery.ajax({
+         url: "http://traffic.beacon.streamdata.gallery/search/count/?search="+search_keywords,
+         method: "get",
+         success:function(traffic){
+            console.log(traffic);
+        });
+
       //console.log("searching for: " + search_keywords);
       document.getElementById('searchlisting').innerHTML == '';
 
