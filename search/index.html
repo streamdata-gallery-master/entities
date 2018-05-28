@@ -70,6 +70,9 @@ title: Streamdata.io API Gallery - API Lifecycle
                           entity[rowKey]['search_apis_name'] = entity[rowKey]['apisjson_index_yaml']['name'].search(search_keywords);
                           entity[rowKey]['search_apis_description'] = entity[rowKey]['apisjson_index_yaml']['description'].search(search_keywords);
 
+                          console.log("searched: " + entity[rowKey]['search_apis_name']);
+                          console.log("searched: 2 " + entity[rowKey]['search_apis_description']);
+
                           if(entity[rowKey]['search_apis_name'] > 1 && entity[rowKey]['search_apis_description'] > 1)
                             {
 
