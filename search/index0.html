@@ -94,7 +94,11 @@ title: Streamdata.io API Gallery - Search
                                     if(property_value.type=='x-openapi-spec')
                                       {
                                       entity[rowKey]['api_url'] = property_value.url;
-                                      entity[rowKey]['api_url'] = entity[rowKey]['api_url'].replace("https://raw.githubusercontent.com/streamdata-gallery-organizations/"+entity[rowKey]['org_slug']+"/master/_listings/","http://"+entity[rowKey]['org_dns_slug']+".api.gallery.streamdata.io/listings/"+entity[rowKey]['org_slug']+"/");
+                                      enttity[rowKey]['replace_this'] = "https://raw.githubusercontent.com/streamdata-gallery-organizations/"+entity[rowKey]['org_slug']+"/master/_listings/";
+                                      console.log("replace this: " + enttity[rowKey]['replace_this']);
+                                      enttity[rowKey]['replace_with'] = "http://"+entity[rowKey]['org_dns_slug']+".api.gallery.streamdata.io/listings/"+entity[rowKey]['org_slug']+"/";
+                                      console.log("replace with: " + enttity[rowKey]['replace_with']);
+                                      entity[rowKey]['api_url'] = entity[rowKey]['api_url'].replace(enttity[rowKey]['replace_this'],enttity[rowKey]['replace_with']);
                                       entity[rowKey]['api_url'] = entity[rowKey]['api_url'].replace(".md","/");
                                       entity[rowKey]['html'] = '<div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">';
                                       entity[rowKey]['html'] = entity[rowKey]['html'] + '<div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">';
