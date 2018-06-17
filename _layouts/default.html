@@ -7,17 +7,7 @@
   {{ content }}
   {% include footer.html %}
 
-  <script>
-    // Logging
-    jQuery.ajax({
-       url: "http://traffic.beacon.streamdata.gallery/view/count/",
-       method: "get",
-       success:function(traffic){
-          console.log(traffic);
-        },
-        error: function(XMLHttpRequest, textStatus, errorThrown) {}
-    });
-  </script>
+  {% include traffic-view-count.html %}
 
 </body>
 </html>
