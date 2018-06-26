@@ -1895,9 +1895,9 @@
   paths: 0
   alexa_rank: 1280273
   api_rank: 8
-- label: Browshot.com
-  slug: browshot-com
-  url: http://browshot.com.api.gallery.streamdata.io
+- label: Browshot
+  slug: browshot
+  url: http://browshot.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/717-browshot-com.jpg
   description: Browshot is a service to take screenshot of web pages. Use any of our
     mobile and desktop browsers. We provide a powerful API and libraries.
@@ -2386,9 +2386,9 @@
   paths: 0
   alexa_rank: 147251
   api_rank: 9
-- label: Fire Browse Beta API
-  slug: fire-browse-beta-api
-  url: http://fire.browse.beta.api.api.gallery.streamdata.io
+- label: Fire Browse
+  slug: fire-browse
+  url: http://fire.browse.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebrowse.png
   description: A simple and elegant way to explore cancer data. Sitting above one
     of the deepest and most integratively characterized open cancer datasets in the
