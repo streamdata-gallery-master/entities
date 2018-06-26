@@ -179,15 +179,15 @@
   paths: 0
   alexa_rank: 0
   api_rank: 10
-- label: AWS AppStream 2.0
-  slug: aws-appstream-2-0
-  url: http://aws.appstream.2.0.api.gallery.streamdata.io
+- label: AWS AppStream
+  slug: aws-appstream
+  url: http://aws.appstream.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/appstream2_try_it_now_2_big.png
-  description: Amazon AppStream 2.0 is a fully managed, secure application streaming
-    service that allows you to stream desktop applications from AWS to any device
-    running a web browser, without rewriting them. Amazon AppStream 2.0 provides users
-    instant-on access to the applications they need, and a responsive, fluid user
-    experience on the device of their choice.
+  description: Amazon AppStream is a fully managed, secure application streaming service
+    that allows you to stream desktop applications from AWS to any device running
+    a web browser, without rewriting them. Amazon AppStream 2.0 provides users instant-on
+    access to the applications they need, and a responsive, fluid user experience
+    on the device of their choice.
   paths: 0
   alexa_rank: 0
   api_rank: 10
@@ -1974,14 +1974,6 @@
     you. Now is the time to join our beta program, and help us shape the future.
   paths: 0
   alexa_rank: 0
-  api_rank: 9
-- label: Clarify
-  slug: clarify
-  url: http://clarify.api.gallery.streamdata.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3503-clarify.jpg
-  description: The API to search, re-imagined for a world that???s moved beyond text.
-  paths: 0
-  alexa_rank: 2476786
   api_rank: 9
 - label: Clearbit
   slug: clearbit
@@ -3927,6 +3919,16 @@
   paths: 0
   alexa_rank: 31023
   api_rank: 7
+- label: National Snow and Ice Data Center
+  slug: national-snow-and-ice-data-center
+  url: http://national.snow.and.ice.data.center.api.gallery.streamdata.io
+  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
+  description: NSIDC manages and distributes scientific data, creates tools for data
+    access, supports data users, performs scientific research, and educates the public
+    about the cryosphere.
+  paths: 0
+  alexa_rank: 0
+  api_rank: 7
 - label: Nationwide Building Society
   slug: nationwide-building-society
   url: http://nationwide.building.society.api.gallery.streamdata.io
@@ -3980,9 +3982,9 @@
   paths: 0
   alexa_rank: 1080577
   api_rank: 7
-- label: News API \U0001F5DE\uFE0F
-  slug: news-api-
-  url: http://news.api..api.gallery.streamdata.io
+- label: News API
+  slug: news-api
+  url: http://news.api.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-news-api.jpg
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API.
@@ -4036,16 +4038,6 @@
   paths: 0
   alexa_rank: 598
   api_rank: 9
-- label: NSIDC Web Service Documentation Index
-  slug: nsidc-web-service-documentation-index
-  url: http://nsidc.web.service.documentation.index.api.gallery.streamdata.io
-  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-icon.png
-  description: NSIDC manages and distributes scientific data, creates tools for data
-    access, supports data users, performs scientific research, and educates the public
-    about the cryosphere.
-  paths: 0
-  alexa_rank: 0
-  api_rank: 7
 - label: OneNote
   slug: onenote
   url: http://onenote.api.gallery.streamdata.io
@@ -4113,9 +4105,9 @@
   paths: 0
   alexa_rank: 6810
   api_rank: 7
-- label: PayRun.io
-  slug: payrun-io
-  url: http://payrun.io.api.gallery.streamdata.io
+- label: PayRun
+  slug: payrun
+  url: http://payrun.api.gallery.streamdata.io
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg
   description: An open, scalable, transparent and HMRC accredited payroll API. Put
     the power of payroll into your application today.
